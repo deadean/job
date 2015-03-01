@@ -46,9 +46,9 @@ namespace ToDo.UI.DataBases.Implementations.ModelService
 
 		#region Public Methods
 
-		public Task SaveEntity<T>(T item) where T : IEntity
+		public Task SaveEntity<T>(T item) where T : IEntity, new()
 		{
-			return null;
+			return modStorage.Save<T>(item);
 		}
 
 		public Task UpdateEntityAsync<T>(T item) where T : IEntity, new()
@@ -56,7 +56,7 @@ namespace ToDo.UI.DataBases.Implementations.ModelService
 			return modStorage.Update<T>(item);
 		}
 
-		public Task<T> CreateEntity<T>() where T : IEntity
+		public Task<T> CreateEntity<T>()
 		{
 			return Task.Run(() => modFactoryObjects.GetObjectFromFactory<T>());
 		}

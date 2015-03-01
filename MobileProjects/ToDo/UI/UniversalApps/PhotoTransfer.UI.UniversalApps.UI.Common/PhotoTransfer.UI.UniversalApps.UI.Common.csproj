@@ -46,6 +46,7 @@
   <ItemGroup>
     <Compile Include="Bases\Pages\PageBase.cs" />
     <Compile Include="Extensions\FileExtensions.cs" />
+    <Compile Include="Implementations\Converters\BoolToVisibilityInvertConverter.cs" />
     <Compile Include="Implementations\Converters\BoolToVisibilityConverter.cs" />
     <Compile Include="Implementations\Navigation\LoadStateEventArgs.cs" />
     <Compile Include="Implementations\Navigation\SaveStateEventArgs.cs" />

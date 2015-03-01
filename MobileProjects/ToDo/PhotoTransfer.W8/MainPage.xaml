@@ -5,51 +5,76 @@
     xmlns:local="using:ToDo.W8"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-	xmlns:common="using:ToDo.UI.UniversalApps.UI.Common.Bases.Pages"
+		xmlns:common="using:ToDo.UI.UniversalApps.UI.Common.Bases.Pages"
+		xmlns:converters="using:ToDo.UI.UniversalApps.UI.Common.Implementations.Converters"
     mc:Ignorable="d">
 
-    <common:PageBase.Resources>
-        <ResourceDictionary>
-            <ResourceDictionary.MergedDictionaries>
-                <ResourceDictionary Source="Resources/Styles/Styles.xaml"/>
-            </ResourceDictionary.MergedDictionaries>
-        </ResourceDictionary>
-        
-    </common:PageBase.Resources>
+	<common:PageBase.Resources>
+		<ResourceDictionary>
+			<ResourceDictionary.MergedDictionaries>
+				<ResourceDictionary Source="Resources/Styles/Styles.xaml"/>
+			</ResourceDictionary.MergedDictionaries>
 
-    <Grid Background="#FFB5ADE6">
-        <Grid.RowDefinitions>
-            <RowDefinition Height="1*"/>
-            <RowDefinition Height="4*"/>
-        </Grid.RowDefinitions>
+			<converters:BoolToVisibilityConverter x:Key="BooleanToVisibilityConverter"/>
+			<converters:BoolToVisibilityInvertConverter x:Key="BoolToVisibilityInvertConverter"/>
+		</ResourceDictionary>
 
-        <TextBlock Grid.Row="0" Text="My Todo List" LineHeight="21.333" FontFamily="Freestyle Script" FontSize="96" TextAlignment="Center" Foreground="#FFF8FF66" Margin="0,20,0,0"/>
+		
+	</common:PageBase.Resources>
 
-        <Grid Grid.Row="1">
+	<Grid Background="#FFB5ADE6">
+		<Grid.RowDefinitions>
+			<RowDefinition Height="1*"/>
+			<RowDefinition Height="4*"/>
+		</Grid.RowDefinitions>
 
-            <Grid.RowDefinitions>
-                <RowDefinition Height="Auto"/>
-                <RowDefinition Height="*"/>
-            </Grid.RowDefinitions>
+		<TextBlock Grid.Row="0" Text="My Todo List" LineHeight="21.333" FontFamily="Freestyle Script" FontSize="96" TextAlignment="Center" Foreground="#FFF8FF66" Margin="0,20,0,0"/>
 
-            <AppBarButton Grid.Row="0" IsCompact="True"
-                          Content="Add" HorizontalAlignment="Right" Margin="0,0,20,0" Icon="Add"/>
+		<Grid Grid.Row="1">
 
-            <ListView Grid.Row="1" ItemsSource="{Binding Path=ToDos}"
+			<Grid.RowDefinitions>
+				<RowDefinition Height="70"/>
+				<RowDefinition Height="*"/>
+			</Grid.RowDefinitions>
+			
+			<Grid.ColumnDefinitions>
+				<ColumnDefinition Width="10"/>
+				<ColumnDefinition Width="*"/>
+				<ColumnDefinition Width="Auto"/>
+			</Grid.ColumnDefinitions>
+
+			<AppBarButton Grid.Row="0" Grid.Column="2" 
+										Padding="0" IsCompact="True" VerticalAlignment="Top"
+										Command="{Binding Path=AddToDoCommand}" 
+										Visibility="{Binding Path=IsAdding, Converter={StaticResource ResourceKey=BoolToVisibilityInvertConverter}}"
+										HorizontalAlignment="Right" Icon="Add"/>
+
+			<AppBarButton Grid.Row="0" Grid.Column="2" 
+										Padding="0" IsCompact="True" VerticalAlignment="Top"
+										Command="{Binding Path=SaveToDoCommand}" 
+										Visibility="{Binding Path=IsAdding, Converter={StaticResource ResourceKey=BooleanToVisibilityConverter}}"
+										HorizontalAlignment="Right" Icon="Save"/>
+
+			<StackPanel Grid.Row="0" Grid.Column="1" VerticalAlignment="Center"
+									Visibility="{Binding Path=IsAdding, Converter={StaticResource BooleanToVisibilityConverter}}">
+				<TextBox PlaceholderText="Add new to-do ..." Text="{Binding Path=Name, Mode=TwoWay}" VerticalAlignment="Center"/>
+			</StackPanel>
+
+			<ListView Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2" ItemsSource="{Binding Path=ToDos, UpdateSourceTrigger=PropertyChanged}"
                       >
-                <ListView.ItemTemplate>
-                    <DataTemplate>
-                        <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
-                            <TextBlock Margin="10,0,0,0" Text="{Binding Path=Name}"/>
-                        </StackPanel>
-                    </DataTemplate>
-                </ListView.ItemTemplate>
-                
-            </ListView>
+				<ListView.ItemTemplate>
+					<DataTemplate>
+						<StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+							<TextBlock Margin="10,0,0,0" Text="{Binding Path=Name}"/>
+						</StackPanel>
+					</DataTemplate>
+				</ListView.ItemTemplate>
 
-        </Grid>
+			</ListView>
+
+		</Grid>
 
 
 
-    </Grid>
+	</Grid>
 </common:PageBase>
