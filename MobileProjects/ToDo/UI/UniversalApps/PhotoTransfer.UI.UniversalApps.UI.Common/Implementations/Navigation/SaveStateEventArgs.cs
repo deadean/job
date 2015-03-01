@@ -1,0 +1,26 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ToDo.UI.UniversalApps.UI.Common.Implementations.Navigation
+{
+	public class SaveStateEventArgs : EventArgs
+	{
+		/// <summary>
+		/// An empty dictionary to be populated with serializable state.
+		/// </summary>
+		public Dictionary<string, Object> PageState { get; private set; }
+
+		/// <summary>
+		/// Initializes a new instance of the <see cref="SaveStateEventArgs"/> class.
+		/// </summary>
+		/// <param name="pageState">An empty dictionary to be populated with serializable state.</param>
+		public SaveStateEventArgs(Dictionary<string, Object> pageState)
+			: base()
+		{
+			this.PageState = pageState;
+		}
+	}
+}

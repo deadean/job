@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ToDo.UI.Common.VVms.Implementations.Views.MainPage.MainPage">
+  <ContentPage.Resources>
+    <ResourceDictionary>
+      <Style x:Key="styleOpenPhotoButton" TargetType="Button">
+        <Setter Property="BackgroundColor" Value="#FF2E5CB3"/>
+      </Style>
+      <Style x:Key="styleMakePhotoButton" TargetType="Button">
+        <Setter Property="BackgroundColor" Value="#FF4484F1"/>
+      </Style>
+      <Style x:Key="styleSyncPhotoButton" TargetType="Button">
+        <Setter Property="BackgroundColor" Value="#FF133A83"/>
+      </Style>
+    </ResourceDictionary>
+  </ContentPage.Resources>
+  <Grid>
+
+    <Grid.RowDefinitions>
+      <RowDefinition Height="*"/>
+      <RowDefinition Height="*"/>
+      <RowDefinition Height="*"/>
+    </Grid.RowDefinitions>
+
+    <Grid.Children>
+      <Button Grid.Row="0" Text="Open Photo" Command="{Binding OpenPhotoCommand}"
+              Style="{StaticResource styleOpenPhotoButton}"
+              />
+      <Button Grid.Row="1" Text="Make Photo" Command="{Binding TakePhotoCommand}"
+              Style="{StaticResource styleMakePhotoButton}"/>
+      <Button Grid.Row="2" Text="Synchronize" Command="{Binding SyncPhotoCommand}"
+              Style="{StaticResource styleSyncPhotoButton}"/>
+    </Grid.Children>
+  </Grid>
+</ContentPage>

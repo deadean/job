@@ -1,0 +1,25 @@
+﻿using ToDo.Data.Interfaces.Entities;
+using ToDo.UI.DataBases.Interfaces.DataBases;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ToDo.UI.DataBases.Interfaces.DataBases
+{
+	public interface ISQLiteDataAccessService
+	{
+		Task Save<T>(T item)
+			where T : IEntity, new();
+
+		Task Update<T>(T item)
+			where T : IEntity, new();
+
+		Task<List<T>> Items<T>()
+			where T : IEntity, new();
+
+		Task<T> ItemById<T>(string id)
+			where T : IEntity, new();
+	}
+}

@@ -1,0 +1,13 @@
+C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\WebService\WebApi.Web.Data\bin\Debug\WebApi.Web.Data.dll
+C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\WebService\WebApi.Web.Data\bin\Debug\WebApi.Web.Data.pdb
+C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\WebService\WebApi.Web.Data\bin\Debug\WebApi.Common.dll
+C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\WebService\WebApi.Web.Data\bin\Debug\WebApi.Data.dll
+C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\WebService\WebApi.Web.Data\bin\Debug\log4net.dll
+C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\WebService\WebApi.Web.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\WebService\WebApi.Web.Data\bin\Debug\WebApi.Common.pdb
+C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\WebService\WebApi.Web.Data\bin\Debug\WebApi.Data.pdb
+C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\WebService\WebApi.Web.Data\bin\Debug\log4net.xml
+C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\WebService\WebApi.Web.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\WebService\WebApi.Web.Data\obj\Debug\WebApi.Web.Data.dll
+C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\WebService\WebApi.Web.Data\obj\Debug\WebApi.Web.Data.pdb
+C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\WebService\WebApi.Web.Data\obj\Debug\WebApi.Web.Data.csprojResolveAssemblyReference.cache

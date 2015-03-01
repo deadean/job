@@ -1,0 +1,46 @@
+﻿<common:PageBase
+    x:Class="PhotoTransfer.UI.Platform.UniversalApps.UI.VVms.Common.Implementations.Views.SaveCommentsPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:PhotoTransfer.UI.Platform.UniversalApps.UI.VVms.Common.Implementations.Views"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+		xmlns:common="using:PhotoTransfer.UI.UniversalApps.UI.Common.Bases.Pages"
+    xmlns:tb="using:PhotoTransfer.UI.Platform.UniversalApps.UI.VVms.Common.Controls.TextBox"
+    mc:Ignorable="d">
+
+	<Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+		<Grid.RowDefinitions>
+			<RowDefinition Height="10" />
+			<RowDefinition Height="Auto" />
+			<RowDefinition Height="50" />
+			<RowDefinition Height="Auto" />
+			<RowDefinition Height="70" />
+		</Grid.RowDefinitions>
+
+		<AppBarButton Grid.Row="1"
+                      VerticalAlignment="Top"
+                      IsCompact="True"     
+                      Icon="Back" 
+                      Command="{Binding Path=BackCommand}"
+                      />
+
+		<TextBlock Grid.Row="2" Text="Введите комментарий к файлу" 
+                       FontSize="24"
+                       HorizontalAlignment="Left" />
+
+		<tb:SRTextBox Grid.Row="3" FontSize="16"
+                      TextValue="{Binding Path=Comment, Mode=TwoWay}"
+                 VerticalAlignment="Top" />
+
+		<AppBarButton Grid.Row="4"
+                      IsCompact="True"     
+                      Icon="Accept" 
+                      VerticalAlignment="Top"
+                      HorizontalAlignment="Right"
+                      Command="{Binding SavePhotoCommentCommand}"
+                      />
+
+	</Grid>
+</common:PageBase>
+

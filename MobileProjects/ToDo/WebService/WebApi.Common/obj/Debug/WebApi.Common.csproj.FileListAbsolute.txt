@@ -1,0 +1,9 @@
+C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\WebService\WebApi.Common\bin\Debug\WebApi.Common.dll
+C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\WebService\WebApi.Common\bin\Debug\WebApi.Common.pdb
+C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\WebService\WebApi.Common\bin\Debug\log4net.dll
+C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\WebService\WebApi.Common\bin\Debug\Newtonsoft.Json.dll
+C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\WebService\WebApi.Common\bin\Debug\log4net.xml
+C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\WebService\WebApi.Common\bin\Debug\Newtonsoft.Json.xml
+C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\WebService\WebApi.Common\obj\Debug\WebApi.Common.csprojResolveAssemblyReference.cache
+C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\WebService\WebApi.Common\obj\Debug\WebApi.Common.dll
+C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\WebService\WebApi.Common\obj\Debug\WebApi.Common.pdb

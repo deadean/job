@@ -1,0 +1,51 @@
+﻿<common:PageBase
+    x:Class="PhotoTransfer.Implementations.Views.Photo.PagePhotoSaving"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:PhotoTransfer.Implementations.Views.Photo"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:tb="using:PhotoTransfer.UI.Platform.UniversalApps.UI.VVms.Common.Controls.TextBox"
+   	xmlns:common="using:PhotoTransfer.UI.UniversalApps.UI.Common.Bases.Pages"
+
+    xmlns:converters="using:PhotoTransfer.UI.UniversalApps.UI.Common.Implementations.Converters"
+    mc:Ignorable="d">
+    
+    <common:PageBase.Resources>
+        <converters:BoolToVisibilityConverter x:Key="BoolToVisibilityConverter"/>
+    </common:PageBase.Resources>
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Image Grid.Row="0" x:Name="Image" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" />
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+
+            <tb:SRTextBox Name="NameContainer" Grid.Column="0"                           
+                          TextValue="{Binding Name, Mode=TwoWay}" />
+
+            <AppBarButton Grid.Column="1"
+                      IsCompact="True"     
+                      Icon="Accept" 
+                      Command="{Binding SavePhotoCommand}"
+                      />
+        </Grid>
+        
+        <Button Grid.Row="2" Content="Комментарий" Height="70"
+                Visibility="{Binding Path=IsEdit, Converter={StaticResource ResourceKey=BoolToVisibilityConverter}}"
+                Command="{Binding Path=SavePhotoCommentCommand}"
+                HorizontalAlignment="Stretch" VerticalAlignment="Stretch" />
+
+    </Grid>
+</common:PageBase>
+

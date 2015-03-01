@@ -1,0 +1,4 @@
+C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\WebService\WebApi.Data\bin\Debug\WebApi.Data.dll
+C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\WebService\WebApi.Data\bin\Debug\WebApi.Data.pdb
+C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\WebService\WebApi.Data\obj\Debug\WebApi.Data.dll
+C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\WebService\WebApi.Data\obj\Debug\WebApi.Data.pdb

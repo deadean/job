@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DEAN</Machine>
+    <WindowsUser>Aleksandr</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>e6326c75-fa1a-419a-aba9-a7a8e8d7f384</PackageIdentityName>
+    <IntermediateOutputPath>C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\UI\UniversalApps\WP\PhotoTransfer.WP\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\UI\UniversalApps\WP\PhotoTransfer.WP\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\UI\UniversalApps\WP\PhotoTransfer.WP\bin\Debug\PhotoTransfer.WP.exe">
+      <PackagePath>PhotoTransfer.WP.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\packages\MvvmLightLibs.5.0.2.0\lib\wpa81\GalaSoft.MvvmLight.dll">
+      <PackagePath>GalaSoft.MvvmLight.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\packages\MvvmLightLibs.5.0.2.0\lib\wpa81\GalaSoft.MvvmLight.Extras.dll">
+      <PackagePath>GalaSoft.MvvmLight.Extras.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\packages\MvvmLightLibs.5.0.2.0\lib\wpa81\GalaSoft.MvvmLight.Platform.dll">
+      <PackagePath>GalaSoft.MvvmLight.Platform.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\Library\bin\Debug\Library1.dll">
+      <PackagePath>Library1.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\packages\CommonServiceLocator.1.3\lib\portable-net4+sl5+netcore45+wpa81+wp8\Microsoft.Practices.ServiceLocation.dll">
+      <PackagePath>Microsoft.Practices.ServiceLocation.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\PhotoTransfer.Common\bin\Debug\PhotoTransfer.Common.dll">
+      <PackagePath>PhotoTransfer.Common.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\PhotoTransfer.Data\bin\Debug\PhotoTransfer.Data.dll">
+      <PackagePath>PhotoTransfer.Data.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\UI\Common\PhotoTransfer.Shared.Common\bin\Debug\PhotoTransfer.UI.Common.dll">
+      <PackagePath>PhotoTransfer.UI.Common.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\PhotoTransfer.UI.Common.VVms\bin\Debug\PhotoTransfer.UI.Common.VVms.dll">
+      <PackagePath>PhotoTransfer.UI.Common.VVms.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\PhotoTransfer.UI.Platform.UniversalApps.UI.VVms.Common\bin\Debug\PhotoTransfer.UI.Platform.UniversalApps.UI.VVms.Common.dll">
+      <PackagePath>PhotoTransfer.UI.Platform.UniversalApps.UI.VVms.Common.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\UI\UniversalApps\PhotoTransfer.WP.Data\bin\Debug\PhotoTransfer.UI.UniversalApps.Data.dll">
+      <PackagePath>PhotoTransfer.UI.UniversalApps.Data.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\UI\UniversalApps\PhotoTransfer.UI.UniversalApps.Services\bin\Debug\PhotoTransfer.UI.UniversalApps.Services.dll">
+      <PackagePath>PhotoTransfer.UI.UniversalApps.Services.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\UI\UniversalApps\PhotoTransfer.UI.UniversalApps.UI.Common\bin\Debug\PhotoTransfer.UI.UniversalApps.UI.Common.dll">
+      <PackagePath>PhotoTransfer.UI.UniversalApps.UI.Common.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\UI\Services\PhotoTransfer.Windows.Services\bin\Debug\PhotoTransfer.WP.Services.dll">
+      <PackagePath>PhotoTransfer.WP.Services.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\packages\Xamarin.Forms.1.3.2.6316\lib\portable-win+net45+wp80+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.Core.dll">
+      <PackagePath>Xamarin.Forms.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\packages\Xamarin.Forms.1.3.2.6316\lib\portable-win+net45+wp80+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.Xaml.dll">
+      <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\UI\Services\PhotoTransfer.Windows.Services\bin\Debug\Xamarin.Forms.Labs.dll">
+      <PackagePath>Xamarin.Forms.Labs.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\UI\Services\PhotoTransfer.Windows.Services\bin\Debug\PhotoTransfer.WP.Data.dll">
+      <PackagePath>PhotoTransfer.WP.Data.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\UI\Services\PhotoTransfer.Windows.Services\bin\Debug\ExifLib.dll">
+      <PackagePath>ExifLib.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\UI\UniversalApps\WP\PhotoTransfer.WP\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\UI\UniversalApps\WP\PhotoTransfer.WP\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\UI\UniversalApps\WP\PhotoTransfer.WP\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\UI\UniversalApps\WP\PhotoTransfer.WP\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\UI\UniversalApps\WP\PhotoTransfer.WP\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\UI\UniversalApps\WP\PhotoTransfer.WP\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\UI\UniversalApps\WP\PhotoTransfer.WP\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\UI\UniversalApps\WP\PhotoTransfer.WP\bin\Debug\Implementations\Views\PagePhotoSaving.xbf">
+      <PackagePath>Implementations\Views\PagePhotoSaving.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\UI\UniversalApps\WP\PhotoTransfer.WP\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\UI\UniversalApps\WP\PhotoTransfer.WP\bin\Debug\Resources\Styles\Styles.xbf">
+      <PackagePath>Resources\Styles\Styles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\PhotoTransfer.UI.Platform.UniversalApps.UI.VVms.Common\bin\Debug\Controls\TextBox\SRTextBox.xbf">
+      <PackagePath>PhotoTransfer.UI.Platform.UniversalApps.UI.VVms.Common\Controls\TextBox\SRTextBox.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\PhotoTransfer.UI.Platform.UniversalApps.UI.VVms.Common\bin\Debug\Implementations\Views\SaveCommentsPage.xbf">
+      <PackagePath>PhotoTransfer.UI.Platform.UniversalApps.UI.VVms.Common\Implementations\Views\SaveCommentsPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\UI\UniversalApps\WP\PhotoTransfer.WP\bin\Debug\PhotoTransfer.WP.xr.xml">
+      <PackagePath>PhotoTransfer.WP.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\PhotoTransfer.UI.Platform.UniversalApps.UI.VVms.Common\bin\Debug\PhotoTransfer.UI.Platform.UniversalApps.UI.VVms.Common.xr.xml">
+      <PackagePath>PhotoTransfer.UI.Platform.UniversalApps.UI.VVms.Common\PhotoTransfer.UI.Platform.UniversalApps.UI.VVms.Common.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\UI\UniversalApps\WP\PhotoTransfer.WP\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

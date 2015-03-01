@@ -1,0 +1,3 @@
+raw/adaica.db3;raw/adaica.db3
+Values/Strings.xml;values/strings.xml
+layout/TextViewItem.xml;layout/textviewitem.xml

@@ -1,0 +1,26 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="PhotoTransfer.WinPhone" EntryPointType="PhotoTransfer.WinPhone.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="PhotoTransfer.WinPhone" Source="PhotoTransfer.WinPhone.dll" />
+    <AssemblyPart x:Name="ExifLib" Source="ExifLib.dll" />
+    <AssemblyPart x:Name="GalaSoft.MvvmLight" Source="GalaSoft.MvvmLight.dll" />
+    <AssemblyPart x:Name="GalaSoft.MvvmLight.Extras" Source="GalaSoft.MvvmLight.Extras.dll" />
+    <AssemblyPart x:Name="GalaSoft.MvvmLight.Platform" Source="GalaSoft.MvvmLight.Platform.dll" />
+    <AssemblyPart x:Name="Library1" Source="Library1.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls.Toolkit" Source="Microsoft.Phone.Controls.Toolkit.dll" />
+    <AssemblyPart x:Name="Microsoft.Practices.ServiceLocation" Source="Microsoft.Practices.ServiceLocation.dll" />
+    <AssemblyPart x:Name="PhotoTransfer" Source="PhotoTransfer.dll" />
+    <AssemblyPart x:Name="System.Windows.Interactivity" Source="System.Windows.Interactivity.dll" />
+    <AssemblyPart x:Name="WPControls" Source="WPControls.dll" />
+    <AssemblyPart x:Name="Xamarin.Forms.Core" Source="Xamarin.Forms.Core.dll" />
+    <AssemblyPart x:Name="Xamarin.Forms.Labs" Source="Xamarin.Forms.Labs.dll" />
+    <AssemblyPart x:Name="Xamarin.Forms.Labs.WP8" Source="Xamarin.Forms.Labs.WP8.dll" />
+    <AssemblyPart x:Name="Xamarin.Forms.Platform.WP8" Source="Xamarin.Forms.Platform.WP8.dll" />
+    <AssemblyPart x:Name="Xamarin.Forms.Xaml" Source="Xamarin.Forms.Xaml.dll" />
+    <AssemblyPart x:Name="PhotoTransfer.UI.Common.VVms" Source="PhotoTransfer.UI.Common.VVms.dll" />
+    <AssemblyPart x:Name="PhotoTransfer.UI.Common" Source="PhotoTransfer.UI.Common.dll" />
+    <AssemblyPart x:Name="PhotoTransfer.WP.Data" Source="PhotoTransfer.WP.Data.dll" />
+    <AssemblyPart x:Name="PhotoTransfer.WP.Services" Source="PhotoTransfer.WP.Services.dll" />
+    <AssemblyPart x:Name="PhotoTransfer.Data" Source="PhotoTransfer.Data.dll" />
+    <AssemblyPart x:Name="PhotoTransfer.Common" Source="PhotoTransfer.Common.dll" />
+  </Deployment.Parts>
+</Deployment>

@@ -1,0 +1,2 @@
+Install-Package Portable.MvvmLightLibs
+Install-Package Xamarin.Forms.Labs -Pre

@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>\\192.168.102.22\WebApi</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/App_global.asax.compiled">
+      <publishTime>11/05/2014 16:49:10</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.dll">
+      <publishTime>11/05/2014 16:49:10</publishTime>
+    </File>
+    <File Include="bin/log4net.dll">
+      <publishTime>10/30/2014 10:20:04</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.ServiceLocation.dll">
+      <publishTime>10/02/2014 14:38:37</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.Unity.dll">
+      <publishTime>10/02/2014 14:38:37</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>10/30/2014 10:20:01</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>10/30/2014 10:19:59</publishTime>
+    </File>
+    <File Include="bin/Ninject.dll">
+      <publishTime>10/30/2014 10:20:01</publishTime>
+    </File>
+    <File Include="bin/Ninject.Web.Common.dll">
+      <publishTime>10/30/2014 10:20:02</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>10/30/2014 10:20:01</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>10/30/2014 10:20:03</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>10/30/2014 10:19:59</publishTime>
+    </File>
+    <File Include="bin/WebActivatorEx.dll">
+      <publishTime>10/30/2014 10:20:01</publishTime>
+    </File>
+    <File Include="bin/WebApi.Common.dll">
+      <publishTime>11/11/2014 16:11:49</publishTime>
+    </File>
+    <File Include="bin/WebApi.Common.pdb">
+      <publishTime>11/11/2014 16:11:49</publishTime>
+    </File>
+    <File Include="bin/WebApi.Data.dll">
+      <publishTime>11/11/2014 16:11:49</publishTime>
+    </File>
+    <File Include="bin/WebApi.Data.pdb">
+      <publishTime>11/11/2014 16:11:49</publishTime>
+    </File>
+    <File Include="bin/WebApi.DataBase.Oracle.dll">
+      <publishTime>11/12/2014 16:06:34</publishTime>
+    </File>
+    <File Include="bin/WebApi.DataBase.Oracle.pdb">
+      <publishTime>11/12/2014 16:06:34</publishTime>
+    </File>
+    <File Include="bin/WebApi.Web.Common.dll">
+      <publishTime>11/11/2014 16:11:50</publishTime>
+    </File>
+    <File Include="bin/WebApi.Web.Common.pdb">
+      <publishTime>11/11/2014 16:11:50</publishTime>
+    </File>
+    <File Include="bin/WebApi.Web.Data.dll">
+      <publishTime>11/11/2014 16:11:50</publishTime>
+    </File>
+    <File Include="bin/WebApi.Web.Data.pdb">
+      <publishTime>11/11/2014 16:11:50</publishTime>
+    </File>
+    <File Include="bin/WebApi.WebApiService.dll">
+      <publishTime>11/12/2014 16:06:35</publishTime>
+    </File>
+    <File Include="bin/WebApi.WebApiService.pdb">
+      <publishTime>11/12/2014 16:06:35</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>10/30/2014 10:19:58</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>10/30/2014 16:51:52</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>11/05/2014 16:49:08</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>11/12/2014 13:31:04</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

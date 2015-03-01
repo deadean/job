@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8D9822EF-6347-49A1-9715-701B11CD47B2}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WebApi.DataBase.Oracle</RootNamespace>
+    <AssemblyName>WebApi.DataBase.Oracle</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'x64|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>ManagedMinimumRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>ManagedMinimumRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>ManagedMinimumRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'x64|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\x64\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>ManagedMinimumRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Practices.ServiceLocation">
+      <HintPath>..\packages\unity\Microsoft.Practices.ServiceLocation.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Unity">
+      <HintPath>..\packages\unity\Microsoft.Practices.Unity.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Unity.Configuration">
+      <HintPath>..\packages\unity\Microsoft.Practices.Unity.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Unity.Interception">
+      <HintPath>..\packages\unity\Microsoft.Practices.Unity.Interception.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Unity.Interception.Configuration">
+      <HintPath>..\packages\unity\Microsoft.Practices.Unity.Interception.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bases\ModelService\Repositories\RepositoryBase.cs" />
+    <Compile Include="CCommandWrapper.cs" />
+    <Compile Include="CDataBase.cs" />
+    <Compile Include="CDataBaseException.cs" />
+    <Compile Include="CDataBaseExceptionsList.cs" />
+    <Compile Include="CDataBaseExtensions.cs" />
+    <Compile Include="CDbConnectionProperties.cs" />
+    <Compile Include="CDBParameters.cs" />
+    <Compile Include="CDML.cs" />
+    <Compile Include="CSysRegistry.cs" />
+    <Compile Include="CTransaction.cs" />
+    <Compile Include="CTransactionException.cs" />
+    <Compile Include="Enumeration\Unity\enTypeLifeTime.cs" />
+    <Compile Include="Implementations\Constants\Constants.cs" />
+    <Compile Include="Implementations\Factories\DataObjectsFactory.cs" />
+    <Compile Include="Implementations\ModelService\DataBaseQueries\Records\RecordDataBaseQueries.cs" />
+    <Compile Include="Implementations\ModelService\DataBaseQueries\User\UserDataBaseQueries.cs" />
+    <Compile Include="Implementations\ModelService\ModelService.cs" />
+    <Compile Include="Implementations\ModelService\Repositories\DocumentsRepository.cs" />
+    <Compile Include="Implementations\ModelService\Repositories\RecordRepository.cs" />
+    <Compile Include="Implementations\ModelService\Repositories\UserRepository.cs" />
+    <Compile Include="Bases\QueryProcessors\QueryProcessorBase.cs" />
+    <Compile Include="Implementations\QueryProcessors\PhotoQueryProcessor.cs" />
+    <Compile Include="Implementations\QueryProcessors\UserByLoginAndPasswordQueryProcessor.cs" />
+    <Compile Include="Implementations\Unity\Container.cs" />
+    <Compile Include="Interfaces\Factories\IDataObjectsFactory.cs" />
+    <Compile Include="Interfaces\ModelService\IDataBaseService.cs" />
+    <Compile Include="Interfaces\ModelService\IModelService.cs" />
+    <Compile Include="Interfaces\ModelService\Repositories\IDocumentsRepository.cs" />
+    <Compile Include="Interfaces\ModelService\Repositories\IRecordRepository.cs" />
+    <Compile Include="Interfaces\ModelService\Repositories\IUserRepository.cs" />
+    <Compile Include="modSQL.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\WebApi.Common\WebApi.Common.csproj">
+      <Project>{6f1274b7-d2a6-41d3-9c41-32c97bc08ff3}</Project>
+      <Name>WebApi.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WebApi.Data\WebApi.Data.csproj">
+      <Project>{31016b38-9104-493a-9778-01ee3b30376f}</Project>
+      <Name>WebApi.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WebApi.Web.Common\WebApi.Web.Common.csproj">
+      <Project>{856a2758-18fd-4b30-b9b3-fe66adb7e380}</Project>
+      <Name>WebApi.Web.Common</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Interfaces\QueryProcessors\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

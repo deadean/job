@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DEAN</Machine>
+    <WindowsUser>Aleksandr</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>5b5673e3-914b-495e-a123-2ff6239c38fc</PackageIdentityName>
+    <IntermediateOutputPath>C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.W8\obj\x86\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.W8\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.W8\bin\x86\Debug\PhotoTransfer.W8.exe">
+      <PackagePath>PhotoTransfer.W8.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Speech\1.1\References\commonconfiguration\x86\Bing.Speech.winmd">
+      <PackagePath>Bing.Speech.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Speech\1.1\References\commonconfiguration\x86\Microsoft.Speech.VoiceService.Audio.winmd">
+      <PackagePath>Microsoft.Speech.VoiceService.Audio.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Speech\1.1\References\commonconfiguration\x86\Microsoft.Speech.VoiceService.MSSRAudio.winmd">
+      <PackagePath>Microsoft.Speech.VoiceService.MSSRAudio.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Speech\1.1\References\commonconfiguration\x86\Bing.Speech.Xaml.SpeechRecognizerUx.dll">
+      <PackagePath>Bing.Speech.Xaml.SpeechRecognizerUx.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Speech\1.1\References\commonconfiguration\x86\Microsoft.Bing.Platform.Logging.ClientWinRT.dll">
+      <PackagePath>Microsoft.Bing.Platform.Logging.ClientWinRT.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\packages\ExifLib.PCL.1.0.0\lib\portable-net45+sl50+win+WindowsPhoneApp81+wp80+MonoAndroid10+MonoTouch10\ExifLib.dll">
+      <PackagePath>ExifLib.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\packages\Portable.MvvmLightLibs.5.0.2.0\lib\netcore451\GalaSoft.MvvmLight.dll">
+      <PackagePath>GalaSoft.MvvmLight.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\packages\Portable.MvvmLightLibs.5.0.2.0\lib\netcore451\GalaSoft.MvvmLight.Extras.dll">
+      <PackagePath>GalaSoft.MvvmLight.Extras.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\packages\Portable.MvvmLightLibs.5.0.2.0\lib\netcore451\GalaSoft.MvvmLight.Platform.dll">
+      <PackagePath>GalaSoft.MvvmLight.Platform.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\Library\bin\Debug\Library.dll">
+      <PackagePath>Library.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\packages\CommonServiceLocator.1.3\lib\portable-net4+sl5+netcore45+wpa81+wp8\Microsoft.Practices.ServiceLocation.dll">
+      <PackagePath>Microsoft.Practices.ServiceLocation.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\packages\Newtonsoft.Json.6.0.8\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Common\bin\Debug\PhotoTransfer.Common.dll">
+      <PackagePath>PhotoTransfer.Common.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Data\bin\Debug\PhotoTransfer.Data.dll">
+      <PackagePath>PhotoTransfer.Data.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\Services\PhotoTransfer.Services.DataBases\bin\Debug\PhotoTransfer.Services.DataBases.dll">
+      <PackagePath>PhotoTransfer.Services.DataBases.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\Services\PhotoTransfer.Services.WebService\bin\Debug\PhotoTransfer.Services.WebService.dll">
+      <PackagePath>PhotoTransfer.Services.WebService.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\UI\Common\PhotoTransfer.Shared.Common\bin\Debug\PhotoTransfer.UI.Common.dll">
+      <PackagePath>PhotoTransfer.UI.Common.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.UI.Common.VVms\bin\Debug\PhotoTransfer.UI.Common.VVms.dll">
+      <PackagePath>PhotoTransfer.UI.Common.VVms.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\UI\Data\PhotoTransfer.WP.Data\bin\Debug\PhotoTransfer.UI.Data.dll">
+      <PackagePath>PhotoTransfer.UI.Data.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\UI\DataBases\PhotoTransfer.UI.DataBases\bin\Debug\PhotoTransfer.UI.DataBases.dll">
+      <PackagePath>PhotoTransfer.UI.DataBases.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\PhotoTransfer.WP.Data\bin\Debug\PhotoTransfer.UI.UniversalApps.Data.dll">
+      <PackagePath>PhotoTransfer.UI.UniversalApps.Data.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\PhotoTransfer.UI.UniversalApps.DataBases\bin\Debug\PhotoTransfer.UI.UniversalApps.DataBases.dll">
+      <PackagePath>PhotoTransfer.UI.UniversalApps.DataBases.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\PhotoTransfer.UI.UniversalApps.Services\bin\Debug\PhotoTransfer.UI.UniversalApps.Services.dll">
+      <PackagePath>PhotoTransfer.UI.UniversalApps.Services.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.UI.UniversalApps.Services.WebService.Oracle\bin\Debug\PhotoTransfer.UI.UniversalApps.Services.WebService.Oracle.dll">
+      <PackagePath>PhotoTransfer.UI.UniversalApps.Services.WebService.Oracle.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\PhotoTransfer.UI.UniversalApps.UI.Common\bin\Debug\PhotoTransfer.UI.UniversalApps.UI.Common.dll">
+      <PackagePath>PhotoTransfer.UI.UniversalApps.UI.Common.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\UI\Services\PhotoTransfer.Windows.Services\bin\Debug\PhotoTransfer.WP.Services.dll">
+      <PackagePath>PhotoTransfer.WP.Services.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\packages\SQLite.Net.Async-PCL.2.5.1\lib\portable-win8+net45+wp8+wpa81+MonoAndroid1+MonoTouch1\SQLite.Net.Async.dll">
+      <PackagePath>SQLite.Net.Async.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\packages\SQLite.Net-PCL.2.5.1\lib\portable-win8+net45+wp8+wpa81+MonoAndroid1+MonoTouch1\SQLite.Net.dll">
+      <PackagePath>SQLite.Net.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\packages\SQLite.Net.Platform.WinRT.2.5.1\lib\Windows8\SQLite.Net.Platform.WinRT.dll">
+      <PackagePath>SQLite.Net.Platform.WinRT.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\packages\SQLiteNetExtensions.1.2.3\lib\portable-net45+netcore45+wpa81+wp8+MonoAndroid1+MonoTouch1\SQLiteNetExtensions.dll">
+      <PackagePath>SQLiteNetExtensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\packages\SQLiteNetExtensions.Async.1.2.3\lib\portable-net45+netcore45+wpa81+wp8+MonoAndroid1+MonoTouch1\SQLiteNetExtensionsAsync.dll">
+      <PackagePath>SQLiteNetExtensionsAsync.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\packages\Xamarin.Forms.1.3.4.6332\lib\portable-win+net45+wp80+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.Core.dll">
+      <PackagePath>Xamarin.Forms.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\packages\Xamarin.Forms.Labs.1.2.1-pre2\lib\portable-net45+netcore45+wp8+MonoAndroid1+MonoTouch1\Xamarin.Forms.Labs.dll">
+      <PackagePath>Xamarin.Forms.Labs.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\packages\Xamarin.Forms.1.3.4.6332\lib\portable-win+net45+wp80+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.Xaml.dll">
+      <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Speech\1.1\Redist\commonconfiguration\neutral\Bing.Speech\earcons\DoneListeningEarcon.wav">
+      <PackagePath>Bing.Speech\earcons\DoneListeningEarcon.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Speech\1.1\Redist\commonconfiguration\neutral\Bing.Speech\earcons\ListeningEarcon.wav">
+      <PackagePath>Bing.Speech\earcons\ListeningEarcon.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Speech\1.1\Redist\commonconfiguration\x86\Microsoft.Speech.VoiceService.Audio.dll">
+      <PackagePath>Microsoft.Speech.VoiceService.Audio.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Speech\1.1\Redist\commonconfiguration\x86\Microsoft.Speech.VoiceService.MSSRAudio.dll">
+      <PackagePath>Microsoft.Speech.VoiceService.MSSRAudio.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\SQLite.WinRT81\3.8.8.1\Redist\Debug\x86\sqlite3.dll">
+      <PackagePath>sqlite3.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Speech\1.1\Redist\commonconfiguration\neutral\Bing.Speech\css\voiceuicontrol.css">
+      <PackagePath>Bing.Speech\css\voiceuicontrol.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Speech\1.1\Redist\commonconfiguration\neutral\Bing.Speech\js\voiceuicontrol.js">
+      <PackagePath>Bing.Speech\js\voiceuicontrol.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.W8\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.W8\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.W8\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.W8\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.W8\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.W8\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.W8\bin\x86\Debug\Resources\Styles\Styles.xbf">
+      <PackagePath>Resources\Styles\Styles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.W8\bin\x86\Debug\Bing.Speech.Xaml.SpeechRecognizerUx\VoiceUIControl.xbf">
+      <PackagePath>Bing.Speech.Xaml.SpeechRecognizerUx\VoiceUIControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.W8\bin\x86\Debug\PhotoTransfer.W8.xr.xml">
+      <PackagePath>PhotoTransfer.W8.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.W8\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.12.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.12.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.12.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
