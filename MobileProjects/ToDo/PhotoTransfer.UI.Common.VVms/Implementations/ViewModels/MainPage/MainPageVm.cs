@@ -39,13 +39,11 @@ namespace ToDo.UI.Common.VVms.Implementations.ViewModels.MainPage
 
 		public MainPageVm(IMainPageDependencyBlock dependencyBlock)
 		{
+			
 			modModelService = dependencyBlock.ModelService;
 
 			mvToDos = new List<ToDoItemVm>();
 
-			mvToDos.Add(new ToDoItemVm(new ToDoItem() { Name = "Test" }));
-			mvToDos.Add(new ToDoItemVm(new ToDoItem() { Name = "Test" }));
-			mvToDos.Add(new ToDoItemVm(new ToDoItem() { Name = "Test" }));
 		}
 
 		#endregion

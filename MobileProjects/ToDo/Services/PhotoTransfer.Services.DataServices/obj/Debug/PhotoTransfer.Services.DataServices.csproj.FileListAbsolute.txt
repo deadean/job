@@ -2,7 +2,3 @@ C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\Services\PhotoT
 C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\Services\PhotoTransfer.Services.DataServices\bin\Debug\PhotoTransfer.Services.DataServices.pdb
 C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\Services\PhotoTransfer.Services.DataServices\obj\Debug\PhotoTransfer.Services.DataServices.dll
 C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\Services\PhotoTransfer.Services.DataServices\obj\Debug\PhotoTransfer.Services.DataServices.pdb
-C:\GitHub\job\MobileProjects\ToDo\Services\PhotoTransfer.Services.DataServices\bin\Debug\PhotoTransfer.Services.DataServices.dll
-C:\GitHub\job\MobileProjects\ToDo\Services\PhotoTransfer.Services.DataServices\bin\Debug\PhotoTransfer.Services.DataServices.pdb
-C:\GitHub\job\MobileProjects\ToDo\Services\PhotoTransfer.Services.DataServices\obj\Debug\PhotoTransfer.Services.DataServices.dll
-C:\GitHub\job\MobileProjects\ToDo\Services\PhotoTransfer.Services.DataServices\obj\Debug\PhotoTransfer.Services.DataServices.pdb

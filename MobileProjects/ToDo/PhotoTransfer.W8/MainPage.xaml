@@ -14,6 +14,7 @@
                 <ResourceDictionary Source="Resources/Styles/Styles.xaml"/>
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>
+        
     </common:PageBase.Resources>
 
     <Grid Background="#FFB5ADE6">
@@ -34,7 +35,15 @@
             <AppBarButton Grid.Row="0" IsCompact="True"
                           Content="Add" HorizontalAlignment="Right" Margin="0,0,20,0" Icon="Add"/>
 
-            <ListView Grid.Row="1">
+            <ListView Grid.Row="1" ItemsSource="{Binding Path=ToDos}"
+                      >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                            <TextBlock Margin="10,0,0,0" Text="{Binding Path=Name}"/>
+                        </StackPanel>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
                 
             </ListView>
 

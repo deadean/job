@@ -21,7 +21,7 @@ namespace ToDo.UI.UniversalApps.Databases.Implementations.InternalStorage
 			ConnectionInfo<SQLiteAsyncConnection> connectionInfo = new ConnectionInfo<SQLiteAsyncConnection>();
 			connectionInfo.IsInitializedDbStructure = true;
 
-			if (!FileExists(ToDo.UI.Common.Constants.Constants.Configuration.csLocalDbFileName).Result)
+			if (!FileExists(ToDo.UI.Common.Constants.Constants.Configuration.csLocalDbFileName))
 			{
 				connectionInfo.IsInitializedDbStructure = false;	
 			}
@@ -50,12 +50,15 @@ namespace ToDo.UI.UniversalApps.Databases.Implementations.InternalStorage
 			return null;
 		}
 
-		private async Task<bool> FileExists(string fileName)
+		private bool FileExists(string fileName)
 		{
 			var result = false;
 			try
 			{
-				var store = await Windows.Storage.ApplicationData.Current.LocalFolder.GetFileAsync(fileName);
+
+				var store =
+					Windows.Storage.ApplicationData.Current.LocalFolder.GetFileAsync(fileName);
+				//var store = await ApplicationData.Current.LocalFolder.GetItemAsync(fileName);
 				result = true;
 			}
 			catch (Exception ex)

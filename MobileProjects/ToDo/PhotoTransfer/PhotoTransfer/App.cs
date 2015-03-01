@@ -5,8 +5,6 @@ using ToDo.UI.Common.Interfaces.DependencyBlock;
 using ToDo.UI.Common.Interfaces.Navigation;
 using ToDo.UI.Common.VVms.Implementations.DependencyBlock;
 using ToDo.UI.Common.VVms.Implementations.ViewModels.MainPage;
-using ToDo.UI.Common.VVms.Implementations.ViewModels.Pages;
-using ToDo.UI.Common.VVms.Implementations.Views.Pages;
 using ToDo.UI.DataBases.Implementations.InternalStorage;
 using ToDo.UI.Data.Implementations.Navigation;
 using ToDo.WP.Services.Implementations.Navigation;

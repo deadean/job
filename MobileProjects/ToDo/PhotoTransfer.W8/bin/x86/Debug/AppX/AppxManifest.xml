@@ -7,10 +7,10 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="5b5673e3-914b-495e-a123-2ff6239c38fc" Publisher="CN=acmyk" Version="1.0.0.0" ProcessorArchitecture="x86" />
+  <Identity Name="5b5673e3-914b-495e-a123-2ff6239c38fd" Publisher="CN=acmyk" Version="1.0.0.0" ProcessorArchitecture="x86" />
   <Properties>
     <DisplayName>ToDo.W8</DisplayName>
-    <PublisherDisplayName>acmyk</PublisherDisplayName>
+    <PublisherDisplayName>dean</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
   <Prerequisites>
@@ -32,45 +32,8 @@
     <Capability Name="picturesLibrary" />
     <DeviceCapability Name="webcam" />
     <DeviceCapability Name="microphone" />
+    <DeviceCapability Name="location" />
   </Capabilities>
-  <Extensions>
-    <Extension Category="windows.activatableClass.inProcessServer">
-      <InProcessServer>
-        <Path>Microsoft.Speech.VoiceService.MSSRAudio.dll</Path>
-        <ActivatableClass ActivatableClassId="Microsoft.Speech.VoiceService.MSSRAudio.Encoder" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Microsoft.Speech.VoiceService.MSSRAudio.EncoderSettings" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Microsoft.Speech.VoiceService.MSSRAudio.EncoderStatistics" ThreadingModel="both" />
-      </InProcessServer>
-    </Extension>
-    <Extension Category="windows.activatableClass.proxyStub">
-      <ProxyStub ClassId="5807FC3A-A0AB-48B4-BBA1-BA00BE56C3BD">
-        <Path>Microsoft.Speech.VoiceService.MSSRAudio.dll</Path>
-        <Interface Name="IEncodingSettings" InterfaceId="C97C75EE-A76A-480E-9817-D57D3655231E" />
-      </ProxyStub>
-    </Extension>
-    <Extension Category="windows.activatableClass.proxyStub">
-      <ProxyStub ClassId="F1D258E4-9D97-4BA4-AEEA-50A8B74049DF">
-        <Path>Microsoft.Speech.VoiceService.Audio.dll</Path>
-        <Interface Name="ISpeechVolumeEvent" InterfaceId="946379E8-A397-46B6-B9C4-FBB253EFF6AE" />
-        <Interface Name="ISpeechStatusEvent" InterfaceId="FB0767C6-7FAA-4E5E-AC95-A3C0C4D72720" />
-      </ProxyStub>
-    </Extension>
-    <Extension Category="windows.activatableClass.inProcessServer">
-      <InProcessServer>
-        <Path>CLRHost.dll</Path>
-        <ActivatableClass ActivatableClassId="Bing.Speech.SpeechRecognitionAudioLevelChangedEventArgs" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Speech.SpeechAuthorizationParameters" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Speech.SpeechRecognitionAudioCaptureStateChangedEventArgs" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Speech.SpeechRecognitionResultReceivedEventArgs" ThreadingModel="both" />
-      </InProcessServer>
-    </Extension>
-    <Extension Category="windows.activatableClass.inProcessServer">
-      <InProcessServer>
-        <Path>Microsoft.Speech.VoiceService.Audio.dll</Path>
-        <ActivatableClass ActivatableClassId="Microsoft.Speech.VoiceService.Audio.SpeechAudioSink" ThreadingModel="both" />
-      </InProcessServer>
-    </Extension>
-  </Extensions>
   <Dependencies>
     <PackageDependency Name="Microsoft.VCLibs.120.00.Debug" MinVersion="12.0.21005.1" />
   </Dependencies>
@@ -84,7 +47,6 @@
     <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="12.0.31101.0" />
     <build:Item Name="ProjectGUID" Value="{9A0949C1-5738-409A-B1B6-86145FF4F2A7}" />
     <build:Item Name="Microsoft.Windows.UI.Xaml.Build.Tasks.dll" Version="12.0.30501.0" />
-    <build:Item Name="Bing.Speech" Version="1.1" />
     <build:Item Name="SQLite.WinRT81" Version="3.8.8.1" />
     <build:Item Name="MakePri.exe" Version="6.3.9600.17298 (winblue.141024-1500)" />
   </build:Metadata>

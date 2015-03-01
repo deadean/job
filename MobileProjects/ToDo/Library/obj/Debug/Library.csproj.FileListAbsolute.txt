@@ -12,17 +12,3 @@ C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\Library\bin\Deb
 C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\Library\bin\Debug\Library.pdb
 C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\Library\obj\Debug\Library.dll
 C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\Library\obj\Debug\Library.pdb
-C:\GitHub\job\MobileProjects\ToDo\Library\bin\Debug\Library.dll
-C:\GitHub\job\MobileProjects\ToDo\Library\bin\Debug\Library.pdb
-C:\GitHub\job\MobileProjects\ToDo\Library\bin\Debug\GalaSoft.MvvmLight.dll
-C:\GitHub\job\MobileProjects\ToDo\Library\bin\Debug\GalaSoft.MvvmLight.Extras.dll
-C:\GitHub\job\MobileProjects\ToDo\Library\bin\Debug\Microsoft.Practices.ServiceLocation.dll
-C:\GitHub\job\MobileProjects\ToDo\Library\bin\Debug\GalaSoft.MvvmLight.pdb
-C:\GitHub\job\MobileProjects\ToDo\Library\bin\Debug\GalaSoft.MvvmLight.xml
-C:\GitHub\job\MobileProjects\ToDo\Library\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
-C:\GitHub\job\MobileProjects\ToDo\Library\bin\Debug\GalaSoft.MvvmLight.Extras.xml
-C:\GitHub\job\MobileProjects\ToDo\Library\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
-C:\GitHub\job\MobileProjects\ToDo\Library\bin\Debug\Microsoft.Practices.ServiceLocation.xml
-C:\GitHub\job\MobileProjects\ToDo\Library\obj\Debug\Library.dll
-C:\GitHub\job\MobileProjects\ToDo\Library\obj\Debug\Library.pdb
-C:\GitHub\job\MobileProjects\ToDo\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
