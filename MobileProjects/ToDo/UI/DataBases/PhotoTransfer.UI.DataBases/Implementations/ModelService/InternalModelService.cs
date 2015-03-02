@@ -56,6 +56,11 @@ namespace ToDo.UI.DataBases.Implementations.ModelService
 			return modStorage.Update<T>(item);
 		}
 
+		public Task Remove<T>(T item) where T : IEntity, new()
+		{
+			return modStorage.Remove<T>(item);
+		}
+
 		public Task<T> CreateEntity<T>()
 		{
 			return Task.Run(() => modFactoryObjects.GetObjectFromFactory<T>());
@@ -85,6 +90,9 @@ namespace ToDo.UI.DataBases.Implementations.ModelService
 		#region Protected Methods
 
 		#endregion
+
+
+
 
 
 

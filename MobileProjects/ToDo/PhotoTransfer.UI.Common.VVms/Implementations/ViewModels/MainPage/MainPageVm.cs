@@ -35,6 +35,7 @@ namespace ToDo.UI.Common.VVms.Implementations.ViewModels.MainPage
 		private bool mvIsAdding;
 		private AsyncCommand mvAddToDoCommand;
 		private AsyncCommand mvSaveToDoCommand;
+		private AsyncCommand mvRemoveToDoCommand;
 
 		#endregion
 
@@ -42,6 +43,7 @@ namespace ToDo.UI.Common.VVms.Implementations.ViewModels.MainPage
 
 		public AsyncCommand AddToDoCommand { get { return mvAddToDoCommand; } }
 		public AsyncCommand SaveToDoCommand { get { return mvSaveToDoCommand; } }
+		public AsyncCommand RemoveCommand { get { return mvRemoveToDoCommand; } }
 		
 
 		#endregion
@@ -58,6 +60,7 @@ namespace ToDo.UI.Common.VVms.Implementations.ViewModels.MainPage
 
 				mvAddToDoCommand = new AsyncCommand(OnAddToDoCommand);
 				mvSaveToDoCommand = new AsyncCommand(OnSaveToDoCommand);
+				mvRemoveToDoCommand = new AsyncCommand(OnRemoveCommand);
 			}
 			catch (Exception ex)
 			{
@@ -125,6 +128,25 @@ namespace ToDo.UI.Common.VVms.Implementations.ViewModels.MainPage
 			}
 		}
 
+		private async Task OnRemoveCommand()
+		{
+			try
+			{
+				if (SelectedToDo == null)
+					return;
+
+				var selectedToDo = SelectedToDo.ToDo;
+
+				await modModelService.Remove<ToDoItem>((ToDoItem)selectedToDo);
+
+				ToDos.Remove(SelectedToDo);
+			}
+			catch (Exception ex)
+			{
+
+			}
+		}
+
 		#endregion
 
 		#region Properties
@@ -136,7 +158,22 @@ namespace ToDo.UI.Common.VVms.Implementations.ViewModels.MainPage
 			get { return mvName; }
 			set { mvName = value; this.OnPropertyChanged(); }
 		}
-		
+
+		private ToDoItemVm mvSelectedToDo;
+
+		public ToDoItemVm SelectedToDo
+		{
+			get { return mvSelectedToDo; }
+			set { mvSelectedToDo = value; IsMenuOpen = value != null; this.OnPropertyChanged(); }
+		}
+
+		private bool mvIsMenuOpen;
+
+		public bool IsMenuOpen
+		{
+			get { return mvIsMenuOpen; }
+			set { mvIsMenuOpen = value; this.OnPropertyChanged(); }
+		}
 		
 
 		public bool IsAdding

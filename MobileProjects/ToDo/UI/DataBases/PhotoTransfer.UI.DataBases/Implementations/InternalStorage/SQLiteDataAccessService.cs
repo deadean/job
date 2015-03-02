@@ -71,6 +71,18 @@ namespace ToDo.UI.DataBases.Implementations.InternalStorage
 			return modConnection.GetAsync<T>((item) => item.IdEntity == id);
 		}
 
+		public async Task Remove<T>(T item) where T : IEntity, new()
+		{
+			try
+			{
+				await modConnection.DeleteAsync(item);
+			}
+			catch (Exception ex)
+			{
+
+			}
+		}
+
 		#endregion
 
 		#region Private Methods
@@ -87,6 +99,9 @@ namespace ToDo.UI.DataBases.Implementations.InternalStorage
 		#region Protected Methods
 
 		#endregion
+
+
+
 
 
 

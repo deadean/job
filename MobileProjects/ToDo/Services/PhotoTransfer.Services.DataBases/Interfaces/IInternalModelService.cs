@@ -14,5 +14,7 @@ namespace ToDo.Services.DataBases.Interfaces
 		Task<T> ItemById<T>(string id) where T : IEntity, new();
 		Task<List<T>> Items<T>() where T : IEntity, new();
 		Task<T> CreateEntity<T>();
+
+		Task Remove<T>(T selectedToDo) where T : IEntity, new();
 	}
 }

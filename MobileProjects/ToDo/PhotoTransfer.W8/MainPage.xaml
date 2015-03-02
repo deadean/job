@@ -60,7 +60,9 @@
 				<TextBox PlaceholderText="Add new to-do ..." Text="{Binding Path=Name, Mode=TwoWay}" VerticalAlignment="Center"/>
 			</StackPanel>
 
-			<ListView Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2" ItemsSource="{Binding Path=ToDos, UpdateSourceTrigger=PropertyChanged}"
+			<ListView Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2"
+								ItemsSource="{Binding Path=ToDos, UpdateSourceTrigger=PropertyChanged}"
+								SelectedItem="{Binding Path=SelectedToDo, Mode=TwoWay}"
                       >
 				<ListView.ItemTemplate>
 					<DataTemplate>
@@ -77,4 +79,13 @@
 
 
 	</Grid>
+
+
+	<common:PageBase.BottomAppBar>
+		<CommandBar IsOpen="{Binding Path=IsMenuOpen, Mode=TwoWay}">
+			<AppBarButton Label="Edit" Icon="Edit" Command="{Binding Path=EditCommand}"/>
+			<AppBarButton Label="Remove" Icon="Remove" Command="{Binding Path=RemoveCommand}"/>
+		</CommandBar>
+	</common:PageBase.BottomAppBar>
+
 </common:PageBase>

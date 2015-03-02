@@ -20,5 +20,9 @@ namespace ToDo.Services.DataBases.Interfaces
 
 		Task<T> ItemById<T>(string id)
 			where T : IEntity, new();
+
+		Task Remove<T>(T item)
+			where T : IEntity, new();
+
 	}
 }

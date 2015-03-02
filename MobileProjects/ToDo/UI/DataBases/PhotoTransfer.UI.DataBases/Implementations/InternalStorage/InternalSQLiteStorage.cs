@@ -48,15 +48,13 @@ namespace ToDo.UI.DataBases.Implementations.InternalStorage
 			await modDataAccessService.Update<T>(item);
 		}
 
+		public Task Remove<T>(T item) where T : IEntity, new()
+		{
+			return modDataAccessService.Remove<T>(item);
+		}
+
 		public async Task<List<T>> Items<T>() where T : IEntity, new()
 		{
-			//if (modCache.ContainsKey(typeof(T)))
-			//	return modCache[typeof(T)].Cast<T>().ToList();
-
-			//var res = await modDataAccessService.Items<T>();
-			//modCache.Add(typeof(T), res.Cast<IEntity>().ToList());
-
-			//return res;
 			return await modDataAccessService.Items<T>();
 		}
 
@@ -74,6 +72,9 @@ namespace ToDo.UI.DataBases.Implementations.InternalStorage
 		#region Protected Methods
 
 		#endregion
+
+
+
 
 
 

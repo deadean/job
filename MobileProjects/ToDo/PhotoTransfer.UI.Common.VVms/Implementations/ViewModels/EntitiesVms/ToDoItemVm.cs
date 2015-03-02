@@ -21,6 +21,8 @@ namespace PhotoTransfer.UI.Common.VVms.Implementations.ViewModels.EntitiesVms
 			Name = modTodo.Name;
 		}
 
+		public IToDo ToDo { get { return modTodo; } }
+
 
 		private string mvName;
 
