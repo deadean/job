@@ -8,3 +8,13 @@ C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\PhotoTransfer.D
 C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\PhotoTransfer.Data\obj\Debug\PhotoTransfer.Data.pdb
 C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\PhotoTransfer.Data\bin\Debug\Library.dll
 C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\PhotoTransfer.Data\bin\Debug\Library.pdb
+C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Data\bin\Debug\PhotoTransfer.Data.dll
+C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Data\bin\Debug\PhotoTransfer.Data.pdb
+C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Data\bin\Debug\Library.dll
+C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Data\bin\Debug\GalaSoft.MvvmLight.dll
+C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Data\bin\Debug\Library.pdb
+C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Data\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Data\bin\Debug\GalaSoft.MvvmLight.xml
+C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Data\obj\Debug\PhotoTransfer.Data.csprojResolveAssemblyReference.cache
+C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Data\obj\Debug\PhotoTransfer.Data.dll
+C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Data\obj\Debug\PhotoTransfer.Data.pdb

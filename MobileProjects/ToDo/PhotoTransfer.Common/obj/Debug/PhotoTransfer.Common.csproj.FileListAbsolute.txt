@@ -3,3 +3,8 @@ C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\PhotoTransfer.C
 C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\PhotoTransfer.Common\obj\Debug\PhotoTransfer.Common.csprojResolveAssemblyReference.cache
 C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\PhotoTransfer.Common\obj\Debug\PhotoTransfer.Common.dll
 C:\Job\Lizenza\MobileApps\branches\XamarinUniverse\PhotoTransfer\PhotoTransfer.Common\obj\Debug\PhotoTransfer.Common.pdb
+C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Common\bin\Debug\PhotoTransfer.Common.dll
+C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Common\bin\Debug\PhotoTransfer.Common.pdb
+C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Common\obj\Debug\PhotoTransfer.Common.csprojResolveAssemblyReference.cache
+C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Common\obj\Debug\PhotoTransfer.Common.dll
+C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Common\obj\Debug\PhotoTransfer.Common.pdb
