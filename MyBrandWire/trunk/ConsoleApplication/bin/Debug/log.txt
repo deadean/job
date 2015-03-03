@@ -1,0 +1,1495 @@
+ERROR :ResultsParsing/0.bmp█
+ERROR :ResultsParsing/1.bmp█
+ERROR :ResultsParsing/2.bmp█
+ERROR :ResultsParsing/3.bmp█
+ERROR :ResultsParsing/4.bmp█
+ERROR :ResultsParsing/5.bmp█
+ERROR :ResultsParsing/6.bmp█
+ERROR :ResultsParsing/7.bmp█
+ERROR :ResultsParsing/8.bmp█
+ERROR :ResultsParsing/9.bmp█
+ERROR :Compare 1 with 1 template : 14.2128571428572█
+ERROR :Compare 1 with 2 template : 10.834065934066█
+ERROR :Compare 1 with 3 template : 14.2372527472528█
+ERROR :Compare 1 with 4 template : 13.2004395604396█
+ERROR :Compare 1 with 5 template : 13.1028571428572█
+ERROR :Compare 1 with 6 template : 14.7861538461539█
+ERROR :Compare 1 with 7 template : 14.0054945054945█
+ERROR :Compare 1 with 8 template : 10.6145054945055█
+ERROR :Compare 1 with 9 template : 15.2862637362638█
+ERROR :Compare 1 with 10 template : 15.7131868131869█
+ERROR :Results is 7█
+ERROR :Compare 2 with 1 template : 14.1152747252748█
+ERROR :Compare 2 with 2 template : 10.0046153846154█
+ERROR :Compare 2 with 3 template : 13.6639560439561█
+ERROR :Compare 2 with 4 template : 13.6151648351649█
+ERROR :Compare 2 with 5 template : 14.5787912087912█
+ERROR :Compare 2 with 6 template : 13.9689010989011█
+ERROR :Compare 2 with 7 template : 14.6641758241758█
+ERROR :Compare 2 with 8 template : 10.6389010989012█
+ERROR :Compare 2 with 9 template : 16.1889010989011█
+ERROR :Compare 2 with 10 template : 16.3718681318682█
+ERROR :Results is 1█
+ERROR :Compare 3 with 1 template : 18.7992307692308█
+ERROR :Compare 3 with 2 template : 15.7741758241759█
+ERROR :Compare 3 with 3 template : 19.1529670329671█
+ERROR :Compare 3 with 4 template : 17.7502197802198█
+ERROR :Compare 3 with 5 template : 20.2873626373627█
+ERROR :Compare 3 with 6 template : 17.3720879120879█
+ERROR :Compare 3 with 7 template : 18.9821978021978█
+ERROR :Compare 3 with 8 template : 15.2496703296704█
+ERROR :Compare 3 with 9 template : 20.9094505494506█
+ERROR :Compare 3 with 10 template : 20.9826373626374█
+ERROR :Results is 7█
+ERROR :Compare 4 with 1 template : 18.4576923076924█
+ERROR :Compare 4 with 2 template : 13.8469230769231█
+ERROR :Compare 4 with 3 template : 16.1645054945056█
+ERROR :Compare 4 with 4 template : 14.5056043956045█
+ERROR :Compare 4 with 5 template : 16.9085714285715█
+ERROR :Compare 4 with 6 template : 15.5546153846154█
+ERROR :Compare 4 with 7 template : 16.1645054945055█
+ERROR :Compare 4 with 8 template : 15.6156043956044█
+ERROR :Compare 4 with 9 template : 17.3842857142858█
+ERROR :Compare 4 with 10 template : 18.1649450549451█
+ERROR :Results is 1█
+ERROR :Compare 5 with 1 template : 14.4324175824176█
+ERROR :Compare 5 with 2 template : 14.2128571428572█
+ERROR :Compare 5 with 3 template : 18.2991208791209█
+ERROR :Compare 5 with 4 template : 18.9578021978022█
+ERROR :Compare 5 with 5 template : 16.1157142857143█
+ERROR :Compare 5 with 6 template : 17.3110989010989█
+ERROR :Compare 5 with 7 template : 18.0185714285714█
+ERROR :Compare 5 with 8 template : 18.3723076923077█
+ERROR :Compare 5 with 9 template : 19.0675824175824█
+ERROR :Compare 5 with 10 template : 19.0431868131868█
+ERROR :Results is 1█
+ERROR :ResultsParsing/0.bmp█
+ERROR :ResultsParsing/1.bmp█
+ERROR :ResultsParsing/2.bmp█
+ERROR :ResultsParsing/3.bmp█
+ERROR :ResultsParsing/4.bmp█
+ERROR :ResultsParsing/5.bmp█
+ERROR :ResultsParsing/6.bmp█
+ERROR :ResultsParsing/7.bmp█
+ERROR :ResultsParsing/8.bmp█
+ERROR :ResultsParsing/9.bmp█
+ERROR :Compare 1 with 1 template : 14.1152747252748█
+ERROR :Compare 1 with 2 template : 10.0046153846154█
+ERROR :Compare 1 with 3 template : 13.6639560439561█
+ERROR :Compare 1 with 4 template : 13.6151648351649█
+ERROR :Compare 1 with 5 template : 14.5787912087912█
+ERROR :Compare 1 with 6 template : 13.9689010989011█
+ERROR :Compare 1 with 7 template : 14.6641758241758█
+ERROR :Compare 1 with 8 template : 10.6389010989012█
+ERROR :Compare 1 with 9 template : 16.1889010989011█
+ERROR :Compare 1 with 10 template : 16.3718681318682█
+ERROR :Results is 1█
+ERROR :Compare 2 with 1 template : 14.1152747252748█
+ERROR :Compare 2 with 2 template : 10.0046153846154█
+ERROR :Compare 2 with 3 template : 13.6639560439561█
+ERROR :Compare 2 with 4 template : 13.6151648351649█
+ERROR :Compare 2 with 5 template : 14.5787912087912█
+ERROR :Compare 2 with 6 template : 13.9689010989011█
+ERROR :Compare 2 with 7 template : 14.6641758241758█
+ERROR :Compare 2 with 8 template : 10.6389010989012█
+ERROR :Compare 2 with 9 template : 16.1889010989011█
+ERROR :Compare 2 with 10 template : 16.3718681318682█
+ERROR :Results is 1█
+ERROR :Compare 3 with 1 template : 14.1152747252748█
+ERROR :Compare 3 with 2 template : 10.0046153846154█
+ERROR :Compare 3 with 3 template : 13.6639560439561█
+ERROR :Compare 3 with 4 template : 13.6151648351649█
+ERROR :Compare 3 with 5 template : 14.5787912087912█
+ERROR :Compare 3 with 6 template : 13.9689010989011█
+ERROR :Compare 3 with 7 template : 14.6641758241758█
+ERROR :Compare 3 with 8 template : 10.6389010989012█
+ERROR :Compare 3 with 9 template : 16.1889010989011█
+ERROR :Compare 3 with 10 template : 16.3718681318682█
+ERROR :Results is 1█
+ERROR :Compare 4 with 1 template : 14.1152747252748█
+ERROR :Compare 4 with 2 template : 10.0046153846154█
+ERROR :Compare 4 with 3 template : 13.6639560439561█
+ERROR :Compare 4 with 4 template : 13.6151648351649█
+ERROR :Compare 4 with 5 template : 14.5787912087912█
+ERROR :Compare 4 with 6 template : 13.9689010989011█
+ERROR :Compare 4 with 7 template : 14.6641758241758█
+ERROR :Compare 4 with 8 template : 10.6389010989012█
+ERROR :Compare 4 with 9 template : 16.1889010989011█
+ERROR :Compare 4 with 10 template : 16.3718681318682█
+ERROR :Results is 1█
+ERROR :Compare 5 with 1 template : 13.0540659340659█
+ERROR :Compare 5 with 2 template : 8.7238461538462█
+ERROR :Compare 5 with 3 template : 11.5903296703297█
+ERROR :Compare 5 with 4 template : 12.4075824175825█
+ERROR :Compare 5 with 5 template : 12.5661538461539█
+ERROR :Compare 5 with 6 template : 11.8952747252747█
+ERROR :Compare 5 with 7 template : 13.8835164835165█
+ERROR :Compare 5 with 8 template : 9.50450549450555█
+ERROR :Compare 5 with 9 template : 14.0786813186814█
+ERROR :Compare 5 with 10 template : 15.4936263736264█
+ERROR :Results is 1█
+ERROR :ResultsParsing/0.bmp█
+ERROR :ResultsParsing/1.bmp█
+ERROR :ResultsParsing/2.bmp█
+ERROR :ResultsParsing/3.bmp█
+ERROR :ResultsParsing/4.bmp█
+ERROR :ResultsParsing/5.bmp█
+ERROR :ResultsParsing/6.bmp█
+ERROR :ResultsParsing/7.bmp█
+ERROR :ResultsParsing/8.bmp█
+ERROR :ResultsParsing/9.bmp█
+ERROR :Compare 1 with 1 template : 14.1152747252748█
+ERROR :Compare 1 with 2 template : 10.0046153846154█
+ERROR :Compare 1 with 3 template : 13.6639560439561█
+ERROR :Compare 1 with 4 template : 13.6151648351649█
+ERROR :Compare 1 with 5 template : 14.5787912087912█
+ERROR :Compare 1 with 6 template : 13.9689010989011█
+ERROR :Compare 1 with 7 template : 14.6641758241758█
+ERROR :Compare 1 with 8 template : 10.6389010989012█
+ERROR :Compare 1 with 9 template : 16.1889010989011█
+ERROR :Compare 1 with 10 template : 16.3718681318682█
+ERROR :Results is 1█
+ERROR :Compare 2 with 1 template : 14.1152747252748█
+ERROR :Compare 2 with 2 template : 10.0046153846154█
+ERROR :Compare 2 with 3 template : 13.6639560439561█
+ERROR :Compare 2 with 4 template : 13.6151648351649█
+ERROR :Compare 2 with 5 template : 14.5787912087912█
+ERROR :Compare 2 with 6 template : 13.9689010989011█
+ERROR :Compare 2 with 7 template : 14.6641758241758█
+ERROR :Compare 2 with 8 template : 10.6389010989012█
+ERROR :Compare 2 with 9 template : 16.1889010989011█
+ERROR :Compare 2 with 10 template : 16.3718681318682█
+ERROR :Results is 1█
+ERROR :Compare 3 with 1 template : 14.1152747252748█
+ERROR :Compare 3 with 2 template : 10.0046153846154█
+ERROR :Compare 3 with 3 template : 13.6639560439561█
+ERROR :Compare 3 with 4 template : 13.6151648351649█
+ERROR :Compare 3 with 5 template : 14.5787912087912█
+ERROR :Compare 3 with 6 template : 13.9689010989011█
+ERROR :Compare 3 with 7 template : 14.6641758241758█
+ERROR :Compare 3 with 8 template : 10.6389010989012█
+ERROR :Compare 3 with 9 template : 16.1889010989011█
+ERROR :Compare 3 with 10 template : 16.3718681318682█
+ERROR :Results is 1█
+ERROR :Compare 4 with 1 template : 14.1152747252748█
+ERROR :Compare 4 with 2 template : 10.0046153846154█
+ERROR :Compare 4 with 3 template : 13.6639560439561█
+ERROR :Compare 4 with 4 template : 13.6151648351649█
+ERROR :Compare 4 with 5 template : 14.5787912087912█
+ERROR :Compare 4 with 6 template : 13.9689010989011█
+ERROR :Compare 4 with 7 template : 14.6641758241758█
+ERROR :Compare 4 with 8 template : 10.6389010989012█
+ERROR :Compare 4 with 9 template : 16.1889010989011█
+ERROR :Compare 4 with 10 template : 16.3718681318682█
+ERROR :Results is 1█
+ERROR :Compare 5 with 1 template : 13.0540659340659█
+ERROR :Compare 5 with 2 template : 8.7238461538462█
+ERROR :Compare 5 with 3 template : 11.5903296703297█
+ERROR :Compare 5 with 4 template : 12.4075824175825█
+ERROR :Compare 5 with 5 template : 12.5661538461539█
+ERROR :Compare 5 with 6 template : 11.8952747252747█
+ERROR :Compare 5 with 7 template : 13.8835164835165█
+ERROR :Compare 5 with 8 template : 9.50450549450555█
+ERROR :Compare 5 with 9 template : 14.0786813186814█
+ERROR :Compare 5 with 10 template : 15.4936263736264█
+ERROR :Results is 1█
+ERROR :ResultsParsing/0.bmp█
+ERROR :ResultsParsing/1.bmp█
+ERROR :ResultsParsing/2.bmp█
+ERROR :ResultsParsing/3.bmp█
+ERROR :ResultsParsing/4.bmp█
+ERROR :ResultsParsing/5.bmp█
+ERROR :ResultsParsing/6.bmp█
+ERROR :ResultsParsing/7.bmp█
+ERROR :ResultsParsing/8.bmp█
+ERROR :ResultsParsing/9.bmp█
+ERROR :Compare 1 with 1 template : 14.1152747252748█
+ERROR :Compare 1 with 2 template : 10.0046153846154█
+ERROR :Compare 1 with 3 template : 13.6639560439561█
+ERROR :Compare 1 with 4 template : 13.6151648351649█
+ERROR :Compare 1 with 5 template : 14.5787912087912█
+ERROR :Compare 1 with 6 template : 13.9689010989011█
+ERROR :Compare 1 with 7 template : 14.6641758241758█
+ERROR :Compare 1 with 8 template : 10.6389010989012█
+ERROR :Compare 1 with 9 template : 16.1889010989011█
+ERROR :Compare 1 with 10 template : 16.3718681318682█
+ERROR :Results is 1█
+ERROR :Compare 2 with 1 template : 14.1152747252748█
+ERROR :Compare 2 with 2 template : 10.0046153846154█
+ERROR :Compare 2 with 3 template : 13.6639560439561█
+ERROR :Compare 2 with 4 template : 13.6151648351649█
+ERROR :Compare 2 with 5 template : 14.5787912087912█
+ERROR :Compare 2 with 6 template : 13.9689010989011█
+ERROR :Compare 2 with 7 template : 14.6641758241758█
+ERROR :Compare 2 with 8 template : 10.6389010989012█
+ERROR :Compare 2 with 9 template : 16.1889010989011█
+ERROR :Compare 2 with 10 template : 16.3718681318682█
+ERROR :Results is 1█
+ERROR :Compare 3 with 1 template : 14.1152747252748█
+ERROR :Compare 3 with 2 template : 10.0046153846154█
+ERROR :Compare 3 with 3 template : 13.6639560439561█
+ERROR :Compare 3 with 4 template : 13.6151648351649█
+ERROR :Compare 3 with 5 template : 14.5787912087912█
+ERROR :Compare 3 with 6 template : 13.9689010989011█
+ERROR :Compare 3 with 7 template : 14.6641758241758█
+ERROR :Compare 3 with 8 template : 10.6389010989012█
+ERROR :Compare 3 with 9 template : 16.1889010989011█
+ERROR :Compare 3 with 10 template : 16.3718681318682█
+ERROR :Results is 1█
+ERROR :Compare 4 with 1 template : 12.5661538461539█
+ERROR :Compare 4 with 2 template : 8.87021978021983█
+ERROR :Compare 4 with 3 template : 10.9072527472528█
+ERROR :Compare 4 with 4 template : 10.7974725274726█
+ERROR :Compare 4 with 5 template : 13.7493406593407█
+ERROR :Compare 4 with 6 template : 10.9438461538462█
+ERROR :Compare 4 with 7 template : 13.4687912087912█
+ERROR :Compare 4 with 8 template : 10.2485714285715█
+ERROR :Compare 4 with 9 template : 13.1394505494506█
+ERROR :Compare 4 with 10 template : 13.7005494505495█
+ERROR :Results is 1█
+ERROR :Compare 5 with 1 template : 16.3962637362638█
+ERROR :Compare 5 with 2 template : 17.3232967032967█
+ERROR :Compare 5 with 3 template : 16.0669230769231█
+ERROR :Compare 5 with 4 template : 13.8225274725275█
+ERROR :Compare 5 with 5 template : 14.225054945055█
+ERROR :Compare 5 with 6 template : 15.6034065934067█
+ERROR :Compare 5 with 7 template : 15.3472527472527█
+ERROR :Compare 5 with 8 template : 14.6397802197802█
+ERROR :Compare 5 with 9 template : 15.9327472527473█
+ERROR :Compare 5 with 10 template : 15.518021978022█
+ERROR :Results is 3█
+ERROR :ResultsParsing/0.bmp█
+ERROR :ResultsParsing/1.bmp█
+ERROR :ResultsParsing/2.bmp█
+ERROR :ResultsParsing/3.bmp█
+ERROR :ResultsParsing/4.bmp█
+ERROR :ResultsParsing/5.bmp█
+ERROR :ResultsParsing/6.bmp█
+ERROR :ResultsParsing/7.bmp█
+ERROR :ResultsParsing/8.bmp█
+ERROR :ResultsParsing/9.bmp█
+ERROR :Compare 1 with 1 template : 14.1152747252748█
+ERROR :Compare 1 with 2 template : 10.0046153846154█
+ERROR :Compare 1 with 3 template : 13.6639560439561█
+ERROR :Compare 1 with 4 template : 13.6151648351649█
+ERROR :Compare 1 with 5 template : 14.5787912087912█
+ERROR :Compare 1 with 6 template : 13.9689010989011█
+ERROR :Compare 1 with 7 template : 14.6641758241758█
+ERROR :Compare 1 with 8 template : 10.6389010989012█
+ERROR :Compare 1 with 9 template : 16.1889010989011█
+ERROR :Compare 1 with 10 template : 16.3718681318682█
+ERROR :Results is 1█
+ERROR :Compare 2 with 1 template : 12.9442857142857█
+ERROR :Compare 2 with 2 template : 8.76043956043961█
+ERROR :Compare 2 with 3 template : 12.5661538461539█
+ERROR :Compare 2 with 4 template : 12.7979120879121█
+ERROR :Compare 2 with 5 template : 13.4687912087912█
+ERROR :Compare 2 with 6 template : 13.2736263736264█
+ERROR :Compare 2 with 7 template : 13.7615384615385█
+ERROR :Compare 2 with 8 template : 9.84604395604401█
+ERROR :Compare 2 with 9 template : 15.1520879120879█
+ERROR :Compare 2 with 10 template : 15.9815384615385█
+ERROR :Results is 1█
+ERROR :Compare 3 with 1 template : 17.1769230769231█
+ERROR :Compare 3 with 2 template : 10.09█
+ERROR :Compare 3 with 3 template : 14.6885714285715█
+ERROR :Compare 3 with 4 template : 15.7863736263736█
+ERROR :Compare 3 with 5 template : 16.0303296703297█
+ERROR :Compare 3 with 6 template : 16.628021978022█
+ERROR :Compare 3 with 7 template : 17.8478021978022█
+ERROR :Compare 3 with 8 template : 14.1640659340659█
+ERROR :Compare 3 with 9 template : 18.5552747252747█
+ERROR :Compare 3 with 10 template : 19.152967032967█
+ERROR :Results is 1█
+ERROR :Compare 4 with 1 template : 14.1152747252748█
+ERROR :Compare 4 with 2 template : 10.0046153846154█
+ERROR :Compare 4 with 3 template : 13.6639560439561█
+ERROR :Compare 4 with 4 template : 13.6151648351649█
+ERROR :Compare 4 with 5 template : 14.5787912087912█
+ERROR :Compare 4 with 6 template : 13.9689010989011█
+ERROR :Compare 4 with 7 template : 14.6641758241758█
+ERROR :Compare 4 with 8 template : 10.6389010989012█
+ERROR :Compare 4 with 9 template : 16.1889010989011█
+ERROR :Compare 4 with 10 template : 16.3718681318682█
+ERROR :Results is 1█
+ERROR :Compare 5 with 1 template : 14.1152747252748█
+ERROR :Compare 5 with 2 template : 10.0046153846154█
+ERROR :Compare 5 with 3 template : 13.6639560439561█
+ERROR :Compare 5 with 4 template : 13.6151648351649█
+ERROR :Compare 5 with 5 template : 14.5787912087912█
+ERROR :Compare 5 with 6 template : 13.9689010989011█
+ERROR :Compare 5 with 7 template : 14.6641758241758█
+ERROR :Compare 5 with 8 template : 10.6389010989012█
+ERROR :Compare 5 with 9 template : 16.1889010989011█
+ERROR :Compare 5 with 10 template : 16.3718681318682█
+ERROR :Results is 1█
+ERROR :ResultsParsing/0.bmp█
+ERROR :ResultsParsing/1.bmp█
+ERROR :ResultsParsing/2.bmp█
+ERROR :ResultsParsing/3.bmp█
+ERROR :ResultsParsing/4.bmp█
+ERROR :ResultsParsing/5.bmp█
+ERROR :ResultsParsing/6.bmp█
+ERROR :ResultsParsing/7.bmp█
+ERROR :ResultsParsing/8.bmp█
+ERROR :ResultsParsing/9.bmp█
+ERROR :Compare 1 with 1 template : 14.1152747252748█
+ERROR :Compare 1 with 2 template : 10.0046153846154█
+ERROR :Compare 1 with 3 template : 13.6639560439561█
+ERROR :Compare 1 with 4 template : 13.6151648351649█
+ERROR :Compare 1 with 5 template : 14.5787912087912█
+ERROR :Compare 1 with 6 template : 13.9689010989011█
+ERROR :Compare 1 with 7 template : 14.6641758241758█
+ERROR :Compare 1 with 8 template : 10.6389010989012█
+ERROR :Compare 1 with 9 template : 16.1889010989011█
+ERROR :Compare 1 with 10 template : 16.3718681318682█
+ERROR :Results is 1█
+ERROR :Compare 2 with 1 template : 14.1152747252748█
+ERROR :Compare 2 with 2 template : 10.0046153846154█
+ERROR :Compare 2 with 3 template : 13.6639560439561█
+ERROR :Compare 2 with 4 template : 13.6151648351649█
+ERROR :Compare 2 with 5 template : 14.5787912087912█
+ERROR :Compare 2 with 6 template : 13.9689010989011█
+ERROR :Compare 2 with 7 template : 14.6641758241758█
+ERROR :Compare 2 with 8 template : 10.6389010989012█
+ERROR :Compare 2 with 9 template : 16.1889010989011█
+ERROR :Compare 2 with 10 template : 16.3718681318682█
+ERROR :Results is 1█
+ERROR :Compare 3 with 1 template : 14.1152747252748█
+ERROR :Compare 3 with 2 template : 10.0046153846154█
+ERROR :Compare 3 with 3 template : 13.6639560439561█
+ERROR :Compare 3 with 4 template : 13.6151648351649█
+ERROR :Compare 3 with 5 template : 14.5787912087912█
+ERROR :Compare 3 with 6 template : 13.9689010989011█
+ERROR :Compare 3 with 7 template : 14.6641758241758█
+ERROR :Compare 3 with 8 template : 10.6389010989012█
+ERROR :Compare 3 with 9 template : 16.1889010989011█
+ERROR :Compare 3 with 10 template : 16.3718681318682█
+ERROR :Results is 1█
+ERROR :Compare 4 with 1 template : 14.1152747252748█
+ERROR :Compare 4 with 2 template : 10.0046153846154█
+ERROR :Compare 4 with 3 template : 13.6639560439561█
+ERROR :Compare 4 with 4 template : 13.6151648351649█
+ERROR :Compare 4 with 5 template : 14.5787912087912█
+ERROR :Compare 4 with 6 template : 13.9689010989011█
+ERROR :Compare 4 with 7 template : 14.6641758241758█
+ERROR :Compare 4 with 8 template : 10.6389010989012█
+ERROR :Compare 4 with 9 template : 16.1889010989011█
+ERROR :Compare 4 with 10 template : 16.3718681318682█
+ERROR :Results is 1█
+ERROR :Compare 5 with 1 template : 14.1152747252748█
+ERROR :Compare 5 with 2 template : 10.0046153846154█
+ERROR :Compare 5 with 3 template : 13.6639560439561█
+ERROR :Compare 5 with 4 template : 13.6151648351649█
+ERROR :Compare 5 with 5 template : 14.5787912087912█
+ERROR :Compare 5 with 6 template : 13.9689010989011█
+ERROR :Compare 5 with 7 template : 14.6641758241758█
+ERROR :Compare 5 with 8 template : 10.6389010989012█
+ERROR :Compare 5 with 9 template : 16.1889010989011█
+ERROR :Compare 5 with 10 template : 16.3718681318682█
+ERROR :Results is 1█
+ERROR :ResultsParsing/0.bmp█
+ERROR :ResultsParsing/1.bmp█
+ERROR :ResultsParsing/2.bmp█
+ERROR :ResultsParsing/3.bmp█
+ERROR :ResultsParsing/4.bmp█
+ERROR :ResultsParsing/5.bmp█
+ERROR :ResultsParsing/6.bmp█
+ERROR :ResultsParsing/7.bmp█
+ERROR :ResultsParsing/8.bmp█
+ERROR :ResultsParsing/9.bmp█
+ERROR :Compare 1 with 1 template : 14.1152747252748█
+ERROR :Compare 1 with 2 template : 10.0046153846154█
+ERROR :Compare 1 with 3 template : 13.6639560439561█
+ERROR :Compare 1 with 4 template : 13.6151648351649█
+ERROR :Compare 1 with 5 template : 14.5787912087912█
+ERROR :Compare 1 with 6 template : 13.9689010989011█
+ERROR :Compare 1 with 7 template : 14.6641758241758█
+ERROR :Compare 1 with 8 template : 10.6389010989012█
+ERROR :Compare 1 with 9 template : 16.1889010989011█
+ERROR :Compare 1 with 10 template : 16.3718681318682█
+ERROR :Results is 1█
+ERROR :Compare 2 with 1 template : 14.1152747252748█
+ERROR :Compare 2 with 2 template : 10.0046153846154█
+ERROR :Compare 2 with 3 template : 13.6639560439561█
+ERROR :Compare 2 with 4 template : 13.6151648351649█
+ERROR :Compare 2 with 5 template : 14.5787912087912█
+ERROR :Compare 2 with 6 template : 13.9689010989011█
+ERROR :Compare 2 with 7 template : 14.6641758241758█
+ERROR :Compare 2 with 8 template : 10.6389010989012█
+ERROR :Compare 2 with 9 template : 16.1889010989011█
+ERROR :Compare 2 with 10 template : 16.3718681318682█
+ERROR :Results is 1█
+ERROR :Compare 3 with 1 template : 14.1152747252748█
+ERROR :Compare 3 with 2 template : 10.0046153846154█
+ERROR :Compare 3 with 3 template : 13.6639560439561█
+ERROR :Compare 3 with 4 template : 13.6151648351649█
+ERROR :Compare 3 with 5 template : 14.5787912087912█
+ERROR :Compare 3 with 6 template : 13.9689010989011█
+ERROR :Compare 3 with 7 template : 14.6641758241758█
+ERROR :Compare 3 with 8 template : 10.6389010989012█
+ERROR :Compare 3 with 9 template : 16.1889010989011█
+ERROR :Compare 3 with 10 template : 16.3718681318682█
+ERROR :Results is 1█
+ERROR :Compare 4 with 1 template : 14.1152747252748█
+ERROR :Compare 4 with 2 template : 10.0046153846154█
+ERROR :Compare 4 with 3 template : 13.6639560439561█
+ERROR :Compare 4 with 4 template : 13.6151648351649█
+ERROR :Compare 4 with 5 template : 14.5787912087912█
+ERROR :Compare 4 with 6 template : 13.9689010989011█
+ERROR :Compare 4 with 7 template : 14.6641758241758█
+ERROR :Compare 4 with 8 template : 10.6389010989012█
+ERROR :Compare 4 with 9 template : 16.1889010989011█
+ERROR :Compare 4 with 10 template : 16.3718681318682█
+ERROR :Results is 1█
+ERROR :Compare 5 with 1 template : 14.1152747252748█
+ERROR :Compare 5 with 2 template : 10.0046153846154█
+ERROR :Compare 5 with 3 template : 13.6639560439561█
+ERROR :Compare 5 with 4 template : 13.6151648351649█
+ERROR :Compare 5 with 5 template : 14.5787912087912█
+ERROR :Compare 5 with 6 template : 13.9689010989011█
+ERROR :Compare 5 with 7 template : 14.6641758241758█
+ERROR :Compare 5 with 8 template : 10.6389010989012█
+ERROR :Compare 5 with 9 template : 16.1889010989011█
+ERROR :Compare 5 with 10 template : 16.3718681318682█
+ERROR :Results is 1█
+ERROR :ResultsParsing/0.bmp█
+ERROR :ResultsParsing/1.bmp█
+ERROR :ResultsParsing/2.bmp█
+ERROR :ResultsParsing/3.bmp█
+ERROR :ResultsParsing/4.bmp█
+ERROR :ResultsParsing/5.bmp█
+ERROR :ResultsParsing/6.bmp█
+ERROR :ResultsParsing/7.bmp█
+ERROR :ResultsParsing/8.bmp█
+ERROR :ResultsParsing/9.bmp█
+ERROR :Compare 1 with 1 template : 14.1152747252748█
+ERROR :Compare 1 with 2 template : 10.0046153846154█
+ERROR :Compare 1 with 3 template : 13.6639560439561█
+ERROR :Compare 1 with 4 template : 13.6151648351649█
+ERROR :Compare 1 with 5 template : 14.5787912087912█
+ERROR :Compare 1 with 6 template : 13.9689010989011█
+ERROR :Compare 1 with 7 template : 14.6641758241758█
+ERROR :Compare 1 with 8 template : 10.6389010989012█
+ERROR :Compare 1 with 9 template : 16.1889010989011█
+ERROR :Compare 1 with 10 template : 16.3718681318682█
+ERROR :Results is 1█
+ERROR :Compare 2 with 1 template : 14.1152747252748█
+ERROR :Compare 2 with 2 template : 10.0046153846154█
+ERROR :Compare 2 with 3 template : 13.6639560439561█
+ERROR :Compare 2 with 4 template : 13.6151648351649█
+ERROR :Compare 2 with 5 template : 14.5787912087912█
+ERROR :Compare 2 with 6 template : 13.9689010989011█
+ERROR :Compare 2 with 7 template : 14.6641758241758█
+ERROR :Compare 2 with 8 template : 10.6389010989012█
+ERROR :Compare 2 with 9 template : 16.1889010989011█
+ERROR :Compare 2 with 10 template : 16.3718681318682█
+ERROR :Results is 1█
+ERROR :Compare 3 with 1 template : 14.1152747252748█
+ERROR :Compare 3 with 2 template : 10.0046153846154█
+ERROR :Compare 3 with 3 template : 13.6639560439561█
+ERROR :Compare 3 with 4 template : 13.6151648351649█
+ERROR :Compare 3 with 5 template : 14.5787912087912█
+ERROR :Compare 3 with 6 template : 13.9689010989011█
+ERROR :Compare 3 with 7 template : 14.6641758241758█
+ERROR :Compare 3 with 8 template : 10.6389010989012█
+ERROR :Compare 3 with 9 template : 16.1889010989011█
+ERROR :Compare 3 with 10 template : 16.3718681318682█
+ERROR :Results is 1█
+ERROR :Compare 4 with 1 template : 14.1152747252748█
+ERROR :Compare 4 with 2 template : 10.0046153846154█
+ERROR :Compare 4 with 3 template : 13.6639560439561█
+ERROR :Compare 4 with 4 template : 13.6151648351649█
+ERROR :Compare 4 with 5 template : 14.5787912087912█
+ERROR :Compare 4 with 6 template : 13.9689010989011█
+ERROR :Compare 4 with 7 template : 14.6641758241758█
+ERROR :Compare 4 with 8 template : 10.6389010989012█
+ERROR :Compare 4 with 9 template : 16.1889010989011█
+ERROR :Compare 4 with 10 template : 16.3718681318682█
+ERROR :Results is 1█
+ERROR :Compare 5 with 1 template : 14.1152747252748█
+ERROR :Compare 5 with 2 template : 10.0046153846154█
+ERROR :Compare 5 with 3 template : 13.6639560439561█
+ERROR :Compare 5 with 4 template : 13.6151648351649█
+ERROR :Compare 5 with 5 template : 14.5787912087912█
+ERROR :Compare 5 with 6 template : 13.9689010989011█
+ERROR :Compare 5 with 7 template : 14.6641758241758█
+ERROR :Compare 5 with 8 template : 10.6389010989012█
+ERROR :Compare 5 with 9 template : 16.1889010989011█
+ERROR :Compare 5 with 10 template : 16.3718681318682█
+ERROR :Results is 1█
+ERROR :ResultsParsing/0.bmp█
+ERROR :ResultsParsing/1.bmp█
+ERROR :ResultsParsing/2.bmp█
+ERROR :ResultsParsing/3.bmp█
+ERROR :ResultsParsing/4.bmp█
+ERROR :ResultsParsing/5.bmp█
+ERROR :ResultsParsing/6.bmp█
+ERROR :ResultsParsing/7.bmp█
+ERROR :ResultsParsing/8.bmp█
+ERROR :ResultsParsing/9.bmp█
+ERROR :Compare 1 with 1 template : 14.1152747252748█
+ERROR :Compare 1 with 2 template : 10.0046153846154█
+ERROR :Compare 1 with 3 template : 13.6639560439561█
+ERROR :Compare 1 with 4 template : 13.6151648351649█
+ERROR :Compare 1 with 5 template : 14.5787912087912█
+ERROR :Compare 1 with 6 template : 13.9689010989011█
+ERROR :Compare 1 with 7 template : 14.6641758241758█
+ERROR :Compare 1 with 8 template : 10.6389010989012█
+ERROR :Compare 1 with 9 template : 16.1889010989011█
+ERROR :Compare 1 with 10 template : 16.3718681318682█
+ERROR :Results is 1█
+ERROR :Compare 2 with 1 template : 14.1152747252748█
+ERROR :Compare 2 with 2 template : 10.0046153846154█
+ERROR :Compare 2 with 3 template : 13.6639560439561█
+ERROR :Compare 2 with 4 template : 13.6151648351649█
+ERROR :Compare 2 with 5 template : 14.5787912087912█
+ERROR :Compare 2 with 6 template : 13.9689010989011█
+ERROR :Compare 2 with 7 template : 14.6641758241758█
+ERROR :Compare 2 with 8 template : 10.6389010989012█
+ERROR :Compare 2 with 9 template : 16.1889010989011█
+ERROR :Compare 2 with 10 template : 16.3718681318682█
+ERROR :Results is 1█
+ERROR :Compare 3 with 1 template : 14.1152747252748█
+ERROR :Compare 3 with 2 template : 10.0046153846154█
+ERROR :Compare 3 with 3 template : 13.6639560439561█
+ERROR :Compare 3 with 4 template : 13.6151648351649█
+ERROR :Compare 3 with 5 template : 14.5787912087912█
+ERROR :Compare 3 with 6 template : 13.9689010989011█
+ERROR :Compare 3 with 7 template : 14.6641758241758█
+ERROR :Compare 3 with 8 template : 10.6389010989012█
+ERROR :Compare 3 with 9 template : 16.1889010989011█
+ERROR :Compare 3 with 10 template : 16.3718681318682█
+ERROR :Results is 1█
+ERROR :Compare 4 with 1 template : 14.1152747252748█
+ERROR :Compare 4 with 2 template : 10.0046153846154█
+ERROR :Compare 4 with 3 template : 13.6639560439561█
+ERROR :Compare 4 with 4 template : 13.6151648351649█
+ERROR :Compare 4 with 5 template : 14.5787912087912█
+ERROR :Compare 4 with 6 template : 13.9689010989011█
+ERROR :Compare 4 with 7 template : 14.6641758241758█
+ERROR :Compare 4 with 8 template : 10.6389010989012█
+ERROR :Compare 4 with 9 template : 16.1889010989011█
+ERROR :Compare 4 with 10 template : 16.3718681318682█
+ERROR :Results is 1█
+ERROR :Compare 5 with 1 template : 14.1152747252748█
+ERROR :Compare 5 with 2 template : 10.0046153846154█
+ERROR :Compare 5 with 3 template : 13.6639560439561█
+ERROR :Compare 5 with 4 template : 13.6151648351649█
+ERROR :Compare 5 with 5 template : 14.5787912087912█
+ERROR :Compare 5 with 6 template : 13.9689010989011█
+ERROR :Compare 5 with 7 template : 14.6641758241758█
+ERROR :Compare 5 with 8 template : 10.6389010989012█
+ERROR :Compare 5 with 9 template : 16.1889010989011█
+ERROR :Compare 5 with 10 template : 16.3718681318682█
+ERROR :Results is 1█
+ERROR :ResultsParsing/0.bmp█
+ERROR :ResultsParsing/1.bmp█
+ERROR :ResultsParsing/2.bmp█
+ERROR :ResultsParsing/3.bmp█
+ERROR :ResultsParsing/4.bmp█
+ERROR :ResultsParsing/5.bmp█
+ERROR :ResultsParsing/6.bmp█
+ERROR :ResultsParsing/7.bmp█
+ERROR :ResultsParsing/8.bmp█
+ERROR :ResultsParsing/9.bmp█
+ERROR :Compare 1 with 1 template : 14.3104395604396█
+ERROR :Compare 1 with 2 template : 10.9316483516484█
+ERROR :Compare 1 with 3 template : 14.0054945054946█
+ERROR :Compare 1 with 4 template : 13.3468131868133█
+ERROR :Compare 1 with 5 template : 13.1638461538462█
+ERROR :Compare 1 with 6 template : 14.8349450549451█
+ERROR :Compare 1 with 7 template : 14.1396703296704█
+ERROR :Compare 1 with 8 template : 10.6998901098901█
+ERROR :Compare 1 with 9 template : 15.396043956044█
+ERROR :Compare 1 with 10 template : 15.579010989011█
+ERROR :Results is 7█
+ERROR :Compare 2 with 1 template : 14.1152747252748█
+ERROR :Compare 2 with 2 template : 10.0046153846154█
+ERROR :Compare 2 with 3 template : 13.6639560439561█
+ERROR :Compare 2 with 4 template : 13.6151648351649█
+ERROR :Compare 2 with 5 template : 14.5787912087912█
+ERROR :Compare 2 with 6 template : 13.9689010989011█
+ERROR :Compare 2 with 7 template : 14.6641758241758█
+ERROR :Compare 2 with 8 template : 10.6389010989012█
+ERROR :Compare 2 with 9 template : 16.1889010989011█
+ERROR :Compare 2 with 10 template : 16.3718681318682█
+ERROR :Results is 1█
+ERROR :Compare 3 with 1 template : 18.8236263736264█
+ERROR :Compare 3 with 2 template : 15.9327472527473█
+ERROR :Compare 3 with 3 template : 18.726043956044█
+ERROR :Compare 3 with 4 template : 17.6282417582418█
+ERROR :Compare 3 with 5 template : 19.3237362637363█
+ERROR :Compare 3 with 6 template : 17.0305494505495█
+ERROR :Compare 3 with 7 template : 19.2383516483516█
+ERROR :Compare 3 with 8 template : 15.335054945055█
+ERROR :Compare 3 with 9 template : 20.7508791208791█
+ERROR :Compare 3 with 10 template : 21.4095604395605█
+ERROR :Results is 7█
+ERROR :Compare 4 with 1 template : 14.469010989011█
+ERROR :Compare 4 with 2 template : 15.5424175824176█
+ERROR :Compare 4 with 3 template : 18.3601098901099█
+ERROR :Compare 4 with 4 template : 16.4084615384616█
+ERROR :Compare 4 with 5 template : 16.2376923076923█
+ERROR :Compare 4 with 6 template : 15.9449450549451█
+ERROR :Compare 4 with 7 template : 16.8963736263737█
+ERROR :Compare 4 with 8 template : 20.6898901098901█
+ERROR :Compare 4 with 9 template : 17.6038461538462█
+ERROR :Compare 4 with 10 template : 18.1405494505495█
+ERROR :Results is 0█
+ERROR :Compare 5 with 1 template : 18.8846153846154█
+ERROR :Compare 5 with 2 template : 14.2616483516484█
+ERROR :Compare 5 with 3 template : 15.518021978022█
+ERROR :Compare 5 with 4 template : 17.616043956044█
+ERROR :Compare 5 with 5 template : 16.3718681318681█
+ERROR :Compare 5 with 6 template : 17.3964835164835█
+ERROR :Compare 5 with 7 template : 18.1649450549451█
+ERROR :Compare 5 with 8 template : 14.5178021978022█
+ERROR :Compare 5 with 9 template : 19.9824175824176█
+ERROR :Compare 5 with 10 template : 19.3481318681319█
+ERROR :Results is 1█
+ERROR :ResultsParsing/0.bmp█
+ERROR :ResultsParsing/1.bmp█
+ERROR :ResultsParsing/2.bmp█
+ERROR :ResultsParsing/3.bmp█
+ERROR :ResultsParsing/4.bmp█
+ERROR :ResultsParsing/5.bmp█
+ERROR :ResultsParsing/6.bmp█
+ERROR :ResultsParsing/7.bmp█
+ERROR :ResultsParsing/8.bmp█
+ERROR :ResultsParsing/9.bmp█
+ERROR :Compare 1 with 1 template : 14.1152747252748█
+ERROR :Compare 1 with 2 template : 10.9316483516484█
+ERROR :Compare 1 with 3 template : 14.1396703296704█
+ERROR :Compare 1 with 4 template : 13.1272527472528█
+ERROR :Compare 1 with 5 template : 13.1516483516484█
+ERROR :Compare 1 with 6 template : 14.7373626373627█
+ERROR :Compare 1 with 7 template : 13.8591208791209█
+ERROR :Compare 1 with 8 template : 10.6998901098901█
+ERROR :Compare 1 with 9 template : 15.2008791208792█
+ERROR :Compare 1 with 10 template : 15.396043956044█
+ERROR :Results is 7█
+ERROR :Compare 2 with 1 template : 14.1152747252748█
+ERROR :Compare 2 with 2 template : 10.0046153846154█
+ERROR :Compare 2 with 3 template : 13.6639560439561█
+ERROR :Compare 2 with 4 template : 13.6151648351649█
+ERROR :Compare 2 with 5 template : 14.5787912087912█
+ERROR :Compare 2 with 6 template : 13.9689010989011█
+ERROR :Compare 2 with 7 template : 14.6641758241758█
+ERROR :Compare 2 with 8 template : 10.6389010989012█
+ERROR :Compare 2 with 9 template : 16.1889010989011█
+ERROR :Compare 2 with 10 template : 16.3718681318682█
+ERROR :Results is 1█
+ERROR :Compare 3 with 1 template : 15.6278021978022█
+ERROR :Compare 3 with 2 template : 13.9689010989011█
+ERROR :Compare 3 with 3 template : 17.6526373626374█
+ERROR :Compare 3 with 4 template : 17.1403296703297█
+ERROR :Compare 3 with 5 template : 20.6532967032967█
+ERROR :Compare 3 with 6 template : 14.7373626373627█
+ERROR :Compare 3 with 7 template : 16.1157142857143█
+ERROR :Compare 3 with 8 template : 16.8475824175824█
+ERROR :Compare 3 with 9 template : 18.2747252747253█
+ERROR :Compare 3 with 10 template : 18.1161538461539█
+ERROR :Results is 1█
+ERROR :Compare 4 with 1 template : 18.787032967033█
+ERROR :Compare 4 with 2 template : 16.4572527472528█
+ERROR :Compare 4 with 3 template : 17.738021978022█
+ERROR :Compare 4 with 4 template : 16.1767032967034█
+ERROR :Compare 4 with 5 template : 22.0926373626374█
+ERROR :Compare 4 with 6 template : 16.4938461538462█
+ERROR :Compare 4 with 7 template : 17.86█
+ERROR :Compare 4 with 8 template : 15.4814285714285█
+ERROR :Compare 4 with 9 template : 19.7872527472528█
+ERROR :Compare 4 with 10 template : 19.2505494505495█
+ERROR :Results is 7█
+ERROR :Compare 5 with 1 template : 16.8353846153846█
+ERROR :Compare 5 with 2 template : 15.9693406593407█
+ERROR :Compare 5 with 3 template : 15.2618681318682█
+ERROR :Compare 5 with 4 template : 13.9567032967033█
+ERROR :Compare 5 with 5 template : 18.2015384615385█
+ERROR :Compare 5 with 6 template : 14.6031868131868█
+ERROR :Compare 5 with 7 template : 17.2135164835165█
+ERROR :Compare 5 with 8 template : 15.2130769230769█
+ERROR :Compare 5 with 9 template : 17.1891208791209█
+ERROR :Compare 5 with 10 template : 16.5548351648352█
+ERROR :Results is 3█
+ERROR :ResultsParsing/0.bmp█
+ERROR :ResultsParsing/1.bmp█
+ERROR :ResultsParsing/2.bmp█
+ERROR :ResultsParsing/3.bmp█
+ERROR :ResultsParsing/4.bmp█
+ERROR :ResultsParsing/5.bmp█
+ERROR :ResultsParsing/6.bmp█
+ERROR :ResultsParsing/7.bmp█
+ERROR :ResultsParsing/8.bmp█
+ERROR :ResultsParsing/9.bmp█
+ERROR :Compare 1 with 1 template : 13.3712087912088█
+ERROR :Compare 1 with 2 template : 15.9693406593407█
+ERROR :Compare 1 with 3 template : 15.6034065934066█
+ERROR :Compare 1 with 4 template : 14.7617582417583█
+ERROR :Compare 1 with 5 template : 8.45549450549457█
+ERROR :Compare 1 with 6 template : 15.6156043956044█
+ERROR :Compare 1 with 7 template : 12.8710989010989█
+ERROR :Compare 1 with 8 template : 16.2376923076923█
+ERROR :Compare 1 with 9 template : 12.932087912088█
+ERROR :Compare 1 with 10 template : 12.5173626373627█
+ERROR :Results is 4█
+ERROR :Compare 2 with 1 template : 15.6643956043957█
+ERROR :Compare 2 with 2 template : 12.5051648351649█
+ERROR :Compare 2 with 3 template : 12.4929670329671█
+ERROR :Compare 2 with 4 template : 11.8952747252748█
+ERROR :Compare 2 with 5 template : 16.6402197802198█
+ERROR :Compare 2 with 6 template : 13.0418681318681█
+ERROR :Compare 2 with 7 template : 14.1274725274725█
+ERROR :Compare 2 with 8 template : 7.65043956043961█
+ERROR :Compare 2 with 9 template : 13.7859340659341█
+ERROR :Compare 2 with 10 template : 13.8591208791209█
+ERROR :Results is 7█
+ERROR :Compare 3 with 1 template : 10.6998901098901█
+ERROR :Compare 3 with 2 template : 16.8963736263737█
+ERROR :Compare 3 with 3 template : 15.5546153846154█
+ERROR :Compare 3 with 4 template : 13.7005494505495█
+ERROR :Compare 3 with 5 template : 14.0054945054945█
+ERROR :Compare 3 with 6 template : 7.71142857142863█
+ERROR :Compare 3 with 7 template : 10.8828571428572█
+ERROR :Compare 3 with 8 template : 15.8473626373627█
+ERROR :Compare 3 with 9 template : 13.1638461538462█
+ERROR :Compare 3 with 10 template : 12.8954945054945█
+ERROR :Results is 5█
+ERROR :Compare 4 with 1 template : 18.6894505494506█
+ERROR :Compare 4 with 2 template : 15.0545054945055█
+ERROR :Compare 4 with 3 template : 16.0303296703297█
+ERROR :Compare 4 with 4 template : 15.274065934066█
+ERROR :Compare 4 with 5 template : 16.0669230769231█
+ERROR :Compare 4 with 6 template : 16.1889010989011█
+ERROR :Compare 4 with 7 template : 15.1886813186813█
+ERROR :Compare 4 with 8 template : 8.94340659340666█
+ERROR :Compare 4 with 9 template : 15.8107692307693█
+ERROR :Compare 4 with 10 template : 17.9453846153846█
+ERROR :Results is 7█
+ERROR :Compare 5 with 1 template : 15.3472527472527█
+ERROR :Compare 5 with 2 template : 5.52802197802203█
+ERROR :Compare 5 with 3 template : 11.1512087912088█
+ERROR :Compare 5 with 4 template : 14.3592307692308█
+ERROR :Compare 5 with 5 template : 17.5794505494506█
+ERROR :Compare 5 with 6 template : 13.9201098901099█
+ERROR :Compare 5 with 7 template : 14.4934065934066█
+ERROR :Compare 5 with 8 template : 13.3346153846154█
+ERROR :Compare 5 with 9 template : 15.761978021978█
+ERROR :Compare 5 with 10 template : 15.1276923076923█
+ERROR :Results is 1█
+ERROR :ResultsParsing/0.bmp█
+ERROR :ResultsParsing/1.bmp█
+ERROR :ResultsParsing/2.bmp█
+ERROR :ResultsParsing/3.bmp█
+ERROR :ResultsParsing/4.bmp█
+ERROR :ResultsParsing/5.bmp█
+ERROR :ResultsParsing/6.bmp█
+ERROR :ResultsParsing/7.bmp█
+ERROR :ResultsParsing/8.bmp█
+ERROR :ResultsParsing/9.bmp█
+ERROR :Compare 1 with 1 template : 13.3712087912088█
+ERROR :Compare 1 with 2 template : 15.9693406593407█
+ERROR :Compare 1 with 3 template : 15.6034065934066█
+ERROR :Compare 1 with 4 template : 14.7617582417583█
+ERROR :Compare 1 with 5 template : 8.45549450549457█
+ERROR :Compare 1 with 6 template : 15.6156043956044█
+ERROR :Compare 1 with 7 template : 12.8710989010989█
+ERROR :Compare 1 with 8 template : 16.2376923076923█
+ERROR :Compare 1 with 9 template : 12.932087912088█
+ERROR :Compare 1 with 10 template : 12.5173626373627█
+ERROR :Results is 4█
+ERROR :Compare 2 with 1 template : 15.6643956043957█
+ERROR :Compare 2 with 2 template : 12.5051648351649█
+ERROR :Compare 2 with 3 template : 12.4929670329671█
+ERROR :Compare 2 with 4 template : 11.8952747252748█
+ERROR :Compare 2 with 5 template : 16.6402197802198█
+ERROR :Compare 2 with 6 template : 13.0418681318681█
+ERROR :Compare 2 with 7 template : 14.1274725274725█
+ERROR :Compare 2 with 8 template : 7.65043956043961█
+ERROR :Compare 2 with 9 template : 13.7859340659341█
+ERROR :Compare 2 with 10 template : 13.8591208791209█
+ERROR :Results is 7█
+ERROR :Compare 3 with 1 template : 10.6998901098901█
+ERROR :Compare 3 with 2 template : 16.8963736263737█
+ERROR :Compare 3 with 3 template : 15.5546153846154█
+ERROR :Compare 3 with 4 template : 13.7005494505495█
+ERROR :Compare 3 with 5 template : 14.0054945054945█
+ERROR :Compare 3 with 6 template : 7.71142857142863█
+ERROR :Compare 3 with 7 template : 10.8828571428572█
+ERROR :Compare 3 with 8 template : 15.8473626373627█
+ERROR :Compare 3 with 9 template : 13.1638461538462█
+ERROR :Compare 3 with 10 template : 12.8954945054945█
+ERROR :Results is 5█
+ERROR :Compare 4 with 1 template : 18.6894505494506█
+ERROR :Compare 4 with 2 template : 15.0545054945055█
+ERROR :Compare 4 with 3 template : 16.0303296703297█
+ERROR :Compare 4 with 4 template : 15.274065934066█
+ERROR :Compare 4 with 5 template : 16.0669230769231█
+ERROR :Compare 4 with 6 template : 16.1889010989011█
+ERROR :Compare 4 with 7 template : 15.1886813186813█
+ERROR :Compare 4 with 8 template : 8.94340659340666█
+ERROR :Compare 4 with 9 template : 15.8107692307693█
+ERROR :Compare 4 with 10 template : 17.9453846153846█
+ERROR :Results is 7█
+ERROR :Compare 5 with 1 template : 15.3472527472527█
+ERROR :Compare 5 with 2 template : 5.52802197802203█
+ERROR :Compare 5 with 3 template : 11.1512087912088█
+ERROR :Compare 5 with 4 template : 14.3592307692308█
+ERROR :Compare 5 with 5 template : 17.5794505494506█
+ERROR :Compare 5 with 6 template : 13.9201098901099█
+ERROR :Compare 5 with 7 template : 14.4934065934066█
+ERROR :Compare 5 with 8 template : 13.3346153846154█
+ERROR :Compare 5 with 9 template : 15.761978021978█
+ERROR :Compare 5 with 10 template : 15.1276923076923█
+ERROR :Results is 1█
+ERROR :ResultsParsing/0.bmp█
+ERROR :ResultsParsing/1.bmp█
+ERROR :ResultsParsing/2.bmp█
+ERROR :ResultsParsing/3.bmp█
+ERROR :ResultsParsing/4.bmp█
+ERROR :ResultsParsing/5.bmp█
+ERROR :ResultsParsing/6.bmp█
+ERROR :ResultsParsing/7.bmp█
+ERROR :ResultsParsing/8.bmp█
+ERROR :ResultsParsing/9.bmp█
+ERROR :Compare 1 with 1 template : 19.0553846153846█
+ERROR :Compare 1 with 2 template : 17.3354945054945█
+ERROR :Compare 1 with 3 template : 16.8597802197803█
+ERROR :Compare 1 with 4 template : 15.1520879120879█
+ERROR :Compare 1 with 5 template : 12.7125274725275█
+ERROR :Compare 1 with 6 template : 17.2745054945055█
+ERROR :Compare 1 with 7 template : 17.1281318681319█
+ERROR :Compare 1 with 8 template : 15.2252747252748█
+ERROR :Compare 1 with 9 template : 16.9817582417583█
+ERROR :Compare 1 with 10 template : 16.4206593406594█
+ERROR :Results is 4█
+ERROR :Compare 2 with 1 template : 13.3224175824176█
+ERROR :Compare 2 with 2 template : 12.431978021978█
+ERROR :Compare 2 with 3 template : 14.3348351648352█
+ERROR :Compare 2 with 4 template : 14.9691208791209█
+ERROR :Compare 2 with 5 template : 16.14010989011█
+ERROR :Compare 2 with 6 template : 14.2494505494506█
+ERROR :Compare 2 with 7 template : 15.0301098901099█
+ERROR :Compare 2 with 8 template : 14.9447252747253█
+ERROR :Compare 2 with 9 template : 15.8595604395605█
+ERROR :Compare 2 with 10 template : 15.0545054945055█
+ERROR :Results is 1█
+ERROR :Compare 3 with 1 template : 15.700989010989█
+ERROR :Compare 3 with 2 template : 13.2126373626374█
+ERROR :Compare 3 with 3 template : 17.2135164835165█
+ERROR :Compare 3 with 4 template : 15.8961538461539█
+ERROR :Compare 3 with 5 template : 16.1523076923077█
+ERROR :Compare 3 with 6 template : 15.4936263736264█
+ERROR :Compare 3 with 7 template : 15.7131868131868█
+ERROR :Compare 3 with 8 template : 15.1032967032968█
+ERROR :Compare 3 with 9 template : 15.9693406593407█
+ERROR :Compare 3 with 10 template : 16.0059340659341█
+ERROR :Results is 1█
+ERROR :Compare 4 with 1 template : 17.5550549450549█
+ERROR :Compare 4 with 2 template : 13.3712087912088█
+ERROR :Compare 4 with 3 template : 12.4319780219781█
+ERROR :Compare 4 with 4 template : 16.3474725274726█
+ERROR :Compare 4 with 5 template : 16.8719780219781█
+ERROR :Compare 4 with 6 template : 16.7743956043956█
+ERROR :Compare 4 with 7 template : 17.5794505494506█
+ERROR :Compare 4 with 8 template : 11.7489010989011█
+ERROR :Compare 4 with 9 template : 18.042967032967█
+ERROR :Compare 4 with 10 template : 17.0427472527472█
+ERROR :Results is 7█
+ERROR :Compare 5 with 1 template : 12.31█
+ERROR :Compare 5 with 2 template : 15.0423076923077█
+ERROR :Compare 5 with 3 template : 12.7857142857143█
+ERROR :Compare 5 with 4 template : 11.6513186813187█
+ERROR :Compare 5 with 5 template : 10.6632967032967█
+ERROR :Compare 5 with 6 template : 13.5053846153846█
+ERROR :Compare 5 with 7 template : 13.4078021978022█
+ERROR :Compare 5 with 8 template : 14.286043956044█
+ERROR :Compare 5 with 9 template : 13.6517582417583█
+ERROR :Compare 5 with 10 template : 13.5175824175825█
+ERROR :Results is 4█
+ERROR :ResultsParsing/0.bmp█
+ERROR :ResultsParsing/1.bmp█
+ERROR :ResultsParsing/2.bmp█
+ERROR :ResultsParsing/3.bmp█
+ERROR :ResultsParsing/4.bmp█
+ERROR :ResultsParsing/5.bmp█
+ERROR :ResultsParsing/6.bmp█
+ERROR :ResultsParsing/7.bmp█
+ERROR :ResultsParsing/8.bmp█
+ERROR :ResultsParsing/9.bmp█
+ERROR :Compare 1 with 1 template : 16.7743956043956█
+ERROR :Compare 1 with 2 template : 18.1893406593407█
+ERROR :Compare 1 with 3 template : 15.4204395604396█
+ERROR :Compare 1 with 4 template : 13.6883516483517█
+ERROR :Compare 1 with 5 template : 10.4437362637364█
+ERROR :Compare 1 with 6 template : 15.4936263736264█
+ERROR :Compare 1 with 7 template : 15.7741758241759█
+ERROR :Compare 1 with 8 template : 15.091098901099█
+ERROR :Compare 1 with 9 template : 14.6031868131869█
+ERROR :Compare 1 with 10 template : 13.3102197802198█
+ERROR :Results is 4█
+ERROR :Compare 2 with 1 template : 14.9691208791209█
+ERROR :Compare 2 with 2 template : 12.2124175824176█
+ERROR :Compare 2 with 3 template : 8.9190109890111█
+ERROR :Compare 2 with 4 template : 13.8469230769231█
+ERROR :Compare 2 with 5 template : 16.7012087912088█
+ERROR :Compare 2 with 6 template : 13.7859340659341█
+ERROR :Compare 2 with 7 template : 13.6517582417583█
+ERROR :Compare 2 with 8 template : 12.7979120879121█
+ERROR :Compare 2 with 9 template : 14.5178021978022█
+ERROR :Compare 2 with 10 template : 12.8954945054946█
+ERROR :Results is 2█
+ERROR :Compare 3 with 1 template : 12.3343956043957█
+ERROR :Compare 3 with 2 template : 14.8227472527474█
+ERROR :Compare 3 with 3 template : 16.3596703296704█
+ERROR :Compare 3 with 4 template : 14.6275824175825█
+ERROR :Compare 3 with 5 template : 15.6034065934066█
+ERROR :Compare 3 with 6 template : 13.2858241758242█
+ERROR :Compare 3 with 7 template : 13.2248351648352█
+ERROR :Compare 3 with 8 template : 15.5668131868132█
+ERROR :Compare 3 with 9 template : 12.7247252747253█
+ERROR :Compare 3 with 10 template : 12.8710989010989█
+ERROR :Results is 0█
+ERROR :Compare 4 with 1 template : 19.0431868131868█
+ERROR :Compare 4 with 2 template : 14.1396703296704█
+ERROR :Compare 4 with 3 template : 14.4812087912088█
+ERROR :Compare 4 with 4 template : 14.7861538461539█
+ERROR :Compare 4 with 5 template : 16.7378021978022█
+ERROR :Compare 4 with 6 template : 16.9817582417582█
+ERROR :Compare 4 with 7 template : 17.1525274725275█
+ERROR :Compare 4 with 8 template : 6.45505494505507█
+ERROR :Compare 4 with 9 template : 16.2376923076923█
+ERROR :Compare 4 with 10 template : 16.506043956044█
+ERROR :Results is 7█
+ERROR :Compare 5 with 1 template : 12.7125274725275█
+ERROR :Compare 5 with 2 template : 11.3585714285715█
+ERROR :Compare 5 with 3 template : 10.773076923077█
+ERROR :Compare 5 with 4 template : 12.127032967033█
+ERROR :Compare 5 with 5 template : 14.9325274725275█
+ERROR :Compare 5 with 6 template : 12.7979120879121█
+ERROR :Compare 5 with 7 template : 13.2858241758242█
+ERROR :Compare 5 with 8 template : 14.225054945055█
+ERROR :Compare 5 with 9 template : 13.6395604395605█
+ERROR :Compare 5 with 10 template : 15.2008791208792█
+ERROR :Results is 2█
+ERROR :ResultsParsing/0.bmp█
+ERROR :ResultsParsing/1.bmp█
+ERROR :ResultsParsing/2.bmp█
+ERROR :ResultsParsing/3.bmp█
+ERROR :ResultsParsing/4.bmp█
+ERROR :ResultsParsing/5.bmp█
+ERROR :ResultsParsing/6.bmp█
+ERROR :ResultsParsing/7.bmp█
+ERROR :ResultsParsing/8.bmp█
+ERROR :ResultsParsing/9.bmp█
+ERROR :Compare 1 with 1 template : 13.3712087912088█
+ERROR :Compare 1 with 2 template : 15.9693406593407█
+ERROR :Compare 1 with 3 template : 15.6034065934066█
+ERROR :Compare 1 with 4 template : 14.7617582417583█
+ERROR :Compare 1 with 5 template : 8.45549450549457█
+ERROR :Compare 1 with 6 template : 15.6156043956044█
+ERROR :Compare 1 with 7 template : 12.8710989010989█
+ERROR :Compare 1 with 8 template : 16.2376923076923█
+ERROR :Compare 1 with 9 template : 12.932087912088█
+ERROR :Compare 1 with 10 template : 12.5173626373627█
+ERROR :Results is 4█
+ERROR :Compare 2 with 1 template : 15.6643956043957█
+ERROR :Compare 2 with 2 template : 12.5051648351649█
+ERROR :Compare 2 with 3 template : 12.4929670329671█
+ERROR :Compare 2 with 4 template : 11.8952747252748█
+ERROR :Compare 2 with 5 template : 16.6402197802198█
+ERROR :Compare 2 with 6 template : 13.0418681318681█
+ERROR :Compare 2 with 7 template : 14.1274725274725█
+ERROR :Compare 2 with 8 template : 7.65043956043961█
+ERROR :Compare 2 with 9 template : 13.7859340659341█
+ERROR :Compare 2 with 10 template : 13.8591208791209█
+ERROR :Results is 7█
+ERROR :Compare 3 with 1 template : 10.6998901098901█
+ERROR :Compare 3 with 2 template : 16.8963736263737█
+ERROR :Compare 3 with 3 template : 15.5546153846154█
+ERROR :Compare 3 with 4 template : 13.7005494505495█
+ERROR :Compare 3 with 5 template : 14.0054945054945█
+ERROR :Compare 3 with 6 template : 7.71142857142863█
+ERROR :Compare 3 with 7 template : 10.8828571428572█
+ERROR :Compare 3 with 8 template : 15.8473626373627█
+ERROR :Compare 3 with 9 template : 13.1638461538462█
+ERROR :Compare 3 with 10 template : 12.8954945054945█
+ERROR :Results is 5█
+ERROR :Compare 4 with 1 template : 18.6894505494506█
+ERROR :Compare 4 with 2 template : 15.0545054945055█
+ERROR :Compare 4 with 3 template : 16.0303296703297█
+ERROR :Compare 4 with 4 template : 15.274065934066█
+ERROR :Compare 4 with 5 template : 16.0669230769231█
+ERROR :Compare 4 with 6 template : 16.1889010989011█
+ERROR :Compare 4 with 7 template : 15.1886813186813█
+ERROR :Compare 4 with 8 template : 8.94340659340666█
+ERROR :Compare 4 with 9 template : 15.8107692307693█
+ERROR :Compare 4 with 10 template : 17.9453846153846█
+ERROR :Results is 7█
+ERROR :Compare 5 with 1 template : 15.3472527472527█
+ERROR :Compare 5 with 2 template : 5.52802197802203█
+ERROR :Compare 5 with 3 template : 11.1512087912088█
+ERROR :Compare 5 with 4 template : 14.3592307692308█
+ERROR :Compare 5 with 5 template : 17.5794505494506█
+ERROR :Compare 5 with 6 template : 13.9201098901099█
+ERROR :Compare 5 with 7 template : 14.4934065934066█
+ERROR :Compare 5 with 8 template : 13.3346153846154█
+ERROR :Compare 5 with 9 template : 15.761978021978█
+ERROR :Compare 5 with 10 template : 15.1276923076923█
+ERROR :Results is 1█
+ERROR :ResultsParsing/0.bmp█
+ERROR :ResultsParsing/1.bmp█
+ERROR :ResultsParsing/2.bmp█
+ERROR :ResultsParsing/3.bmp█
+ERROR :ResultsParsing/4.bmp█
+ERROR :ResultsParsing/5.bmp█
+ERROR :ResultsParsing/6.bmp█
+ERROR :ResultsParsing/7.bmp█
+ERROR :ResultsParsing/8.bmp█
+ERROR :ResultsParsing/9.bmp█
+ERROR :Compare 1 with 1 template : 12.1392307692308█
+ERROR :Compare 1 with 2 template : 12.2612087912089█
+ERROR :Compare 1 with 3 template : 14.9935164835165█
+ERROR :Compare 1 with 4 template : 14.6641758241759█
+ERROR :Compare 1 with 5 template : 12.8467032967034█
+ERROR :Compare 1 with 6 template : 14.6153846153846█
+ERROR :Compare 1 with 7 template : 12.5539560439561█
+ERROR :Compare 1 with 8 template : 16.4206593406594█
+ERROR :Compare 1 with 9 template : 13.1272527472527█
+ERROR :Compare 1 with 10 template : 15.1886813186814█
+ERROR :Results is 0█
+ERROR :Compare 2 with 1 template : 15.5302197802199█
+ERROR :Compare 2 with 2 template : 13.6151648351649█
+ERROR :Compare 2 with 3 template : 13.6029670329671█
+ERROR :Compare 2 with 4 template : 12.4197802197802█
+ERROR :Compare 2 with 5 template : 16.5914285714286█
+ERROR :Compare 2 with 6 template : 13.8713186813187█
+ERROR :Compare 2 with 7 template : 12.370989010989█
+ERROR :Compare 2 with 8 template : 12.6027472527473█
+ERROR :Compare 2 with 9 template : 13.3346153846154█
+ERROR :Compare 2 with 10 template : 13.9689010989011█
+ERROR :Results is 6█
+ERROR :Compare 3 with 1 template : 13.5419780219781█
+ERROR :Compare 3 with 2 template : 15.1032967032967█
+ERROR :Compare 3 with 3 template : 14.3104395604396█
+ERROR :Compare 3 with 4 template : 13.5419780219781█
+ERROR :Compare 3 with 5 template : 15.3228571428572█
+ERROR :Compare 3 with 6 template : 12.2490109890111█
+ERROR :Compare 3 with 7 template : 11.761098901099█
+ERROR :Compare 3 with 8 template : 15.7619780219781█
+ERROR :Compare 3 with 9 template : 13.3712087912088█
+ERROR :Compare 3 with 10 template : 14.103076923077█
+ERROR :Results is 6█
+ERROR :Compare 4 with 1 template : 16.9085714285714█
+ERROR :Compare 4 with 2 template : 14.9325274725275█
+ERROR :Compare 4 with 3 template : 15.7009890109891█
+ERROR :Compare 4 with 4 template : 16.0303296703297█
+ERROR :Compare 4 with 5 template : 13.2614285714286█
+ERROR :Compare 4 with 6 template : 15.1886813186814█
+ERROR :Compare 4 with 7 template : 15.1520879120879█
+ERROR :Compare 4 with 8 template : 11.5659340659341█
+ERROR :Compare 4 with 9 template : 14.8349450549451█
+ERROR :Compare 4 with 10 template : 18.4089010989011█
+ERROR :Results is 7█
+ERROR :Compare 5 with 1 template : 14.7129670329671█
+ERROR :Compare 5 with 2 template : 10.2363736263736█
+ERROR :Compare 5 with 3 template : 13.3102197802198█
+ERROR :Compare 5 with 4 template : 16.1645054945055█
+ERROR :Compare 5 with 5 template : 18.6162637362638█
+ERROR :Compare 5 with 6 template : 13.9445054945055█
+ERROR :Compare 5 with 7 template : 13.5053846153846█
+ERROR :Compare 5 with 8 template : 12.81010989011█
+ERROR :Compare 5 with 9 template : 15.761978021978█
+ERROR :Compare 5 with 10 template : 16.2986813186813█
+ERROR :Results is 1█
+ERROR :ResultsParsing/0.bmp█
+ERROR :ResultsParsing/1.bmp█
+ERROR :ResultsParsing/2.bmp█
+ERROR :ResultsParsing/3.bmp█
+ERROR :ResultsParsing/4.bmp█
+ERROR :ResultsParsing/5.bmp█
+ERROR :ResultsParsing/6.bmp█
+ERROR :ResultsParsing/7.bmp█
+ERROR :ResultsParsing/8.bmp█
+ERROR :ResultsParsing/9.bmp█
+ERROR :Compare 1 with 1 template : 15.9693406593407█
+ERROR :Compare 1 with 2 template : 8.0895604395605█
+ERROR :Compare 1 with 3 template : 12.0172527472528█
+ERROR :Compare 1 with 4 template : 15.2618681318682█
+ERROR :Compare 1 with 5 template : 14.8227472527473█
+ERROR :Compare 1 with 6 template : 14.0420879120879█
+ERROR :Compare 1 with 7 template : 14.590989010989█
+ERROR :Compare 1 with 8 template : 14.0176923076923█
+ERROR :Compare 1 with 9 template : 14.5787912087912█
+ERROR :Compare 1 with 10 template : 14.9325274725275█
+ERROR :Results is 1█
+ERROR :Compare 2 with 1 template : 12.8589010989011█
+ERROR :Compare 2 with 2 template : 14.3348351648352█
+ERROR :Compare 2 with 3 template : 16.2986813186814█
+ERROR :Compare 2 with 4 template : 14.2616483516484█
+ERROR :Compare 2 with 5 template : 16.1523076923077█
+ERROR :Compare 2 with 6 template : 13.7615384615385█
+ERROR :Compare 2 with 7 template : 13.9689010989011█
+ERROR :Compare 2 with 8 template : 13.8591208791209█
+ERROR :Compare 2 with 9 template : 13.9932967032968█
+ERROR :Compare 2 with 10 template : 15.9327472527473█
+ERROR :Results is 0█
+ERROR :Compare 3 with 1 template : 16.0669230769231█
+ERROR :Compare 3 with 2 template : 11.2853846153847█
+ERROR :Compare 3 with 3 template : 15.5546153846154█
+ERROR :Compare 3 with 4 template : 15.6643956043956█
+ERROR :Compare 3 with 5 template : 17.1891208791209█
+ERROR :Compare 3 with 6 template : 14.7617582417583█
+ERROR :Compare 3 with 7 template : 15.7741758241758█
+ERROR :Compare 3 with 8 template : 13.5419780219781█
+ERROR :Compare 3 with 9 template : 16.7621978021978█
+ERROR :Compare 3 with 10 template : 17.6892307692308█
+ERROR :Results is 1█
+ERROR :Compare 4 with 1 template : 15.0179120879121█
+ERROR :Compare 4 with 2 template : 14.6153846153846█
+ERROR :Compare 4 with 3 template : 15.4082417582418█
+ERROR :Compare 4 with 4 template : 15.7375824175825█
+ERROR :Compare 4 with 5 template : 13.2492307692308█
+ERROR :Compare 4 with 6 template : 15.0789010989012█
+ERROR :Compare 4 with 7 template : 15.1764835164835█
+ERROR :Compare 4 with 8 template : 13.7615384615385█
+ERROR :Compare 4 with 9 template : 16.201098901099█
+ERROR :Compare 4 with 10 template : 17.9697802197803█
+ERROR :Results is 4█
+ERROR :Compare 5 with 1 template : 12.2612087912088█
+ERROR :Compare 5 with 2 template : 10.6023076923077█
+ERROR :Compare 5 with 3 template : 14.6641758241759█
+ERROR :Compare 5 with 4 template : 15.9449450549451█
+ERROR :Compare 5 with 5 template : 17.8843956043956█
+ERROR :Compare 5 with 6 template : 13.8957142857143█
+ERROR :Compare 5 with 7 template : 13.8835164835165█
+ERROR :Compare 5 with 8 template : 13.2736263736264█
+ERROR :Compare 5 with 9 template : 15.1520879120879█
+ERROR :Compare 5 with 10 template : 15.2740659340659█
+ERROR :Results is 1█
+ERROR :ResultsParsing/0.bmp█
+ERROR :ResultsParsing/1.bmp█
+ERROR :ResultsParsing/2.bmp█
+ERROR :ResultsParsing/3.bmp█
+ERROR :ResultsParsing/4.bmp█
+ERROR :ResultsParsing/5.bmp█
+ERROR :ResultsParsing/6.bmp█
+ERROR :ResultsParsing/7.bmp█
+ERROR :ResultsParsing/8.bmp█
+ERROR :ResultsParsing/9.bmp█
+ERROR :Compare 1 with 1 template : 12.1392307692308█
+ERROR :Compare 1 with 2 template : 12.2612087912089█
+ERROR :Compare 1 with 3 template : 14.9935164835165█
+ERROR :Compare 1 with 4 template : 14.6641758241759█
+ERROR :Compare 1 with 5 template : 12.8467032967034█
+ERROR :Compare 1 with 6 template : 14.6153846153846█
+ERROR :Compare 1 with 7 template : 12.5539560439561█
+ERROR :Compare 1 with 8 template : 16.4206593406594█
+ERROR :Compare 1 with 9 template : 13.1272527472527█
+ERROR :Compare 1 with 10 template : 15.1886813186814█
+ERROR :Results is 0█
+ERROR :Compare 2 with 1 template : 15.5302197802199█
+ERROR :Compare 2 with 2 template : 13.6151648351649█
+ERROR :Compare 2 with 3 template : 13.6029670329671█
+ERROR :Compare 2 with 4 template : 12.4197802197802█
+ERROR :Compare 2 with 5 template : 16.5914285714286█
+ERROR :Compare 2 with 6 template : 13.8713186813187█
+ERROR :Compare 2 with 7 template : 12.370989010989█
+ERROR :Compare 2 with 8 template : 12.6027472527473█
+ERROR :Compare 2 with 9 template : 13.3346153846154█
+ERROR :Compare 2 with 10 template : 13.9689010989011█
+ERROR :Results is 6█
+ERROR :Compare 3 with 1 template : 13.5419780219781█
+ERROR :Compare 3 with 2 template : 15.1032967032967█
+ERROR :Compare 3 with 3 template : 14.3104395604396█
+ERROR :Compare 3 with 4 template : 13.5419780219781█
+ERROR :Compare 3 with 5 template : 15.3228571428572█
+ERROR :Compare 3 with 6 template : 12.2490109890111█
+ERROR :Compare 3 with 7 template : 11.761098901099█
+ERROR :Compare 3 with 8 template : 15.7619780219781█
+ERROR :Compare 3 with 9 template : 13.3712087912088█
+ERROR :Compare 3 with 10 template : 14.103076923077█
+ERROR :Results is 6█
+ERROR :Compare 4 with 1 template : 16.9085714285714█
+ERROR :Compare 4 with 2 template : 14.9325274725275█
+ERROR :Compare 4 with 3 template : 15.7009890109891█
+ERROR :Compare 4 with 4 template : 16.0303296703297█
+ERROR :Compare 4 with 5 template : 13.2614285714286█
+ERROR :Compare 4 with 6 template : 15.1886813186814█
+ERROR :Compare 4 with 7 template : 15.1520879120879█
+ERROR :Compare 4 with 8 template : 11.5659340659341█
+ERROR :Compare 4 with 9 template : 14.8349450549451█
+ERROR :Compare 4 with 10 template : 18.4089010989011█
+ERROR :Results is 7█
+ERROR :Compare 5 with 1 template : 14.7129670329671█
+ERROR :Compare 5 with 2 template : 10.2363736263736█
+ERROR :Compare 5 with 3 template : 13.3102197802198█
+ERROR :Compare 5 with 4 template : 16.1645054945055█
+ERROR :Compare 5 with 5 template : 18.6162637362638█
+ERROR :Compare 5 with 6 template : 13.9445054945055█
+ERROR :Compare 5 with 7 template : 13.5053846153846█
+ERROR :Compare 5 with 8 template : 12.81010989011█
+ERROR :Compare 5 with 9 template : 15.761978021978█
+ERROR :Compare 5 with 10 template : 16.2986813186813█
+ERROR :Results is 1█
+ERROR :ResultsParsing/0.bmp█
+ERROR :ResultsParsing/1.bmp█
+ERROR :ResultsParsing/2.bmp█
+ERROR :ResultsParsing/3.bmp█
+ERROR :ResultsParsing/4.bmp█
+ERROR :ResultsParsing/5.bmp█
+ERROR :ResultsParsing/6.bmp█
+ERROR :ResultsParsing/7.bmp█
+ERROR :ResultsParsing/8.bmp█
+ERROR :ResultsParsing/9.bmp█
+ERROR :Compare 1 with 1 template : 16.6036263736264█
+ERROR :Compare 1 with 2 template : 13.8347252747253█
+ERROR :Compare 1 with 3 template : 13.3224175824176█
+ERROR :Compare 1 with 4 template : 14.5421978021979█
+ERROR :Compare 1 with 5 template : 14.2372527472528█
+ERROR :Compare 1 with 6 template : 13.1516483516483█
+ERROR :Compare 1 with 7 template : 14.0542857142857█
+ERROR :Compare 1 with 8 template : 15.579010989011█
+ERROR :Compare 1 with 9 template : 14.6885714285714█
+ERROR :Compare 1 with 10 template : 14.9813186813187█
+ERROR :Results is 5█
+ERROR :Compare 2 with 1 template : 16.2498901098901█
+ERROR :Compare 2 with 2 template : 15.6521978021979█
+ERROR :Compare 2 with 3 template : 18.2137362637363█
+ERROR :Compare 2 with 4 template : 17.677032967033█
+ERROR :Compare 2 with 5 template : 14.0908791208792█
+ERROR :Compare 2 with 6 template : 16.6890109890111█
+ERROR :Compare 2 with 7 template : 17.920989010989█
+ERROR :Compare 2 with 8 template : 14.1274725274726█
+ERROR :Compare 2 with 9 template : 18.2015384615384█
+ERROR :Compare 2 with 10 template : 18.9456043956044█
+ERROR :Results is 4█
+ERROR :Compare 3 with 1 template : 16.4938461538462█
+ERROR :Compare 3 with 2 template : 16.0547252747253█
+ERROR :Compare 3 with 3 template : 15.8717582417583█
+ERROR :Compare 3 with 4 template : 17.9941758241759█
+ERROR :Compare 3 with 5 template : 14.6519780219781█
+ERROR :Compare 3 with 6 template : 16.4206593406594█
+ERROR :Compare 3 with 7 template : 17.7014285714286█
+ERROR :Compare 3 with 8 template : 16.1523076923077█
+ERROR :Compare 3 with 9 template : 18.726043956044█
+ERROR :Compare 3 with 10 template : 19.9336263736264█
+ERROR :Results is 4█
+ERROR :Compare 4 with 1 template : 16.5304395604396█
+ERROR :Compare 4 with 2 template : 16.1157142857143█
+ERROR :Compare 4 with 3 template : 17.7746153846154█
+ERROR :Compare 4 with 4 template : 18.3601098901099█
+ERROR :Compare 4 with 5 template : 13.3468131868132█
+ERROR :Compare 4 with 6 template : 16.4816483516484█
+ERROR :Compare 4 with 7 template : 18.3601098901099█
+ERROR :Compare 4 with 8 template : 16.384065934066█
+ERROR :Compare 4 with 9 template : 18.7626373626374█
+ERROR :Compare 4 with 10 template : 20.2873626373627█
+ERROR :Results is 4█
+ERROR :Compare 5 with 1 template : 16.2986813186813█
+ERROR :Compare 5 with 2 template : 12.188021978022█
+ERROR :Compare 5 with 3 template : 16.384065934066█
+ERROR :Compare 5 with 4 template : 17.5428571428572█
+ERROR :Compare 5 with 5 template : 17.9453846153847█
+ERROR :Compare 5 with 6 template : 16.3474725274726█
+ERROR :Compare 5 with 7 template : 17.1037362637363█
+ERROR :Compare 5 with 8 template : 13.5785714285715█
+ERROR :Compare 5 with 9 template : 18.3723076923077█
+ERROR :Compare 5 with 10 template : 18.665054945055█
+ERROR :Results is 1█
+ERROR :ResultsParsing/0.bmp█
+ERROR :ResultsParsing/1.bmp█
+ERROR :ResultsParsing/2.bmp█
+ERROR :ResultsParsing/3.bmp█
+ERROR :ResultsParsing/4.bmp█
+ERROR :ResultsParsing/5.bmp█
+ERROR :ResultsParsing/6.bmp█
+ERROR :ResultsParsing/7.bmp█
+ERROR :ResultsParsing/8.bmp█
+ERROR :ResultsParsing/9.bmp█
+ERROR :Compare 1 with 1 template : 18.2015384615385█
+ERROR :Compare 1 with 2 template : 15.4448351648352█
+ERROR :Compare 1 with 3 template : 14.2982417582418█
+ERROR :Compare 1 with 4 template : 14.2006593406594█
+ERROR :Compare 1 with 5 template : 15.213076923077█
+ERROR :Compare 1 with 6 template : 15.3472527472528█
+ERROR :Compare 1 with 7 template : 16.9451648351649█
+ERROR :Compare 1 with 8 template : 14.469010989011█
+ERROR :Compare 1 with 9 template : 15.9327472527473█
+ERROR :Compare 1 with 10 template : 18.0185714285715█
+ERROR :Results is 3█
+ERROR :Compare 2 with 1 template : 17.4818681318682█
+ERROR :Compare 2 with 2 template : 15.9449450549451█
+ERROR :Compare 2 with 3 template : 17.8356043956044█
+ERROR :Compare 2 with 4 template : 19.4335164835165█
+ERROR :Compare 2 with 5 template : 10.4681318681319█
+ERROR :Compare 2 with 6 template : 19.1041758241759█
+ERROR :Compare 2 with 7 template : 18.7870329670329█
+ERROR :Compare 2 with 8 template : 15.7253846153847█
+ERROR :Compare 2 with 9 template : 19.6408791208791█
+ERROR :Compare 2 with 10 template : 19.5189010989011█
+ERROR :Results is 4█
+ERROR :Compare 3 with 1 template : 16.5792307692308█
+ERROR :Compare 3 with 2 template : 15.3472527472528█
+ERROR :Compare 3 with 3 template : 15.0301098901099█
+ERROR :Compare 3 with 4 template : 16.9817582417583█
+ERROR :Compare 3 with 5 template : 13.7371428571429█
+ERROR :Compare 3 with 6 template : 17.8112087912088█
+ERROR :Compare 3 with 7 template : 17.5428571428572█
+ERROR :Compare 3 with 8 template : 15.3472527472528█
+ERROR :Compare 3 with 9 template : 18.5552747252748█
+ERROR :Compare 3 with 10 template : 18.1283516483517█
+ERROR :Results is 4█
+ERROR :Compare 4 with 1 template : 15.9571428571429█
+ERROR :Compare 4 with 2 template : 14.1396703296704█
+ERROR :Compare 4 with 3 template : 16.4938461538462█
+ERROR :Compare 4 with 4 template : 17.433076923077█
+ERROR :Compare 4 with 5 template : 15.9693406593407█
+ERROR :Compare 4 with 6 template : 16.0669230769231█
+ERROR :Compare 4 with 7 template : 16.871978021978█
+ERROR :Compare 4 with 8 template : 15.7619780219781█
+ERROR :Compare 4 with 9 template : 18.4698901098901█
+ERROR :Compare 4 with 10 template : 19.4579120879121█
+ERROR :Results is 1█
+ERROR :Compare 5 with 1 template : 18.3967032967033█
+ERROR :Compare 5 with 2 template : 12.7003296703297█
+ERROR :Compare 5 with 3 template : 16.7865934065935█
+ERROR :Compare 5 with 4 template : 17.7868131868132█
+ERROR :Compare 5 with 5 template : 16.1157142857143█
+ERROR :Compare 5 with 6 template : 16.9695604395605█
+ERROR :Compare 5 with 7 template : 17.4574725274725█
+ERROR :Compare 5 with 8 template : 14.1152747252748█
+ERROR :Compare 5 with 9 template : 17.981978021978█
+ERROR :Compare 5 with 10 template : 19.2993406593407█
+ERROR :Results is 1█
+ERROR :ResultsParsing/0.bmp█
+ERROR :ResultsParsing/1.bmp█
+ERROR :ResultsParsing/2.bmp█
+ERROR :ResultsParsing/3.bmp█
+ERROR :ResultsParsing/4.bmp█
+ERROR :ResultsParsing/5.bmp█
+ERROR :ResultsParsing/6.bmp█
+ERROR :ResultsParsing/7.bmp█
+ERROR :ResultsParsing/8.bmp█
+ERROR :ResultsParsing/9.bmp█
+ERROR :Compare 1 with 1 template : 12.3831868131869█
+ERROR :Compare 1 with 2 template : 12.4197802197803█
+ERROR :Compare 1 with 3 template : 13.9567032967033█
+ERROR :Compare 1 with 4 template : 15.64█
+ERROR :Compare 1 with 5 template : 10.6389010989011█
+ERROR :Compare 1 with 6 template : 14.469010989011█
+ERROR :Compare 1 with 7 template : 13.6883516483517█
+ERROR :Compare 1 with 8 template : 15.7253846153847█
+ERROR :Compare 1 with 9 template : 13.8225274725275█
+ERROR :Compare 1 with 10 template : 15.4448351648352█
+ERROR :Results is 4█
+ERROR :Compare 2 with 1 template : 13.5663736263737█
+ERROR :Compare 2 with 2 template : 10.5535164835165█
+ERROR :Compare 2 with 3 template : 10.0534065934066█
+ERROR :Compare 2 with 4 template : 10.2119780219781█
+ERROR :Compare 2 with 5 template : 15.6643956043956█
+ERROR :Compare 2 with 6 template : 12.5417582417583█
+ERROR :Compare 2 with 7 template : 13.2736263736264█
+ERROR :Compare 2 with 8 template : 7.57725274725283█
+ERROR :Compare 2 with 9 template : 12.6271428571429█
+ERROR :Compare 2 with 10 template : 12.7003296703297█
+ERROR :Results is 7█
+ERROR :Compare 3 with 1 template : 10.4437362637363█
+ERROR :Compare 3 with 2 template : 11.6757142857143█
+ERROR :Compare 3 with 3 template : 13.7859340659341█
+ERROR :Compare 3 with 4 template : 9.50450549450554█
+ERROR :Compare 3 with 5 template : 15.4814285714286█
+ERROR :Compare 3 with 6 template : 10.7608791208792█
+ERROR :Compare 3 with 7 template : 10.0168131868132█
+ERROR :Compare 3 with 8 template : 14.1762637362638█
+ERROR :Compare 3 with 9 template : 10.6267032967033█
+ERROR :Compare 3 with 10 template : 12.9076923076924█
+ERROR :Results is 3█
+ERROR :Compare 4 with 1 template : 15.335054945055█
+ERROR :Compare 4 with 2 template : 12.9076923076923█
+ERROR :Compare 4 with 3 template : 12.0416483516484█
+ERROR :Compare 4 with 4 template : 11.078021978022█
+ERROR :Compare 4 with 5 template : 12.675934065934█
+ERROR :Compare 4 with 6 template : 12.5295604395605█
+ERROR :Compare 4 with 7 template : 11.4195604395605█
+ERROR :Compare 4 with 8 template : 5.97934065934071█
+ERROR :Compare 4 with 9 template : 12.1026373626374█
+ERROR :Compare 4 with 10 template : 14.4568131868132█
+ERROR :Results is 7█
+ERROR :Compare 5 with 1 template : 13.7981318681319█
+ERROR :Compare 5 with 2 template : 8.34571428571428█
+ERROR :Compare 5 with 3 template : 10.6998901098901█
+ERROR :Compare 5 with 4 template : 15.9937362637363█
+ERROR :Compare 5 with 5 template : 17.0793406593406█
+ERROR :Compare 5 with 6 template : 12.7857142857143█
+ERROR :Compare 5 with 7 template : 13.176043956044█
+ERROR :Compare 5 with 8 template : 13.3468131868133█
+ERROR :Compare 5 with 9 template : 13.6639560439561█
+ERROR :Compare 5 with 10 template : 14.6641758241758█
+ERROR :Results is 1█
+ERROR :ResultsParsing/0.bmp█
+ERROR :ResultsParsing/1.bmp█
+ERROR :ResultsParsing/2.bmp█
+ERROR :ResultsParsing/3.bmp█
+ERROR :ResultsParsing/4.bmp█
+ERROR :ResultsParsing/5.bmp█
+ERROR :ResultsParsing/6.bmp█
+ERROR :ResultsParsing/7.bmp█
+ERROR :ResultsParsing/8.bmp█
+ERROR :ResultsParsing/9.bmp█
+ERROR :Compare 1 with 1 template : 14.3958241758242█
+ERROR :Compare 1 with 2 template : 17.0549450549451█
+ERROR :Compare 1 with 3 template : 15.6278021978023█
+ERROR :Compare 1 with 4 template : 14.2616483516484█
+ERROR :Compare 1 with 5 template : 2.32000000000006█
+ERROR :Compare 1 with 6 template : 14.6763736263736█
+ERROR :Compare 1 with 7 template : 13.2858241758242█
+ERROR :Compare 1 with 8 template : 15.7253846153847█
+ERROR :Compare 1 with 9 template : 13.2858241758242█
+ERROR :Compare 1 with 10 template : 13.8591208791209█
+ERROR :Results is 4█
+ERROR :Compare 2 with 1 template : 13.9079120879121█
+ERROR :Compare 2 with 2 template : 10.1387912087912█
+ERROR :Compare 2 with 3 template : 1.84428571428576█
+ERROR :Compare 2 with 4 template : 10.9926373626374█
+ERROR :Compare 2 with 5 template : 15.0423076923077█
+ERROR :Compare 2 with 6 template : 11.9196703296703█
+ERROR :Compare 2 with 7 template : 10.1631868131868█
+ERROR :Compare 2 with 8 template : 10.1753846153847█
+ERROR :Compare 2 with 9 template : 10.5901098901099█
+ERROR :Compare 2 with 10 template : 9.01659340659343█
+ERROR :Results is 2█
+ERROR :Compare 3 with 1 template : 9.67527472527478█
+ERROR :Compare 3 with 2 template : 13.2736263736264█
+ERROR :Compare 3 with 3 template : 10.0046153846154█
+ERROR :Compare 3 with 4 template : 6.80879120879123█
+ERROR :Compare 3 with 5 template : 13.6273626373627█
+ERROR :Compare 3 with 6 template : 8.23593406593407█
+ERROR :Compare 3 with 7 template : 1.21000000000001█
+ERROR :Compare 3 with 8 template : 13.2248351648352█
+ERROR :Compare 3 with 9 template : 3.10065934065938█
+ERROR :Compare 3 with 10 template : 4.91813186813187█
+ERROR :Results is 6█
+ERROR :Compare 4 with 1 template : 16.7256043956044█
+ERROR :Compare 4 with 2 template : 12.5905494505495█
+ERROR :Compare 4 with 3 template : 10.3583516483517█
+ERROR :Compare 4 with 4 template : 10.6023076923078█
+ERROR :Compare 4 with 5 template : 14.1762637362638█
+ERROR :Compare 4 with 6 template : 13.115054945055█
+ERROR :Compare 4 with 7 template : 13.6761538461538█
+ERROR :Compare 4 with 8 template : 0.734285714285832█
+ERROR :Compare 4 with 9 template : 13.0052747252747█
+ERROR :Compare 4 with 10 template : 13.359010989011█
+ERROR :Results is 7█
+ERROR :Compare 5 with 1 template : 13.9810989010989█
+ERROR :Compare 5 with 2 template : 1.23439560439564█
+ERROR :Compare 5 with 3 template : 10.4437362637363█
+ERROR :Compare 5 with 4 template : 15.3716483516484█
+ERROR :Compare 5 with 5 template : 16.0181318681319█
+ERROR :Compare 5 with 6 template : 14.0054945054945█
+ERROR :Compare 5 with 7 template : 14.0176923076923█
+ERROR :Compare 5 with 8 template : 14.3348351648352█
+ERROR :Compare 5 with 9 template : 14.6397802197802█
+ERROR :Compare 5 with 10 template : 14.9691208791209█
+ERROR :Results is 1█

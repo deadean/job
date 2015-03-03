@@ -1,0 +1,15 @@
+D:\_MyDocuments\Job\Заказы\C#\Selenium\TestSeleniumLib\ADGLOB\bin\Debug\ADGLOB.dll
+D:\_MyDocuments\Job\Заказы\C#\Selenium\TestSeleniumLib\ADGLOB\bin\Debug\ADGLOB.pdb
+D:\_MyDocuments\Job\Заказы\C#\Selenium\TestSeleniumLib\ADGLOB\obj\Debug\ADGLOB.dll
+D:\_MyDocuments\Job\Заказы\C#\Selenium\TestSeleniumLib\ADGLOB\obj\Debug\ADGLOB.pdb
+D:\_MyDocuments\Job\Заказы\C#\Selenium\TestSeleniumLib\ADGLOB\obj\Debug\ADGLOB.csprojResolveAssemblyReference.cache
+F:\Job\BrandWide\AutoSystem\TestSeleniumLib\ADGLOB\bin\Debug\ADGLOB.dll
+F:\Job\BrandWide\AutoSystem\TestSeleniumLib\ADGLOB\bin\Debug\ADGLOB.pdb
+F:\Job\BrandWide\AutoSystem\TestSeleniumLib\ADGLOB\obj\Debug\ADGLOB.csprojResolveAssemblyReference.cache
+F:\Job\BrandWide\AutoSystem\TestSeleniumLib\ADGLOB\obj\Debug\ADGLOB.dll
+F:\Job\BrandWide\AutoSystem\TestSeleniumLib\ADGLOB\obj\Debug\ADGLOB.pdb
+F:\Job\BrandWide\AutoSystem\SVN\trunk\ADGLOB\bin\Debug\ADGLOB.dll
+F:\Job\BrandWide\AutoSystem\SVN\trunk\ADGLOB\bin\Debug\ADGLOB.pdb
+F:\Job\BrandWide\AutoSystem\SVN\trunk\ADGLOB\obj\Debug\ADGLOB.csprojResolveAssemblyReference.cache
+F:\Job\BrandWide\AutoSystem\SVN\trunk\ADGLOB\obj\Debug\ADGLOB.dll
+F:\Job\BrandWide\AutoSystem\SVN\trunk\ADGLOB\obj\Debug\ADGLOB.pdb

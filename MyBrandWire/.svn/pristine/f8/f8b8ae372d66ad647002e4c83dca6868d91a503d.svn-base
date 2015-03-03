@@ -1,0 +1,22 @@
+ERROR :Cannot find elements when name text is null.
+Имя параметра: nameToFind█
+ERROR :Cannot find elements when name text is null.
+Имя параметра: nameToFind█
+ERROR :Publish█
+ERROR :Publish█
+ERROR :Our href is :http://i-ii.ru/press/view/19430█
+ERROR :Function : Publish, Message : Argument 'url' cannot be null.
+Имя параметра: value█
+ERROR :Our href is :http://i-ii.ru/press/view/19431█
+ERROR :Function : Publish, Message : Argument 'url' cannot be null.
+Имя параметра: value█
+ERROR :Function : Publish, Message : Argument 'url' cannot be null.
+Имя параметра: value█
+ERROR :Function : Publish, Message : Argument 'url' cannot be null.
+Имя параметра: value█
+ERROR :Function : Publish, Message : Argument 'url' cannot be null.
+Имя параметра: value█
+ERROR :Function : GetAllPressRealises, Message : SQL logic error or missing database
+no such table: Sites█
+ERROR :Function : Publish, Message : Argument 'url' cannot be null.
+Имя параметра: value█

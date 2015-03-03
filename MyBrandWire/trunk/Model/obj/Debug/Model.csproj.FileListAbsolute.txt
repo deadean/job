@@ -1,0 +1,16 @@
+F:\Job\BrandWide\AutoSystem\TestSeleniumLib\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+F:\Job\BrandWide\AutoSystem\TestSeleniumLib\Model\bin\Debug\Model.dll
+F:\Job\BrandWide\AutoSystem\TestSeleniumLib\Model\bin\Debug\Model.pdb
+F:\Job\BrandWide\AutoSystem\TestSeleniumLib\Model\obj\Debug\Model.dll
+F:\Job\BrandWide\AutoSystem\TestSeleniumLib\Model\obj\Debug\Model.pdb
+F:\Job\BrandWide\AutoSystem\SVN\trunk\Model\bin\Debug\Model.dll
+F:\Job\BrandWide\AutoSystem\SVN\trunk\Model\bin\Debug\Model.pdb
+F:\Job\BrandWide\AutoSystem\SVN\trunk\Model\bin\Debug\ADGLOB.dll
+F:\Job\BrandWide\AutoSystem\SVN\trunk\Model\bin\Debug\SQLite.Designer.dll
+F:\Job\BrandWide\AutoSystem\SVN\trunk\Model\bin\Debug\System.Data.SQLite.dll
+F:\Job\BrandWide\AutoSystem\SVN\trunk\Model\bin\Debug\ADGLOB.pdb
+F:\Job\BrandWide\AutoSystem\SVN\trunk\Model\bin\Debug\SQLite.Designer.pdb
+F:\Job\BrandWide\AutoSystem\SVN\trunk\Model\bin\Debug\System.Data.SQLite.pdb
+F:\Job\BrandWide\AutoSystem\SVN\trunk\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+F:\Job\BrandWide\AutoSystem\SVN\trunk\Model\obj\Debug\Model.dll
+F:\Job\BrandWide\AutoSystem\SVN\trunk\Model\obj\Debug\Model.pdb

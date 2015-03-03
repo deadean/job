@@ -1,0 +1,12 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	worktree = /home/hunter/work/adminka/server/libs/libs/dompdf/lib/php-font-lib
+[remote "origin"]
+	fetch = +refs/heads/*:refs/remotes/origin/*
+	url = https://github.com/PhenX/php-font-lib.git
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master

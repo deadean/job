@@ -1,0 +1,6 @@
+ERROR :Function : FillDb, Message : constraint failed
+PressRealise.href may not be NULL█
+ERROR :Function : UpdatePressRealise, Message : SQL logic error or missing database
+unrecognized token: "1Spain"█
+ERROR :Function : UpdatePressRealise, Message : SQL logic error or missing database
+unrecognized token: "1Spain"█

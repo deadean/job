@@ -1,0 +1,12 @@
+CREATE TABLE pressRealise (
+	id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+	header TEXT,
+	content TEXT,
+	status INT
+);
+
+
+INSERT INTO pressRealise VALUES(NULL,'News 1','Content 1',0);
+INSERT INTO pressRealise VALUES(NULL,'News 2','Content 2',1);
+INSERT INTO pressRealise VALUES(NULL,'News 3','Content 3',0);
+INSERT INTO pressRealise VALUES(NULL,'News 4','Content 4',2);

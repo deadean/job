@@ -1,0 +1,12 @@
+# pack-refs with: peeled 
+1645c4aecda61d5d7adb52c5ebd15ea721c684d4 refs/remotes/origin/develop
+049c10ae68635ae90b349f92349e8bea5b399aa1 refs/remotes/origin/encoding
+4c5b3c977579f45ec5cd815a32dea835e2416d6d refs/remotes/origin/master
+39698083a19c3f10e31e66dccc2c81b27bf6e212 refs/tags/v0.5.2
+^1abb9117a50c2854761bacaaff4b8a08257a1e8e
+847590c3b4e448e20017ae242fb7d64f76956b07 refs/tags/v0.6.0
+^fbb288daad0096350cdead591dd8d450e490fbd0
+9a42353fe349165182638b4ed6803785f9a99564 refs/tags/v0.6.0-b3
+^e80756aa25331e873bbfdab2fa38b9d55cd63835
+d746dacd8d910a0586e7622ac4502580bec5a260 refs/tags/v0.6.1
+^cf7d8a0a27270418850cc7d7ea532159e5eeb3eb

@@ -1,0 +1,12 @@
+F:\Job\BrandWide\AutoSystem\SVN\trunk\UnitTestProject\bin\Debug\UnitTestProject.dll.config
+F:\Job\BrandWide\AutoSystem\SVN\trunk\UnitTestProject\bin\Debug\UnitTestProject.dll
+F:\Job\BrandWide\AutoSystem\SVN\trunk\UnitTestProject\bin\Debug\UnitTestProject.pdb
+F:\Job\BrandWide\AutoSystem\SVN\trunk\UnitTestProject\bin\Debug\Model.dll
+F:\Job\BrandWide\AutoSystem\SVN\trunk\UnitTestProject\bin\Debug\System.Data.SQLite.dll
+F:\Job\BrandWide\AutoSystem\SVN\trunk\UnitTestProject\bin\Debug\ADGLOB.dll
+F:\Job\BrandWide\AutoSystem\SVN\trunk\UnitTestProject\bin\Debug\Model.pdb
+F:\Job\BrandWide\AutoSystem\SVN\trunk\UnitTestProject\bin\Debug\System.Data.SQLite.pdb
+F:\Job\BrandWide\AutoSystem\SVN\trunk\UnitTestProject\bin\Debug\ADGLOB.pdb
+F:\Job\BrandWide\AutoSystem\SVN\trunk\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+F:\Job\BrandWide\AutoSystem\SVN\trunk\UnitTestProject\obj\Debug\UnitTestProject.dll
+F:\Job\BrandWide\AutoSystem\SVN\trunk\UnitTestProject\obj\Debug\UnitTestProject.pdb

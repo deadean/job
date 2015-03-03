@@ -1,0 +1,19 @@
+table{
+	width:100%;
+	text-align:center;
+	padding:5px;
+}
+
+.borderCorners tr{
+	border:2px double green;
+	border-radius:15px;
+}
+
+.contentNews{
+	border:2px double green;
+	border-radius:15px;
+}
+
+.clear{
+	height:10px;
+}

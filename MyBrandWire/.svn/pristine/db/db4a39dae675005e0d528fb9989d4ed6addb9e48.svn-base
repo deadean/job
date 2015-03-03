@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Site>
+     <Href>http://i-ii.ru/services</Href>
+     <ElementName>email</ElementName>
+     <ElementText>dextronis@yandex.ru</ElementText>
+     <SiteElementType>Name</SiteElementType>
+     <Action>SendKeys</Action>
+  </Site>
+  <Site>
+    <Href>http://i-ii.ru/services</Href>
+    <ElementName>password</ElementName>
+    <ElementText>fd3edff5</ElementText>
+    <SiteElementType>Name</SiteElementType>
+    <Action>SendKeys</Action>
+  </Site>
+  <Site>
+    <Href>http://i-ii.ru/services</Href>
+    <Action>Submit</Action>
+  </Site>
+  <Site>
+    <Href>http://i-ii.ru/services</Href>
+    <Action>GoToUrl</Action>
+    <Url>http://i-ii.ru/services/enter/?add=press</Url>
+  </Site>
+</root>
