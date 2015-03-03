@@ -9,6 +9,13 @@ DROP TABLE IF EXISTS communication_type;
 DROP TABLE IF EXISTS person;
 DROP TABLE IF EXISTS company;
 DROP TABLE IF EXISTS users;
+DROP TABLE IF EXISTS user_recovery;
+
+CREATE TABLE user_recovery (
+	idUser INT NOT NULL PRIMARY KEY,
+	sendTime DateTime,
+        hashCode string
+);
 
 
 CREATE TABLE communication_type (

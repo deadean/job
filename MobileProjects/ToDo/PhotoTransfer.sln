@@ -151,11 +151,11 @@ Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		UI\UniversalApps\W8\PhotoTransfer.WP.Windows81.VVms\PhotoTransfer.Shared.projitems*{84764fb3-e689-429b-8d71-e25001ed038c}*SharedItemsImports = 13
 		UI\UniversalApps\WP\PhotoTransfer.WP.WindowsPhone.Services\PhotoTransfer.Shared.projitems*{eb85f3ac-abff-4384-a22a-d37cb5ef96d0}*SharedItemsImports = 4
-		UI\UniversalApps\WP\PhotoTransfer.WP.WindowsPhone.Data\PhotoTransfer.Shared.projitems*{eb85f3ac-abff-4384-a22a-d37cb5ef96d0}*SharedItemsImports = 4
 		UI\UniversalApps\PhotoTransfer.Shared\PhotoTransfer.Shared.projitems*{eb85f3ac-abff-4384-a22a-d37cb5ef96d0}*SharedItemsImports = 4
 		UI\UniversalApps\WP\PhotoTransfer.WP.WindowsPhone.VVms\PhotoTransfer.Shared.projitems*{eb85f3ac-abff-4384-a22a-d37cb5ef96d0}*SharedItemsImports = 4
 		PhotoTransfer\PhotoTransfer.Windows\PhotoTransfer.WP.Shared\PhotoTransfer.WP.Shared.projitems*{eb85f3ac-abff-4384-a22a-d37cb5ef96d0}*SharedItemsImports = 4
 		PhotoTransfer\PhotoTransfer.Windows\PhotoTransfer.WP.Shared.Data\PhotoTransfer.WP.Shared.Data.projitems*{eb85f3ac-abff-4384-a22a-d37cb5ef96d0}*SharedItemsImports = 4
+		UI\UniversalApps\WP\PhotoTransfer.WP.WindowsPhone.Data\PhotoTransfer.Shared.projitems*{eb85f3ac-abff-4384-a22a-d37cb5ef96d0}*SharedItemsImports = 4
 		UI\UniversalApps\PhotoTransfer.WP.VVms.Common\PhotoTransfer.Shared.projitems*{eb85f3ac-abff-4384-a22a-d37cb5ef96d0}*SharedItemsImports = 4
 		PhotoTransfer\PhotoTransfer.Windows\PhotoTransfer.WP.Shared\PhotoTransfer.WP.Shared.projitems*{da3e475f-cea6-4c75-86d0-8708ed0af32b}*SharedItemsImports = 4
 		PhotoTransfer\PhotoTransfer.Windows\PhotoTransfer.WP.Shared.Data\PhotoTransfer.WP.Shared.Data.projitems*{da3e475f-cea6-4c75-86d0-8708ed0af32b}*SharedItemsImports = 4
@@ -169,9 +169,9 @@ Global
 		UI\UniversalApps\WP\PhotoTransfer.WP.WindowsPhone.Data\PhotoTransfer.Shared.projitems*{db664aa9-19a5-4315-b356-cb16a372ab49}*SharedItemsImports = 13
 		PhotoTransfer\PhotoTransfer.Windows\PhotoTransfer.WP.Shared.Data\PhotoTransfer.WP.Shared.Data.projitems*{81a1e230-b26b-4364-8275-3a60b98efda6}*SharedItemsImports = 4
 		UI\UniversalApps\PhotoTransfer.WP.VVms.Common\PhotoTransfer.Shared.projitems*{1074e928-acd0-483c-86b4-8e4d38a0aacb}*SharedItemsImports = 13
+		UI\UniversalApps\W8\PhotoTransfer.WP.Windows81.Services\PhotoTransfer.Shared.projitems*{9a0949c1-5738-409a-b1b6-86145ff4f2a7}*SharedItemsImports = 4
 		UI\UniversalApps\W8\PhotoTransfer.WP.Windows81.VVms\PhotoTransfer.Shared.projitems*{9a0949c1-5738-409a-b1b6-86145ff4f2a7}*SharedItemsImports = 4
 		UI\UniversalApps\PhotoTransfer.Shared\PhotoTransfer.Shared.projitems*{9a0949c1-5738-409a-b1b6-86145ff4f2a7}*SharedItemsImports = 4
-		UI\UniversalApps\W8\PhotoTransfer.WP.Windows81.Services\PhotoTransfer.Shared.projitems*{9a0949c1-5738-409a-b1b6-86145ff4f2a7}*SharedItemsImports = 4
 		PhotoTransfer\PhotoTransfer.Windows\PhotoTransfer.WP.Shared\PhotoTransfer.WP.Shared.projitems*{9a0949c1-5738-409a-b1b6-86145ff4f2a7}*SharedItemsImports = 4
 		PhotoTransfer\PhotoTransfer.Windows\PhotoTransfer.WP.Shared.Data\PhotoTransfer.WP.Shared.Data.projitems*{9a0949c1-5738-409a-b1b6-86145ff4f2a7}*SharedItemsImports = 4
 		UI\UniversalApps\PhotoTransfer.WP.VVms.Common\PhotoTransfer.Shared.projitems*{9a0949c1-5738-409a-b1b6-86145ff4f2a7}*SharedItemsImports = 4
@@ -253,6 +253,7 @@ Global
 		{40C18572-2CF3-4C54-85CB-053789FDE23A}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{40C18572-2CF3-4C54-85CB-053789FDE23A}.Release|x64.ActiveCfg = Release|Any CPU
 		{40C18572-2CF3-4C54-85CB-053789FDE23A}.Release|x86.ActiveCfg = Release|Any CPU
+		{40C18572-2CF3-4C54-85CB-053789FDE23A}.Release|x86.Build.0 = Release|Any CPU
 		{40C18572-2CF3-4C54-85CB-053789FDE23A}.x64|Any CPU.ActiveCfg = Debug|Any CPU
 		{40C18572-2CF3-4C54-85CB-053789FDE23A}.x64|Any CPU.Build.0 = Debug|Any CPU
 		{40C18572-2CF3-4C54-85CB-053789FDE23A}.x64|ARM.ActiveCfg = Debug|Any CPU
@@ -525,6 +526,7 @@ Global
 		{645A99FC-DC8B-4A34-9B0E-27C2FD719218}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{645A99FC-DC8B-4A34-9B0E-27C2FD719218}.Release|x64.ActiveCfg = Release|Any CPU
 		{645A99FC-DC8B-4A34-9B0E-27C2FD719218}.Release|x86.ActiveCfg = Release|Any CPU
+		{645A99FC-DC8B-4A34-9B0E-27C2FD719218}.Release|x86.Build.0 = Release|Any CPU
 		{645A99FC-DC8B-4A34-9B0E-27C2FD719218}.x64|Any CPU.ActiveCfg = Debug|Any CPU
 		{645A99FC-DC8B-4A34-9B0E-27C2FD719218}.x64|Any CPU.Build.0 = Debug|Any CPU
 		{645A99FC-DC8B-4A34-9B0E-27C2FD719218}.x64|ARM.ActiveCfg = Debug|Any CPU
@@ -572,6 +574,7 @@ Global
 		{DEC97FDA-9465-4A15-BDD3-D9854385A185}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{DEC97FDA-9465-4A15-BDD3-D9854385A185}.Release|x64.ActiveCfg = Release|Any CPU
 		{DEC97FDA-9465-4A15-BDD3-D9854385A185}.Release|x86.ActiveCfg = Release|Any CPU
+		{DEC97FDA-9465-4A15-BDD3-D9854385A185}.Release|x86.Build.0 = Release|Any CPU
 		{DEC97FDA-9465-4A15-BDD3-D9854385A185}.x64|Any CPU.ActiveCfg = Debug|Any CPU
 		{DEC97FDA-9465-4A15-BDD3-D9854385A185}.x64|Any CPU.Build.0 = Debug|Any CPU
 		{DEC97FDA-9465-4A15-BDD3-D9854385A185}.x64|ARM.ActiveCfg = Debug|Any CPU
@@ -619,6 +622,7 @@ Global
 		{9B8F7286-069C-4B4F-A3F7-64BAC2520A31}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{9B8F7286-069C-4B4F-A3F7-64BAC2520A31}.Release|x64.ActiveCfg = Release|Any CPU
 		{9B8F7286-069C-4B4F-A3F7-64BAC2520A31}.Release|x86.ActiveCfg = Release|Any CPU
+		{9B8F7286-069C-4B4F-A3F7-64BAC2520A31}.Release|x86.Build.0 = Release|Any CPU
 		{9B8F7286-069C-4B4F-A3F7-64BAC2520A31}.x64|Any CPU.ActiveCfg = Debug|Any CPU
 		{9B8F7286-069C-4B4F-A3F7-64BAC2520A31}.x64|Any CPU.Build.0 = Debug|Any CPU
 		{9B8F7286-069C-4B4F-A3F7-64BAC2520A31}.x64|ARM.ActiveCfg = Debug|Any CPU
@@ -666,6 +670,7 @@ Global
 		{31F8FB5F-DC63-4780-9DAE-9DE1CE64ACBF}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{31F8FB5F-DC63-4780-9DAE-9DE1CE64ACBF}.Release|x64.ActiveCfg = Release|Any CPU
 		{31F8FB5F-DC63-4780-9DAE-9DE1CE64ACBF}.Release|x86.ActiveCfg = Release|Any CPU
+		{31F8FB5F-DC63-4780-9DAE-9DE1CE64ACBF}.Release|x86.Build.0 = Release|Any CPU
 		{31F8FB5F-DC63-4780-9DAE-9DE1CE64ACBF}.x64|Any CPU.ActiveCfg = Debug|Any CPU
 		{31F8FB5F-DC63-4780-9DAE-9DE1CE64ACBF}.x64|Any CPU.Build.0 = Debug|Any CPU
 		{31F8FB5F-DC63-4780-9DAE-9DE1CE64ACBF}.x64|ARM.ActiveCfg = Debug|Any CPU
@@ -713,6 +718,7 @@ Global
 		{4EC247E1-0D94-4834-9FF6-9F2412B8CCDF}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{4EC247E1-0D94-4834-9FF6-9F2412B8CCDF}.Release|x64.ActiveCfg = Release|Any CPU
 		{4EC247E1-0D94-4834-9FF6-9F2412B8CCDF}.Release|x86.ActiveCfg = Release|Any CPU
+		{4EC247E1-0D94-4834-9FF6-9F2412B8CCDF}.Release|x86.Build.0 = Release|Any CPU
 		{4EC247E1-0D94-4834-9FF6-9F2412B8CCDF}.x64|Any CPU.ActiveCfg = Debug|Any CPU
 		{4EC247E1-0D94-4834-9FF6-9F2412B8CCDF}.x64|Any CPU.Build.0 = Debug|Any CPU
 		{4EC247E1-0D94-4834-9FF6-9F2412B8CCDF}.x64|ARM.ActiveCfg = Debug|Any CPU

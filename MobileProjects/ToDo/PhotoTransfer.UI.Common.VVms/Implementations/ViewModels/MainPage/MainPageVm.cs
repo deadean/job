@@ -33,9 +33,12 @@ namespace ToDo.UI.Common.VVms.Implementations.ViewModels.MainPage
 		private ObservableCollection<ToDoItemVm> mvToDos;
 
 		private bool mvIsAdding;
+		private ToDoItemVm modEditedToDo;
 		private AsyncCommand mvAddToDoCommand;
 		private AsyncCommand mvSaveToDoCommand;
 		private AsyncCommand mvRemoveToDoCommand;
+		private AsyncCommand mvEditToDoCommand;
+		private AsyncCommand mvCloseToDoCommand;
 
 		#endregion
 
@@ -44,6 +47,8 @@ namespace ToDo.UI.Common.VVms.Implementations.ViewModels.MainPage
 		public AsyncCommand AddToDoCommand { get { return mvAddToDoCommand; } }
 		public AsyncCommand SaveToDoCommand { get { return mvSaveToDoCommand; } }
 		public AsyncCommand RemoveCommand { get { return mvRemoveToDoCommand; } }
+		public AsyncCommand EditCommand { get { return mvEditToDoCommand; } }
+		public AsyncCommand CloseCommand { get { return mvCloseToDoCommand; } }
 		
 
 		#endregion
@@ -61,6 +66,8 @@ namespace ToDo.UI.Common.VVms.Implementations.ViewModels.MainPage
 				mvAddToDoCommand = new AsyncCommand(OnAddToDoCommand);
 				mvSaveToDoCommand = new AsyncCommand(OnSaveToDoCommand);
 				mvRemoveToDoCommand = new AsyncCommand(OnRemoveCommand);
+				mvEditToDoCommand = new AsyncCommand(OnEditCommand);
+				mvCloseToDoCommand = new AsyncCommand(OnCloseCommand);
 			}
 			catch (Exception ex)
 			{
@@ -115,6 +122,14 @@ namespace ToDo.UI.Common.VVms.Implementations.ViewModels.MainPage
 			{
 				IsAdding = false;
 
+				if (modEditedToDo != null)
+				{
+					modEditedToDo.Name = Name;
+					await modModelService.UpdateEntityAsync<ToDoItem>(modEditedToDo.ToDo);
+					modEditedToDo = null;
+					return;
+				}
+
 				var newToDoItem = (ToDoItem)await modModelService.CreateEntity<IToDo>();
 				newToDoItem.Name = Name;
 
@@ -140,6 +155,37 @@ namespace ToDo.UI.Common.VVms.Implementations.ViewModels.MainPage
 				await modModelService.Remove<ToDoItem>((ToDoItem)selectedToDo);
 
 				ToDos.Remove(SelectedToDo);
+			}
+			catch (Exception ex)
+			{
+
+			}
+		}
+
+		private async Task OnEditCommand()
+		{
+			try
+			{
+				if (SelectedToDo == null)
+					return;
+
+
+				modEditedToDo = SelectedToDo;
+
+				IsAdding = true;
+				Name = SelectedToDo.Name;
+			}
+			catch (Exception ex)
+			{
+
+			}
+		}
+
+		private async Task OnCloseCommand()
+		{
+			try
+			{
+				IsAdding = false;
 			}
 			catch (Exception ex)
 			{

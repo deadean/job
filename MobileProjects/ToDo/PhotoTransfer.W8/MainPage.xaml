@@ -17,6 +17,7 @@
 
 			<converters:BoolToVisibilityConverter x:Key="BooleanToVisibilityConverter"/>
 			<converters:BoolToVisibilityInvertConverter x:Key="BoolToVisibilityInvertConverter"/>
+			
 		</ResourceDictionary>
 
 		
@@ -49,11 +50,20 @@
 										Visibility="{Binding Path=IsAdding, Converter={StaticResource ResourceKey=BoolToVisibilityInvertConverter}}"
 										HorizontalAlignment="Right" Icon="Add"/>
 
-			<AppBarButton Grid.Row="0" Grid.Column="2" 
+			<StackPanel Grid.Row="0" Grid.Column="2" Orientation="Horizontal">
+				<AppBarButton 
 										Padding="0" IsCompact="True" VerticalAlignment="Top"
 										Command="{Binding Path=SaveToDoCommand}" 
 										Visibility="{Binding Path=IsAdding, Converter={StaticResource ResourceKey=BooleanToVisibilityConverter}}"
 										HorizontalAlignment="Right" Icon="Save"/>
+
+				<AppBarButton 
+										Padding="0" IsCompact="True" VerticalAlignment="Top"
+										Command="{Binding Path=CloseCommand}" 
+										Visibility="{Binding Path=IsAdding, Converter={StaticResource ResourceKey=BooleanToVisibilityConverter}}"
+										HorizontalAlignment="Right" Icon="Cancel"/>
+			</StackPanel>
+			
 
 			<StackPanel Grid.Row="0" Grid.Column="1" VerticalAlignment="Center"
 									Visibility="{Binding Path=IsAdding, Converter={StaticResource BooleanToVisibilityConverter}}">
@@ -61,9 +71,11 @@
 			</StackPanel>
 
 			<ListView Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2"
+								
 								ItemsSource="{Binding Path=ToDos, UpdateSourceTrigger=PropertyChanged}"
 								SelectedItem="{Binding Path=SelectedToDo, Mode=TwoWay}"
                       >
+				
 				<ListView.ItemTemplate>
 					<DataTemplate>
 						<StackPanel Orientation="Horizontal" VerticalAlignment="Center">

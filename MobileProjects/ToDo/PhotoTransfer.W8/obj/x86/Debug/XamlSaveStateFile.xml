@@ -1,6 +1,6 @@
 <XamlCompilerSaveState>
   <ReferenceAssemblyList>
-    <LocalAssembly PathName="c:\github\job\mobileprojects\todo\phototransfer.w8\obj\x86\debug\intermediatexaml\phototransfer.w8.exe" HashGuid="d56cfcd5-a00a-e347-9535-1fb42d371d21" />
+    <LocalAssembly PathName="c:\github\job\mobileprojects\todo\phototransfer.w8\obj\x86\debug\intermediatexaml\phototransfer.w8.exe" HashGuid="456b38d1-26f9-f573-4478-66a68608129e" />
     <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
     <ReferenceAssembly PathName="c:\github\job\mobileprojects\todo\packages\portable.mvvmlightlibs.5.0.2.0\lib\netcore451\galasoft.mvvmlight.dll" HashGuid="da07be64-1093-25cd-c992-377d44b6dd02" />
     <ReferenceAssembly PathName="c:\github\job\mobileprojects\todo\packages\portable.mvvmlightlibs.5.0.2.0\lib\netcore451\galasoft.mvvmlight.extras.dll" HashGuid="28bb2089-c7a4-73bb-7a72-1ea8b02698b0" />
@@ -12,7 +12,7 @@
     <ReferenceAssembly PathName="c:\github\job\mobileprojects\todo\phototransfer.data\bin\debug\phototransfer.data.dll" HashGuid="a93ba78f-ab9e-59a6-592f-7c3121d61bd9" />
     <ReferenceAssembly PathName="c:\github\job\mobileprojects\todo\services\phototransfer.services.databases\bin\debug\phototransfer.services.databases.dll" HashGuid="f304cda5-ab83-ec00-e6c1-7c3fbc2a6763" />
     <ReferenceAssembly PathName="c:\github\job\mobileprojects\todo\ui\common\phototransfer.shared.common\bin\debug\phototransfer.ui.common.dll" HashGuid="dac54969-3592-0b2d-d60c-ba3d15931baf" />
-    <ReferenceAssembly PathName="c:\github\job\mobileprojects\todo\phototransfer.ui.common.vvms\bin\debug\phototransfer.ui.common.vvms.dll" HashGuid="3b45b2dd-bae6-e30a-079c-ea07378e186f" />
+    <ReferenceAssembly PathName="c:\github\job\mobileprojects\todo\phototransfer.ui.common.vvms\bin\debug\phototransfer.ui.common.vvms.dll" HashGuid="481a754f-9522-c5a3-5d66-7b422e34bb02" />
     <ReferenceAssembly PathName="c:\github\job\mobileprojects\todo\ui\data\phototransfer.wp.data\bin\debug\phototransfer.ui.data.dll" HashGuid="c67cf663-c713-514b-4ef3-2303491b1c28" />
     <ReferenceAssembly PathName="c:\github\job\mobileprojects\todo\ui\databases\phototransfer.ui.databases\bin\debug\phototransfer.ui.databases.dll" HashGuid="2006dc68-bb34-acb3-eeff-c5adfde545bb" />
     <ReferenceAssembly PathName="c:\github\job\mobileprojects\todo\ui\universalapps\phototransfer.wp.data\bin\debug\phototransfer.ui.universalapps.data.dll" HashGuid="5692ad95-2378-1032-20c3-591fd64a8e96" />

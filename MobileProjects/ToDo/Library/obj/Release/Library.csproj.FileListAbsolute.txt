@@ -1,0 +1,13 @@
+C:\GitHub\job\MobileProjects\ToDo\Library\bin\Release\Library.dll
+C:\GitHub\job\MobileProjects\ToDo\Library\bin\Release\Library.pdb
+C:\GitHub\job\MobileProjects\ToDo\Library\bin\Release\GalaSoft.MvvmLight.dll
+C:\GitHub\job\MobileProjects\ToDo\Library\bin\Release\GalaSoft.MvvmLight.Extras.dll
+C:\GitHub\job\MobileProjects\ToDo\Library\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\GitHub\job\MobileProjects\ToDo\Library\bin\Release\GalaSoft.MvvmLight.pdb
+C:\GitHub\job\MobileProjects\ToDo\Library\bin\Release\GalaSoft.MvvmLight.xml
+C:\GitHub\job\MobileProjects\ToDo\Library\bin\Release\GalaSoft.MvvmLight.Extras.pdb
+C:\GitHub\job\MobileProjects\ToDo\Library\bin\Release\GalaSoft.MvvmLight.Extras.xml
+C:\GitHub\job\MobileProjects\ToDo\Library\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+C:\GitHub\job\MobileProjects\ToDo\Library\bin\Release\Microsoft.Practices.ServiceLocation.xml
+C:\GitHub\job\MobileProjects\ToDo\Library\obj\Release\Library.dll
+C:\GitHub\job\MobileProjects\ToDo\Library\obj\Release\Library.pdb

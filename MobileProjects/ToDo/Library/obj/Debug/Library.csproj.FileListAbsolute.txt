@@ -23,6 +23,5 @@ C:\GitHub\job\MobileProjects\ToDo\Library\bin\Debug\GalaSoft.MvvmLight.Extras.pd
 C:\GitHub\job\MobileProjects\ToDo\Library\bin\Debug\GalaSoft.MvvmLight.Extras.xml
 C:\GitHub\job\MobileProjects\ToDo\Library\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
 C:\GitHub\job\MobileProjects\ToDo\Library\bin\Debug\Microsoft.Practices.ServiceLocation.xml
-C:\GitHub\job\MobileProjects\ToDo\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
 C:\GitHub\job\MobileProjects\ToDo\Library\obj\Debug\Library.dll
 C:\GitHub\job\MobileProjects\ToDo\Library\obj\Debug\Library.pdb

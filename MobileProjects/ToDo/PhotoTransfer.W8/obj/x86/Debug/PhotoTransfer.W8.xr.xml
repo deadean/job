@@ -8,6 +8,7 @@
     <RootPropertyPathName Name="SelectedToDo" />
     <RootPropertyPathName Name="Name" />
     <RootPropertyPathName Name="IsAdding" />
+    <RootPropertyPathName Name="CloseCommand" />
     <RootPropertyPathName Name="SaveToDoCommand" />
     <RootPropertyPathName Name="AddToDoCommand" />
     <RootPropertyPathName Name="IsMenuOpen" />
@@ -68,10 +69,10 @@
       <RootProperty Name="Label" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.StackPanel">
+      <RootProperty Name="Orientation" />
+      <RootProperty Name="Children" />
       <RootProperty Name="VerticalAlignment" />
       <RootProperty Name="Visibility" />
-      <RootProperty Name="Children" />
-      <RootProperty Name="Orientation" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.ListView">
       <RootProperty Name="ItemsSource" />

@@ -91,17 +91,9 @@
       <Project>{67f9d3a8-f71e-4428-913f-c37ae82cdb24}</Project>
       <Name>PhotoTransfer.UI.Common.VVms</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\PhotoTransfer.UI.WebService.Oracle\PhotoTransfer.UI.WebService.Oracle.csproj">
-      <Project>{d8a4b813-d4db-4b7f-b2ad-2c357f069847}</Project>
-      <Name>PhotoTransfer.UI.WebService.Oracle</Name>
-    </ProjectReference>
     <ProjectReference Include="..\..\Services\PhotoTransfer.Services.DataBases\PhotoTransfer.Services.DataBases.csproj">
       <Project>{31f8fb5f-dc63-4780-9dae-9de1ce64acbf}</Project>
       <Name>PhotoTransfer.Services.DataBases</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\Services\PhotoTransfer.Services.WebService\PhotoTransfer.Services.WebService.csproj">
-      <Project>{e09af994-370d-4261-bc14-a5dfb08ff4b4}</Project>
-      <Name>PhotoTransfer.Services.WebService</Name>
     </ProjectReference>
     <ProjectReference Include="..\..\UI\Common\PhotoTransfer.Shared.Common\PhotoTransfer.UI.Common.csproj">
       <Project>{79f03799-0fc5-4bc9-9236-acb930c524b5}</Project>

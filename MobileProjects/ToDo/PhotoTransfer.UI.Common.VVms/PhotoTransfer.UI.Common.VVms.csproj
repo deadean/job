@@ -101,10 +101,6 @@
       <Project>{31f8fb5f-dc63-4780-9dae-9de1ce64acbf}</Project>
       <Name>PhotoTransfer.Services.DataBases</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Services\PhotoTransfer.Services.WebService\PhotoTransfer.Services.WebService.csproj">
-      <Project>{e09af994-370d-4261-bc14-a5dfb08ff4b4}</Project>
-      <Name>PhotoTransfer.Services.WebService</Name>
-    </ProjectReference>
     <ProjectReference Include="..\UI\Common\PhotoTransfer.Shared.Common\PhotoTransfer.UI.Common.csproj">
       <Project>{79f03799-0fc5-4bc9-9236-acb930c524b5}</Project>
       <Name>PhotoTransfer.UI.Common</Name>

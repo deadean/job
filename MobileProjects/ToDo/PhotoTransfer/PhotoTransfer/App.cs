@@ -1,6 +1,5 @@
 ﻿using GalaSoft.MvvmLight.Ioc;
 using ToDo.Services.DataBases.Interfaces;
-using ToDo.Services.WebService.Interfaces.Photo;
 using ToDo.UI.Common.Interfaces.DependencyBlock;
 using ToDo.UI.Common.Interfaces.Navigation;
 using ToDo.UI.Common.VVms.Implementations.DependencyBlock;
@@ -15,7 +14,6 @@ using System.Text;
 using Xamarin.Forms;
 using ToDo.UI.DataBases.Implementations.ModelService;
 using ToDo.UI.DataBases.Interfaces.DataBases;
-using ToDo.Services.WebService.Interfaces;
 using ToDo.Common.Interfaces.Factories;
 using ToDo.Common.Implementations.Factories;
 

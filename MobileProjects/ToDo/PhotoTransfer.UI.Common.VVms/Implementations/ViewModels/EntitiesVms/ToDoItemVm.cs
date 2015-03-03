@@ -6,22 +6,23 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using ToDo.UI.Data.Implementations.Entities;
 
 namespace PhotoTransfer.UI.Common.VVms.Implementations.ViewModels.EntitiesVms
 {
 	public sealed class ToDoItemVm : AdvancedViewModelBase
 	{
 
-		private readonly IToDo modTodo;
+		private ToDoItem modTodo;
 
-		public ToDoItemVm(IToDo todo)
+		public ToDoItemVm(ToDoItem todo)
 		{
 			modTodo = todo;
 
 			Name = modTodo.Name;
 		}
 
-		public IToDo ToDo { get { return modTodo; } }
+		public ToDoItem ToDo { get { return modTodo; } }
 
 
 		private string mvName;
@@ -29,7 +30,7 @@ namespace PhotoTransfer.UI.Common.VVms.Implementations.ViewModels.EntitiesVms
 		public string Name
 		{
 			get { return mvName; }
-			set { mvName = value; this.OnPropertyChanged(); }
+			set { mvName = value; modTodo.Name = value; this.OnPropertyChanged(); }
 		}
 		
 
