@@ -635,5 +635,3 @@ namespace PhotoTransfer.WP.PhotoTransfer_WP_XamlTypeInfo
 }
 
 
-
-

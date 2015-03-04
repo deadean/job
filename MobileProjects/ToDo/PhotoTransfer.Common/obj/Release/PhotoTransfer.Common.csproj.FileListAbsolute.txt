@@ -2,3 +2,7 @@ C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Common\bin\Release\PhotoTransfer
 C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Common\bin\Release\PhotoTransfer.Common.pdb
 C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Common\obj\Release\PhotoTransfer.Common.dll
 C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Common\obj\Release\PhotoTransfer.Common.pdb
+D:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Common\bin\Release\PhotoTransfer.Common.dll
+D:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Common\bin\Release\PhotoTransfer.Common.pdb
+D:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Common\obj\Release\PhotoTransfer.Common.dll
+D:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Common\obj\Release\PhotoTransfer.Common.pdb

@@ -2,30 +2,30 @@
   <ReferenceAssemblyList>
     <LocalAssembly PathName="c:\github\job\mobileprojects\todo\phototransfer.w8\obj\x86\release\intermediatexaml\phototransfer.w8.exe" HashGuid="39969a54-0f93-324b-abff-926b36f5dde4" />
     <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
-    <ReferenceAssembly PathName="c:\github\job\mobileprojects\todo\packages\portable.mvvmlightlibs.5.0.2.0\lib\netcore451\galasoft.mvvmlight.dll" HashGuid="da07be64-1093-25cd-c992-377d44b6dd02" />
-    <ReferenceAssembly PathName="c:\github\job\mobileprojects\todo\packages\portable.mvvmlightlibs.5.0.2.0\lib\netcore451\galasoft.mvvmlight.extras.dll" HashGuid="28bb2089-c7a4-73bb-7a72-1ea8b02698b0" />
-    <ReferenceAssembly PathName="c:\github\job\mobileprojects\todo\packages\portable.mvvmlightlibs.5.0.2.0\lib\netcore451\galasoft.mvvmlight.platform.dll" HashGuid="54c1f1ed-b921-337f-8ad6-f2d8c553df06" />
-    <ReferenceAssembly PathName="c:\github\job\mobileprojects\todo\library\bin\release\library.dll" HashGuid="ac1d348b-9ccd-50ff-7f39-568cbd8700f1" />
-    <ReferenceAssembly PathName="c:\github\job\mobileprojects\todo\packages\commonservicelocator.1.3\lib\portable-net4+sl5+netcore45+wpa81+wp8\microsoft.practices.servicelocation.dll" HashGuid="89de7f80-26d8-a17c-5ad9-b855f81ea5b2" />
-    <ReferenceAssembly PathName="c:\github\job\mobileprojects\todo\packages\newtonsoft.json.6.0.8\lib\netcore45\newtonsoft.json.dll" HashGuid="fd3dfcab-cf69-c796-78a2-2423dadb814b" />
-    <ReferenceAssembly PathName="c:\github\job\mobileprojects\todo\phototransfer.common\bin\release\phototransfer.common.dll" HashGuid="399ee7c2-0ecf-2b2d-1a23-fbc0b1eb74f0" />
-    <ReferenceAssembly PathName="c:\github\job\mobileprojects\todo\phototransfer.data\bin\release\phototransfer.data.dll" HashGuid="a93ba78f-ab9e-59a6-592f-7c3121d61bd9" />
-    <ReferenceAssembly PathName="c:\github\job\mobileprojects\todo\services\phototransfer.services.databases\bin\release\phototransfer.services.databases.dll" HashGuid="f304cda5-ab83-ec00-e6c1-7c3fbc2a6763" />
-    <ReferenceAssembly PathName="c:\github\job\mobileprojects\todo\ui\common\phototransfer.shared.common\bin\release\phototransfer.ui.common.dll" HashGuid="38a98613-63bc-0df8-4cc8-9aa29051ce6f" />
-    <ReferenceAssembly PathName="c:\github\job\mobileprojects\todo\phototransfer.ui.common.vvms\bin\release\phototransfer.ui.common.vvms.dll" HashGuid="6cbf5fe9-f72d-d104-f5e4-0620dfc59d2b" />
-    <ReferenceAssembly PathName="c:\github\job\mobileprojects\todo\ui\data\phototransfer.wp.data\bin\release\phototransfer.ui.data.dll" HashGuid="c67cf663-c713-514b-4ef3-2303491b1c28" />
-    <ReferenceAssembly PathName="c:\github\job\mobileprojects\todo\ui\databases\phototransfer.ui.databases\bin\release\phototransfer.ui.databases.dll" HashGuid="2006dc68-bb34-acb3-eeff-c5adfde545bb" />
-    <ReferenceAssembly PathName="c:\github\job\mobileprojects\todo\ui\universalapps\phototransfer.wp.data\bin\release\phototransfer.ui.universalapps.data.dll" HashGuid="5692ad95-2378-1032-20c3-591fd64a8e96" />
-    <ReferenceAssembly PathName="c:\github\job\mobileprojects\todo\ui\universalapps\phototransfer.ui.universalapps.databases\bin\release\phototransfer.ui.universalapps.databases.dll" HashGuid="cd222c59-0281-7a35-83f0-95c049fb2255" />
-    <ReferenceAssembly PathName="c:\github\job\mobileprojects\todo\ui\universalapps\phototransfer.ui.universalapps.services\bin\release\phototransfer.ui.universalapps.services.dll" HashGuid="89dd88de-2e65-479f-2f71-8b526f7b6d53" />
-    <ReferenceAssembly PathName="c:\github\job\mobileprojects\todo\ui\universalapps\phototransfer.ui.universalapps.ui.common\bin\release\phototransfer.ui.universalapps.ui.common.dll" HashGuid="108fa2d0-62ee-7131-cb2b-4fe12f9554ae" />
-    <ReferenceAssembly PathName="c:\github\job\mobileprojects\todo\ui\services\phototransfer.windows.services\bin\release\phototransfer.wp.services.dll" HashGuid="78cb1050-86af-5afa-8e21-6102e7943af4" />
-    <ReferenceAssembly PathName="c:\github\job\mobileprojects\todo\packages\sqlite.net.async-pcl.2.5.1\lib\portable-win8+net45+wp8+wpa81+monoandroid1+monotouch1\sqlite.net.async.dll" HashGuid="25bef9a0-75f0-3db3-c506-978494600cd7" />
-    <ReferenceAssembly PathName="c:\github\job\mobileprojects\todo\packages\sqlite.net-pcl.2.5.1\lib\portable-win8+net45+wp8+wpa81+monoandroid1+monotouch1\sqlite.net.dll" HashGuid="6f98ab13-75b6-523e-2a87-2d9c4017125e" />
-    <ReferenceAssembly PathName="c:\github\job\mobileprojects\todo\packages\sqlite.net.platform.winrt.2.5.1\lib\windows8\sqlite.net.platform.winrt.dll" HashGuid="6d36792b-b726-d829-c793-d007a04468fc" />
-    <ReferenceAssembly PathName="c:\github\job\mobileprojects\todo\packages\sqlitenetextensions.1.2.3\lib\portable-net45+netcore45+wpa81+wp8+monoandroid1+monotouch1\sqlitenetextensions.dll" HashGuid="ebb34aca-e11d-cccb-53a4-723be6ed66d6" />
-    <ReferenceAssembly PathName="c:\github\job\mobileprojects\todo\packages\sqlitenetextensions.async.1.2.3\lib\portable-net45+netcore45+wpa81+wp8+monoandroid1+monotouch1\sqlitenetextensionsasync.dll" HashGuid="c1fd88fb-e929-728e-28fe-373593e2f18e" />
-    <ReferenceAssembly PathName="c:\github\job\mobileprojects\todo\packages\xamarin.forms.1.3.4.6332\lib\portable-win+net45+wp80+monoandroid10+monotouch10+xamarin.ios10\xamarin.forms.core.dll" HashGuid="a70c3247-96c8-860b-83ed-f12dc026a238" />
-    <ReferenceAssembly PathName="c:\github\job\mobileprojects\todo\packages\xamarin.forms.1.3.4.6332\lib\portable-win+net45+wp80+monoandroid10+monotouch10+xamarin.ios10\xamarin.forms.xaml.dll" HashGuid="72c47516-37df-b2e4-6101-475e711d6b3f" />
+    <ReferenceAssembly PathName="d:\github\job\mobileprojects\todo\packages\portable.mvvmlightlibs.5.0.2.0\lib\netcore451\galasoft.mvvmlight.dll" HashGuid="da07be64-1093-25cd-c992-377d44b6dd02" />
+    <ReferenceAssembly PathName="d:\github\job\mobileprojects\todo\packages\portable.mvvmlightlibs.5.0.2.0\lib\netcore451\galasoft.mvvmlight.extras.dll" HashGuid="28bb2089-c7a4-73bb-7a72-1ea8b02698b0" />
+    <ReferenceAssembly PathName="d:\github\job\mobileprojects\todo\packages\portable.mvvmlightlibs.5.0.2.0\lib\netcore451\galasoft.mvvmlight.platform.dll" HashGuid="54c1f1ed-b921-337f-8ad6-f2d8c553df06" />
+    <ReferenceAssembly PathName="d:\github\job\mobileprojects\todo\library\bin\release\library.dll" HashGuid="ac1d348b-9ccd-50ff-7f39-568cbd8700f1" />
+    <ReferenceAssembly PathName="d:\github\job\mobileprojects\todo\packages\commonservicelocator.1.3\lib\portable-net4+sl5+netcore45+wpa81+wp8\microsoft.practices.servicelocation.dll" HashGuid="89de7f80-26d8-a17c-5ad9-b855f81ea5b2" />
+    <ReferenceAssembly PathName="d:\github\job\mobileprojects\todo\packages\newtonsoft.json.6.0.8\lib\netcore45\newtonsoft.json.dll" HashGuid="fd3dfcab-cf69-c796-78a2-2423dadb814b" />
+    <ReferenceAssembly PathName="d:\github\job\mobileprojects\todo\phototransfer.common\bin\release\phototransfer.common.dll" HashGuid="399ee7c2-0ecf-2b2d-1a23-fbc0b1eb74f0" />
+    <ReferenceAssembly PathName="d:\github\job\mobileprojects\todo\phototransfer.data\bin\release\phototransfer.data.dll" HashGuid="a93ba78f-ab9e-59a6-592f-7c3121d61bd9" />
+    <ReferenceAssembly PathName="d:\github\job\mobileprojects\todo\services\phototransfer.services.databases\bin\release\phototransfer.services.databases.dll" HashGuid="f304cda5-ab83-ec00-e6c1-7c3fbc2a6763" />
+    <ReferenceAssembly PathName="d:\github\job\mobileprojects\todo\ui\common\phototransfer.shared.common\bin\release\phototransfer.ui.common.dll" HashGuid="38a98613-63bc-0df8-4cc8-9aa29051ce6f" />
+    <ReferenceAssembly PathName="d:\github\job\mobileprojects\todo\phototransfer.ui.common.vvms\bin\release\phototransfer.ui.common.vvms.dll" HashGuid="6cbf5fe9-f72d-d104-f5e4-0620dfc59d2b" />
+    <ReferenceAssembly PathName="d:\github\job\mobileprojects\todo\ui\data\phototransfer.wp.data\bin\release\phototransfer.ui.data.dll" HashGuid="c67cf663-c713-514b-4ef3-2303491b1c28" />
+    <ReferenceAssembly PathName="d:\github\job\mobileprojects\todo\ui\databases\phototransfer.ui.databases\bin\release\phototransfer.ui.databases.dll" HashGuid="2006dc68-bb34-acb3-eeff-c5adfde545bb" />
+    <ReferenceAssembly PathName="d:\github\job\mobileprojects\todo\ui\universalapps\phototransfer.wp.data\bin\release\phototransfer.ui.universalapps.data.dll" HashGuid="5692ad95-2378-1032-20c3-591fd64a8e96" />
+    <ReferenceAssembly PathName="d:\github\job\mobileprojects\todo\ui\universalapps\phototransfer.ui.universalapps.databases\bin\release\phototransfer.ui.universalapps.databases.dll" HashGuid="cd222c59-0281-7a35-83f0-95c049fb2255" />
+    <ReferenceAssembly PathName="d:\github\job\mobileprojects\todo\ui\universalapps\phototransfer.ui.universalapps.services\bin\release\phototransfer.ui.universalapps.services.dll" HashGuid="89dd88de-2e65-479f-2f71-8b526f7b6d53" />
+    <ReferenceAssembly PathName="d:\github\job\mobileprojects\todo\ui\universalapps\phototransfer.ui.universalapps.ui.common\bin\release\phototransfer.ui.universalapps.ui.common.dll" HashGuid="108fa2d0-62ee-7131-cb2b-4fe12f9554ae" />
+    <ReferenceAssembly PathName="d:\github\job\mobileprojects\todo\ui\services\phototransfer.windows.services\bin\release\phototransfer.wp.services.dll" HashGuid="78cb1050-86af-5afa-8e21-6102e7943af4" />
+    <ReferenceAssembly PathName="d:\github\job\mobileprojects\todo\packages\sqlite.net.async-pcl.2.5.1\lib\portable-win8+net45+wp8+wpa81+monoandroid1+monotouch1\sqlite.net.async.dll" HashGuid="25bef9a0-75f0-3db3-c506-978494600cd7" />
+    <ReferenceAssembly PathName="d:\github\job\mobileprojects\todo\packages\sqlite.net-pcl.2.5.1\lib\portable-win8+net45+wp8+wpa81+monoandroid1+monotouch1\sqlite.net.dll" HashGuid="6f98ab13-75b6-523e-2a87-2d9c4017125e" />
+    <ReferenceAssembly PathName="d:\github\job\mobileprojects\todo\packages\sqlite.net.platform.winrt.2.5.1\lib\windows8\sqlite.net.platform.winrt.dll" HashGuid="6d36792b-b726-d829-c793-d007a04468fc" />
+    <ReferenceAssembly PathName="d:\github\job\mobileprojects\todo\packages\sqlitenetextensions.1.2.3\lib\portable-net45+netcore45+wpa81+wp8+monoandroid1+monotouch1\sqlitenetextensions.dll" HashGuid="ebb34aca-e11d-cccb-53a4-723be6ed66d6" />
+    <ReferenceAssembly PathName="d:\github\job\mobileprojects\todo\packages\sqlitenetextensions.async.1.2.3\lib\portable-net45+netcore45+wpa81+wp8+monoandroid1+monotouch1\sqlitenetextensionsasync.dll" HashGuid="c1fd88fb-e929-728e-28fe-373593e2f18e" />
+    <ReferenceAssembly PathName="d:\github\job\mobileprojects\todo\packages\xamarin.forms.1.3.4.6332\lib\portable-win+net45+wp80+monoandroid10+monotouch10+xamarin.ios10\xamarin.forms.core.dll" HashGuid="a70c3247-96c8-860b-83ed-f12dc026a238" />
+    <ReferenceAssembly PathName="d:\github\job\mobileprojects\todo\packages\xamarin.forms.1.3.4.6332\lib\portable-win+net45+wp80+monoandroid10+monotouch10+xamarin.ios10\xamarin.forms.xaml.dll" HashGuid="72c47516-37df-b2e4-6101-475e711d6b3f" />
   </ReferenceAssemblyList>
 </XamlCompilerSaveState>
