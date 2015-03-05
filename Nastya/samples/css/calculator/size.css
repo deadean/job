@@ -1,0 +1,35 @@
+.calculatorMainBlock{
+	height: 70%;
+	min-height:350px;
+	min-width: 300px;
+	width: 20%;
+	margin: 10px;
+}
+
+.calculatorDisplayBlock{
+	height: 20%;
+	min-height:30px;
+	width: 90%;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.calculatorInputBlock{
+	height: 74%;
+	min-height:50px;
+	width: 90%;
+}
+
+.calculatorRowBlock{
+	height: 13%;
+	width: 90%;
+	margin-top:2px;
+	overflow:hidden;
+}
+
+.calculatorButtonBlock{
+	height: 95%;
+	width: 17%;
+	margin-left:4px;
+}
+

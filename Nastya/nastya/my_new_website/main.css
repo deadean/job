@@ -1,0 +1,166 @@
+﻿#navbar{
+font-family: Arial, sans-serif;
+font-size: 14 pt;
+text-transform: uppercase;
+list-style-type: none;
+margin-left: -30px;
+}
+
+#navbar LI{
+cursor: pointer;
+padding: 5px 10px;
+margin: 10px 0px;
+border: thin solid #B1BEC6;
+}
+
+BODY{
+color: #3B4043;
+background-color: #F8F8F8;
+font-family: Verdana, Arial, sans-serif;
+margin: 0px;
+}
+
+P{
+font-size: 12pt;
+text-align: justify;
+}
+
+H1, H2, H6{
+font-weight: normal;
+font-family: Arial, sans-serif;
+letter-spacing: 1mm;
+text-shadow: #CDD9DB 1px 1px;
+}
+
+H1{
+font-size: 20pt;
+}
+
+H2{
+font-size: 18pt;
+}
+
+H6{
+font-size: 12 pt;
+}
+
+TABLE{
+font-size: 10 pt;
+}
+
+BLOCKQUOTE P, ADDRESS{
+font-size: 10 pt;
+font-style: italic;
+}
+
+ADDRESS{
+text-align: right;
+}
+
+UL{
+list-style-type: circle;
+}
+
+#cheader{
+width: 1320px;
+padding: 0 20px;
+border-bottom: thin dotted #B1BEC6;
+}
+
+#cnavbar{
+width: 300px;
+height: 550px;
+float:left;
+overflow: auto;
+margin-right: 10px;
+}
+
+#cmain{
+width:1020px;
+height: 550px;
+float: left;
+overflow: auto;
+padding: 5px;
+border-left: thin dotted #B1BEC6;
+}
+
+#ccopyright{
+width: 1320px;
+clear: both;
+padding: 10px 20px 0px 20px;
+border-top: thin dotted #B1BEC6;
+}
+
+#navbar LI UL {
+list-style-type: none;
+margin-left: -20px;
+margin-top: 10px;
+}
+
+#navbar LI UL LI {
+font-size: 12pt;
+padding: 2px;
+margin: 0px;
+border: thin solid #F8F8F8;
+cursor: pointer;
+}
+
+DFN{
+outline: thin dotted #B1BEC6;
+}
+
+TABLE{
+font-size: 10pt;
+margin: 10px 0px;
+border: thin solid #B1BEC6;
+border-collapse: collapse;
+}
+
+TD, TH{
+padding: 2px;
+border: thin dotted #B1BEC6
+}
+
+CAPTION{
+text-align: left;
+}
+
+A: link {
+color: #576C8C;
+text-decoration: none;
+}
+
+A: visited{
+color: #A1AFBA;
+text-decoration: none;
+}
+
+A:focus, A: hover, A: active {
+color:#576C8C;
+text-decoration: underline;
+}
+
+#navbar A: link, #navbar A: visited {
+color: #576C8C;
+text-decoration: none;
+}
+
+#navbar A: focus, # navbar A: hover, #navbar A: active{
+color: #576C8C;
+text-decoration: underline;
+}
+
+#cmain > P: first-child: first-letter{
+font-size: 18pt;
+font-weight: bold;
+}
+
+table-html-versions TD: first-child,
+table-html-versions TD: nth-child(2) {
+text-align: center;
+}
+
+.hovered{
+	border-color: #3B4043!important;
+}
+

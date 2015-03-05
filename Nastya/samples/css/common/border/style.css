@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+
+.border{
+	border: 1px solid black;
+}
+
+.calculatorBorder{
+	border: 1px solid black;
+	border-radius: 5px;
+}

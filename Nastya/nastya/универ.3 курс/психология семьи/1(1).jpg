@@ -1,0 +1,469 @@
+ces.Navigation.CustomHighlighting.CustomHighlightingRequest.TextControl">
+            <summary>
+            NOTE: formally, the custom highlighting currently applies to a document, because we ain't got a layer for highlighters on text control level. The highlighters will show up in all text controls of this document.
+            Historically, API binds to just one text control.
+            So we'd also only track the single text control for now. 
+            </summary>
+        </member>
+        <member name="M:JetBrains.ReSharper.Feature.Services.Goto.ChainedProviders.IChainedSearchProvider.GetNextChainedScopes(JetBrains.ReSharper.Feature.Services.Goto.GotoContext,JetBrains.Text.IdentifierMatcher,JetBrains.ReSharper.Feature.Services.Goto.INavigationScope,System.Func{System.Boolean})">
+            <summary>
+            Provides next step chained scopes
+            </summary>
+            <param name="gotoContext"></param>
+            <param name="matcher"></param>
+            <param name="containingScope"></param>
+            <param name="checkForInterrupt"> </param>
+            <returns></returns>
+        </member>
+        <member name="T:JetBrains.ReSharper.Feature.Services.Goto.INavigationScope">
+            <summary>
+            Thread-safe scope to be used by providers
+            </summary>
+        </member>
+        <member name="T:JetBrains.ReSharper.Feature.Services.Goto.GotoContext">
+            <summary>
+            Container for provider-specific data
+            </summary>
+        </member>
+        <member name="M:JetBrains.ReSharper.Feature.Services.Goto.IOccurenceNavigationProvider.FindMatchingInfos(JetBrains.Text.IdentifierMatcher,JetBrains.ReSharper.Feature.Services.Goto.INavigationScope,JetBrains.ReSharper.Feature.Services.Goto.GotoContext,System.Func{System.Boolean})">
+            <summary>
+            Finds matched items and returns a corresponing list of matchingInfos.
+            Controller (or some other entity that will use this provider) recieves these items, scores them, sorts 
+            and than invoke GetOccurences for the top scored of them.
+            </summary>
+            <param name="matcher">matcher to use</param>
+            <param name="scope">defines a scope to search in</param>
+            <param name="gotoContext"></param>
+            <param name="checkForInterrupt"> </param>
+            <returns></returns>
+        </member>
+        <member name="M:JetBrains.ReSharper.Feature.Services.Goto.IOccurenceNavigationProvider.GetOccurencesByMatchingInfo(JetBrains.ReSharper.Feature.Services.Goto.MatchingInfo,JetBrains.ReSharper.Feature.Services.Goto.INavigationScope,JetBrains.ReSharper.Feature.Services.Goto.GotoContext,System.Func{System.Boolean})">
+            <summar> Gets occurences by given matchingInfo </summar>
+            <param name="navigationInfo"></param>
+            <param name="scope"></param>
+            <param name="gotoContext"></param>
+            <param name="checkForInterrupt"> </param>
+            <returns></returns>
+        </member>
+        <member name="M:JetBrains.ReSharper.Feature.Services.Goto.GotoProviders.ChainedScopesUtil.CalculateChainedScore(System.Collections.Generic.List{System.String},JetBrains.ReSharper.Feature.Services.Goto.MatchingInfo)">
+            <remarks> words.Count should correspond with matchingInfo references depth </remarks>
+            <param name="revertedWords"></param>
+            <param name="matchingInfo"></param>
+            <returns></returns>
+        </member>
+        <member name="P:JetBrains.ReSharper.Feature.Services.Goto.IGotoEverythingProvider.ItemsPriorityFunc">
+            <summary>
+            The lower is result int -> the higher is the priority
+            </summary>
+        </member>
+        <member name="M:JetBrains.ReSharper.Feature.Services.Goto.GotoProviders.ClrGotoFileMemberProvider.GetQuickSearchTexts(JetBrains.ReSharper.Psi.IDeclaredElement)">
+            <param name="declaredElement"></param>
+            <returns>collection of tuples. A = quick search text. B = whether there is a symbol to symbol matching</returns>
+        </member>
+        <member name="M:JetBrains.ReSharper.Feature.Services.Goto.GotoProviders.TypeMemberNavigationUtil.GetPsiSourceFileTypeElements(JetBrains.ReSharper.Psi.IPsiSourceFile)">
+            <summary>
+            Return custom filtered type members from all type elements inside indicated source file.
+            </summary>
+            <param name="sourceFile"></param>
+            <returns></returns>
+        </member>
+        <member name="M:JetBrains.ReSharper.Feature.Services.Goto.IChainedOccurencesProvider.FindOccurences(JetBrains.Text.IdentifierMatcher,JetBrains.ReSharper.Feature.Services.Goto.INavigationScope,JetBrains.ReSharper.Feature.Services.Navigation.Search.LibrariesFlag,System.Func{System.Boolean})">
+            <summary>
+            Implement this method if your provider can work as a secondary provider in a chained search.
+            PERFORMANCE SENSITIVE!
+            </summary>
+            <param name="matcher"></param>
+            <param name="scope"></param>
+            <param name="includeLibraries"></param>
+            <param name="checkCancelled"></param>
+            <returns></returns>
+        </member>
+        <member name="T:JetBrains.ReSharper.Feature.Services.Goto.MatchingInfo">
+            <summary>
+            Data class that describes all necessary info to score an item. 
+            </summary>
+        </member>
+        <member name="T:JetBrains.ReSharper.Feature.Services.Navigation.AssemblyInfoNavigationData">
+            <summary>
+            Data class containing navigation info required to navigate to an assembly
+            </summary>
+        </member>
+        <member name="P:JetBrains.ReSharper.Feature.Services.Navigation.AssemblyInfoNavigationData.Index">
+            <summary>
+            -1 if not initialized
+            </summary>
+        </member>
+        <member name="P:JetBrains.ReSharper.Feature.Services.Navigation.CompiledElementNavigationInfo.UseFocusedTextControlContent">
+            <summary>
+            Use focused text control to search usages of declared elements
+            </summary>
+        </member>
+        <member name="M:JetBrains.ReSharper.Feature.Services.Navigation.GoToRelated.IRelatedFilesProvider.GetRelatedFiles(JetBrains.ProjectModel.IProjectFile)">
+            <summary>
+            Get all related files to specified file.
+            </summary>
+            <param name="projectFile"></param>
+            <returns>Enumeration of tuples of related project file, it's relation type to requested file, and parent file.</returns>
+        </member>
+        <member name="M:JetBrains.ReSharper.Feature.Services.Navigation.Navigation.IOccurenceFilter.ShouldBeFiltered(JetBrains.ReSharper.Feature.Services.Navigation.Search.IOccurence)">
+            <returns>true if the item is filtered and should be skipped, false if the item should pass to search results</returns>
+        </member>
+        <member name="M:JetBrains.ReSharper.Feature.Services.Navigation.Navigation.NavigationExtensions.CommonElementsNavigationExtensions.Navigate(JetBrains.ProjectModel.IProjectModelElement,JetBrains.UI.PopupWindowManager.PopupWindowContextSource,System.Boolean)">
+            <summary>
+            Navigates to the project item using all applicable providers
+            </summary>
+            <param name="projectModelElement"></param>
+            <param name="source">popup window context to determine where to place a disambig window if needed</param>
+            <param name="transferFocus">activate if true - highlight otherwise</param>
+            <returns>True if the navigation was succesfull. Always true if there were obtained more than one navigation point</returns>
+        </member>
+        <member name="M:JetBrains.ReSharper.Feature.Services.Navigation.Navigation.NavigationExtensions.CommonElementsNavigationExtensions.NavigateToVsSolutionExplorer(JetBrains.ProjectModel.IProjectItem,JetBrains.UI.PopupWindowManager.PopupWindowContextSource,System.Boolean)">
+            <summary>
+            Navigates to solution explorer using given project item
+            </summary>
+            <param name="projectItem"> </param>
+            <param name="source">popup window context to determine where to place a disambig window if needed</param>
+            <param name="transferFocus">activate if true - highlight otherwise</param>
+            <returns>True if the navigation was succesfull. Always true if there were obtained more than one navigation point</returns>
+        </member>
+        <member name="M:JetBrains.ReSharper.Feature.Services.Navigation.Navigation.NavigationExtensions.CommonElementsNavigationExtensions.NavigateToExternalSources(JetBrains.ReSharper.Psi.ICompiledElement,JetBrains.UI.PopupWindowManager.PopupWindowContextSource,System.Boolean)">
+            <param name="compiledElement"> navigates to a compiled element. To navigate inside compiled members bodies use an overload with compiledElementNavigationInfo data class</param>
+            <param name="source">popup window context to determine where to place a disambig window if needed</param>
+            <param name="transferFocus">activate if true - highlight otherwise</param>
+            <returns>True if the navigation was succesfull. Always true if there were obtained more than one navigation point</returns>
+        </member>
+        <member name="M:JetBrains.ReSharper.Feature.Services.Navigation.Navigation.NavigationExtensions.CommonElementsNavigationExtensions.NavigateToExternalSources(JetBrains.ReSharper.Feature.Services.Navigation.CompiledElementNavigationInfo,JetBrains.UI.PopupWindowManager.PopupWindowContextSource,System.Boolean)">
+            <param name="compiledElementNavigationInfo"> data class with CompiledElement (scope) to search in and a target to be searched in this scope</param>
+            <param name="source">popup window context to determine where to place a disambig window if needed</param>
+            <param name="transferFocus">activate if true - highlight otherwise</param>
+            <returns>True if the navigation was succesfull. Always true if there were obtained more than one navigation point</returns>
+        </member>
+        <member name="M:JetBrains.ReSharper.Feature.Services.Navigation.Navigation.NavigationExtensions.CommonElementsNavigationExtensions.NavigateToVsObjectBrowser(JetBrains.ReSharper.Psi.ICompiledElement,JetBrains.UI.PopupWindowManager.PopupWindowContextSource,System.Boolean)">
+            <param name="compiledElement"> </param>
+            <param name="source">popup window context to determine where to place a disambig window if needed</param>
+            <param name="transferFocus">activate if true - highlight otherwise</param>
+            <returns>True if the navigation was succesfull. Always true if there were obtained more than one navigation point</returns>
+        </member>
+        <member name="M:JetBrains.ReSharper.Feature.Services.Navigation.Navigation.NavigationExtensions.CommonElementsNavigationExtensions.Navigate(JetBrains.ReSharper.Feature.Services.Navigation.AssemblyInfoNavigationData,JetBrains.UI.PopupWindowManager.PopupWindowContextSource,System.Boolean)">
+            <param name="assemblyInfoNavigationData"> </param>
+            <param name="source">popup window context to determine where to place a disambig window if needed</param>
+            <param name="transferFocus">activate if true - highlight otherwise</param>
+            <returns>True if the navigation was succesfull. Always true if there were obtained more than one navigation point</returns>
+        </member>
+        <member name="M:JetBrains.ReSharper.Feature.Services.Navigation.Navigation.NavigationExtensions.CommonElementsNavigationExtensions.Navigate(JetBrains.ProjectModel.ProjectFileTextRange,JetBrains.UI.PopupWindowManager.PopupWindowContextSource,System.Boolean,JetBrains.IDE.TabOptions)">
+            <param name="projectFileTextRange"> </param>
+            <param name="source">popup window context to determine where to place a disambig window if needed</param>
+            <param name="transferFocus">activate if true - highlight otherwise</param>
+            <param name="tabOptions"></param>
+            <returns>True if the navigation was succesfull. Always true if there were obtained more than one navigation point</returns>
+        </member>
+        <member name="M:JetBrains.ReSharper.Feature.Services.Occurences.IOccurenceProvider.MakeOccurence(JetBrains.ReSharper.Psi.Search.FindResult)">
+            <summary>
+            Makes occurence from find result. Return null if find result is incompatible with provider
+            </summary>
+        </member>
+        <member name="F:JetBrains.ReSharper.Feature.Services.Occurences.OccurenceKindProviders.OccurenceKind.Other">
+            <summary>
+            default occurence kind
+            </summary>
+        </member>
+        <member name="M:JetBrains.ReSharper.Feature.Services.Occurences.OccurenceKindProviders.OccurenceKindManager.GetOccurenceKinds(JetBrains.ReSharper.Feature.Services.Navigation.Search.IOccurence)">
+            <summary>
+            gets kinds for a specific occurence
+            </summary>
+            <param name="occurence"></param>
+            <returns></returns>
+        </member>
+        <member name="M:JetBrains.ReSharper.Feature.Services.Occurences.OccurenceKindProviders.OccurenceKindManager.GetAllOccurenceKinds">
+            <summary>
+            gets the set of all possible kinds from all providers
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="F:JetBrains.ReSharper.Feature.Services.Occurences.TextDisplayStyle.ChainedPME">
+            <summary>
+            Display containing Project Model Element
+            </summary>
+        </member>
+        <member name="F:JetBrains.ReSharper.Feature.Services.Occurences.TextDisplayStyle.ChainedCME">
+            <summary>
+            Dispaly containing Code Model Element
+            </summary>
+        </member>
+        <member name="T:JetBrains.ReSharper.Feature.Services.Navigation.ProjectFileNavigationPoint">
+            <summary>
+            Project file's navigation point without cursor positioning
+            </summary>
+        </member>
+        <member name="T:JetBrains.ReSharper.Feature.Services.Navigation.Navigation.TextNavigationPoint">
+            <summary>
+            Project file's navigation point with cursor positioning
+            </summary>
+        </member>
+        <member name="T:JetBrains.ReSharper.Feature.Services.Occurences.Presentation.DeclaredElementMenuItemFormatter">
+            <summary>
+            Formats a declared element into a menu item descriptor, suitable for the GotoByName-style lists.
+            </summary>
+        </member>
+        <member name="M:JetBrains.ReSharper.Feature.Services.Occurences.Presentation.DeclaredElementMenuItemFormatter.Format(JetBrains.ReSharper.Psi.IDeclaredElement,JetBrains.UI.PopupMenu.IMenuItemDescriptor,JetBrains.ReSharper.Feature.Services.Occurences.OccurencePresentationOptions,System.Boolean)">
+            <summary>
+            Formats a declared element into a menu item descriptor, suitable for the GotoByName-style lists.
+            </summary>
+        </member>
+        <member name="F:JetBrains.ReSharper.Feature.Services.ReferencedCode.ReferencedCodeKind.ExtensionMethodsRedundantImport">
+            <summary>
+            weak usage. If the corresponding namespace import will be removed, 
+            removing find result's referenced psiModules won't break compilation.
+            </summary>
+        </member>
+        <member name="F:JetBrains.ReSharper.Feature.Services.ReferencedCode.ReferencedCodeKind.RedundantNamespaceImport">
+            <summary>
+            weak usage. <see cref="M:JetBrains.ReSharper.Feature.Services.ReferencedCode.ReferencedCodeService.GetRedundantImportsToRemove``1(System.Collections.Generic.IEnumerable{``0},System.Collections.Generic.IEnumerable{JetBrains.ProjectModel.IModule},JetBrains.ProjectModel.IProject,System.Collections.Generic.IEqualityComparer{JetBrains.ProjectModel.IModule})"/>
+            </summary>
+        </member>
+        <member name="F:JetBrains.ReSharper.Feature.Services.ReferencedCode.ReferencedCodeKind.DirectUsage">
+            <summary>
+            strong, direct usage.
+            </summary>
+        </member>
+        <member name="F:JetBrains.ReSharper.Feature.Services.ReferencedCode.ReferencedCodeKind.RelatedUsage">
+            <summary>
+            strong, compiler related usage. Removing corresponding referenced psiModules will break compilation.
+            </summary>
+        </member>
+        <member name="F:JetBrains.ReSharper.Feature.Services.ReferencedCode.ReferencedCodeKind.ExtensionMethodStrongCall">
+            <summary>
+            strong, compiler related usage concerned with calling extension methods and importing namespaces. 
+            Removing corresponding referenced psiModules will break compilation.
+            </summary>
+        </member>
+        <member name="M:JetBrains.ReSharper.Feature.Services.ReferencedCode.ReferencedCodeUtil.GetForwardedAssemblyReferences(System.Collections.Generic.ICollection{JetBrains.ReSharper.Psi.Modules.IPsiModule},JetBrains.ProjectModel.IProject)">
+            <summary>
+            Gets additional project references caused by forwarding.
+            </summary>
+            <param name="targetPsiModules"></param>
+            <param name="project"></param>
+            <returns></returns>
+        </member>
+        <member name="M:JetBrains.ReSharper.Feature.Services.ReferencedCode.ReferencedCodeSearcher.GetRelatedElements(JetBrains.ReSharper.Psi.IDeclaredElement,JetBrains.ReSharper.Psi.Resolve.IReference)">
+            <summary>
+            Gets related type elements associated with a given declared element. 
+            'Related' are those type elements which psiModules should be refernced as well as the module of <param name="declaredElement"/>.
+            </summary>
+            <param name="declaredElement"></param>
+            <param name="reference">some rules need a reference to get invocation context</param>
+            <returns></returns>
+        </member>
+        <member name="M:JetBrains.ReSharper.Feature.Services.ReferencedCode.ReferencedCodeService.RemoveProjectToModuleReferences(System.Collections.Generic.IEnumerable{JetBrains.ProjectModel.IProjectToModuleReference},JetBrains.Application.Progress.IProgressIndicator)">
+            <summary>
+            Removes selected projectToModule references under the transaction with progress indicator. 
+            Assuming that the list does not contain implicitly referenced psiModules.
+            </summary>
+            <param name="listToRemove"></param>
+            <param name="progressIndicator"></param>
+        </member>
+        <member name="M:JetBrains.ReSharper.Feature.Services.ReferencedCode.ReferencedCodeService.RemoveRedundantUsages(System.Collections.Generic.IEnumerable{JetBrains.ReSharper.Psi.Resolve.IReference},JetBrains.Application.Progress.IProgressIndicator)">
+            <summary>
+            Removes selected references with an indicated progress indicator. Needs to be executed under transaction.
+            </summary>
+            <param name="references"></param>
+            <param name="progress"></param>
+        </member>
+        <member name="M:JetBrains.ReSharper.Feature.Services.ReferencedCode.SkippedTypes.IsSkippedType(JetBrains.ReSharper.Psi.IClrTypeName)">
+            <summary>
+            Returns if the target clrTypeName should be skipped for ReferencedCodeSearcher
+            </summary>
+        </member>
+        <member name="M:JetBrains.ReSharper.Feature.Services.Navigation.Search.SearchRequests.SearchProjectItemReferencedCodeRequest.#ctor(System.Collections.Generic.IEnumerable{JetBrains.ProjectModel.IProjectItem},JetBrains.ProjectModel.ISolution,System.Boolean,System.Boolean,System.Collections.Generic.List{JetBrains.ProjectModel.IModule})">
+            <param name="targetElements"></param>
+            <param name="solution"></param>
+            <param name="includeRelated"></param>
+            <param name="useRetargeting"></param>
+            <param name="referencedCodeScope">Constraint for results to reference elements only from indicated modules. Use null if there is no constraint.</param>
+        </member>
+        <member name="M:JetBrains.ReSharper.Feature.Services.Navigation.Search.ISpecialElementFinder.GetSearchTarget(JetBrains.ReSharper.Psi.Tree.IFile,System.Nullable{JetBrains.DocumentModel.DocumentRange},System.Nullable{System.Int32})">
+            <summary>
+            Get special finder's search targets
+            </summary>
+            <param name="file"></param>
+            <param name="range">
+              Range in document (selection or caret only). Can be null if invoked on project item
+            </param>
+            <param name="caretOffset">
+              Caret position. Can be null if invoked on project item
+            </param>
+            <returns></returns>
+        </member>
+        <member name="T:JetBrains.ReSharper.Feature.Services.Navigation.Search.LibrariesFlag">
+            <summary>
+            Defines whether the libraries should be included or not when searching for items.
+            </summary>
+        </member>
+    </members>
+</doc>
+                                                                                                                                                                                                                                                                                                          Ê‚!ìÄ{Í'A ²‚Ä‚5)ÿ Zcè/üÌŒ ÁÏ|UƒË‘£ŸZ²g: Œö§B‘¸/¥v #aöíKµ0OÚÜk2¨&Od>àûö ‡ùŠÎY€/Ûn((p–¹b@
+7ïı¨Øê–2b@Å ;œd:±ûPÉ+Ìˆî‰¨$œÁ"„ÌV¢c;kÒÎŸ¶j¶@¥QBFIUÆ}¹ª»›i4Ë)xÕÔId|UÉº"Öâ4o,d¤x'şµÎÔ/"‚şîâÜ9
+ .øõdì?ûA¦b¿B£ŸºšAü™4ÊÎy üW¢ÿ /¼QÑ,Üõ‰sÄ±*™Á,§fßúFqP¡hz<Ë…ŒavÏš	Èjv#'<…Ú¦^KÄØõ©¢q©	:lî@HíÕ²95iĞüU—}sÆ~#ñ¬=cªÉqsä*„\ü äcLé7Ò[ƒuçšæ$½–âêH¯š7»¨nP`Ì3ô>6,;7'½H¶¼#êæ³¬óS¹;äolì.z´†"yõÏİLò1É#àRÖó'Õ.Ş%+6SwFü’TAPpv#j³éğ) ‘œÔ…¶— ïRm#DÂ÷¼\$§l©ÍbŒ$`(Öz=…9´éĞiÒ¿µu£EQŸº8ËhFrŞìh­÷ ÚŸvé$›}²(-Ô+dçŠäü†&İ¢œ	PCÜ·#Š~Bœ
+Òm¨XY®OZ2vâ¤
+øÅ-¥+ÍG‘µµÈÖˆLPşù¦ê¨¶£8Ş¥¢jlVi»t1xG.uQ¶0OaVØG§SçÚªzà6Ëü³¶wÍkÿ •Ç“ıè[J¡ñØñ½Oéº_$€rNIßj°µ¾+†V`~õ1ÁA©2»¤u¶ÈÅU•ˆlïPnon$2ilQmåtrÅlÉÉOÄS™mp‚AêlµA2ıêTs+wıkR*0Û4µ‘1ØÒb¢S¤1=ª=ÅÃDuFä0ïšÎ¢<ÅVŞ0>‘K”÷ si“©ÜÈšZSŠUÔğÜë†Rœã;T6"Š7Ï}ä¶Ì[½u·U.#U	$mÈ¯#ñÖï-cDM.ÆV'3¹Ûòÿ R+¹³2Ü9ò˜"&îíô¨~ÿ j‡Ö:UÅµÅĞ½•Ñäó$+6€8$j\“¿ö®—S’í3OU83¶–İ˜[[Hë 8Õ&ÅÏ!Ü‡ÇµZYÄÌ–Í)ËhÉ;n@ø4Æè]BØ¯àníº‚c Â9Îà…`g8Øšt-;\-ÚõèW¾	É;Uf¿Ã7F½RƒIĞIñŒÒ¥‡{=Z‘iÆ€m}Çõ{
+^¦ïjc‰bó"q¢V¤ œ	Ûÿ M%P»5y„úĞ~w¬M;Ù5øÊúd¡…½1Ügö¥‰ã†İ¤†&K—o.6r Y ÷<f—ráµ63èP†Ø5»’ğÈ¶ÒB%XNA'rr(âŠWB®ÃAÓôŸš)ö²È6$)ú6=èÕÒ(É³œº+ìçšS/ÿ çœÌÎ0}òhÈn×J1»©Qô„c¹b?ÛŞ’Ñ(O5¢ä·È9ïNºw¸¹>€r© ` 9ØRÃ”v”ÈC€§'WÁó@iX ?(ÛWlÓ,åómîÖFKè:ÀšUÃ³°(V%TaTQÛE®ÆõÙIÆ€tT^èab’…ß~voµ55.od#:N;Ráv„`"É •aÇµ"cbÊù`¿Ğ}FYš™ŠÊX†Lì;ı…®N©¼°«6Î«éRãx÷¬´«æL5¦Ş£ù4qÈ‹Âf6Ô´‘¨d6Ä|â„qÇ,Ò•Š7bcòÃŒfšQÌ,™F”8Eõ¶ <3¸ÚôÇªVTRU|cÿ sI–ˆ•N­` „z}·íïš¤Akté¤‡$Œ™22ºG9øß¢-lC4HåIÒêäzsÀÈäc;ŸŠ\óEr|¹(f×½Ê!'ØëP}_¦½BšG´›É`­úu•qÿ İÿ ¤SãEİ#³è°ÿ ˆ"\H¥üä)¤ ÷ùÀÇíLê½HŒs&¦ãÁËàûoµMşø‹£ô®´ğuÈâŸ§3	›Ôñ1`>¥à‘Û¯kñ—„ ëVñu/İt§‰” ‹"èaœäûñí[±ğá<mŞÍ0‡xÚ>vk)â µ0 ïhgb´`ÿ é¯Fş _tÎ…hİÉ¬®º˜:¤¹€†ò‰(Xl1ØÉ;ñ^i1!O`¿ù®V\_\©;5øNÒ şõØt¤ypq÷®?¥Cªğ]¿MFEG¿‰µaãMÌN„coŞ¢Ü¹§½6âã@]¸ùªKËÒÎsş´\ŒêskÒ|X Æ2~i_ãì?sT²M¨ñŸœÖ¼ÏıÍbÿ ²B»×‡|?U,ÊK(ï+<Má‡é?R…Ğ9ù¯IğgU°µ·6…c–$W)ü^ñœê¶¶åRtïÖ½''%…·énRLó¸Ü·qL-‘½AIHßœzzå±½x¼“JM “³Îry¡ÀÎšaQí“ZTÁÉÚ³8;"Cm× o¸§†*Àš!S5_y~lã_[ìt¬é¢½€Áj07Ş¨<GsÃÊÕ$ƒT¯Ô¹#İèú»jè<²pQÿ K'â#F¼=§¢sÚ„ç§¿@±âbyÚ°HsšŒ	£\ç]Q“c˜ƒ‘šŸo&TdäÕJ‚úÓà›HÉ;PuŞ8›ñ¯X Ì»U4òeŞ¬.eÕÕš«së4ÈÆ™3Aş‚9&FAf´¬1Åî íL2~“mîã³‚wPb™ÿ ˜úe9Ù	ü«ïi÷RåbÓ%´Ç!%/§F8 Š·°ğÍÍ÷†­üQmeõµ«‘sH©M‰Ç¶àÔÈ¼"ò.º‹u ¹D¹Õ#‚rÀo¶7y{×RrÏê´>1mLM%½½ÌÖªU¢\yO8`s\üv±Ï)ÔáFAy¤9T}óƒ·Íz‰,lº7FëWÖáÌFm,u&†ši6å]lsÀ5ä­r„Rà…İÛßßÜP,rKb²Úı-Ò[q„!T-/v?”àg÷¦ëÀXÏ”Ì¢Äg ç÷¨æê–5	$•È‚xÉî~MLk8­Ìbs21!ó…Nã¿«½*Q¦-†	.¤Š(¡‘×X1 şœñŠTlï,­æº4„ÈÕê÷—4±·3 …HPØVä…vMZ       ÿÿ  ¸       @                                   €   º ´	Í!¸LÍ!This program cannot be run in DOS mode.
+$       PE  L K\úO        à !           ~+       @    1`                      €     ¿*  `…                           0+  K    @  ğ              >   `                                                                       H           .text   „                           `.rsrc   ğ   @                    @  @.reloc      `                    @  B                `+      H     Ğ   `
+  	               P   €                                   ½Ø¥¥»s;n®ÓÌC \ïÎRş#÷QÛbşVÌÛ‘ª3uÀë{^_ˆTÕM%æ\Sî€•q@í-_öá´~„æs:FÔ“3ñİøã©¾º(¥xÂÑ{ûyFLÅ*ÕıšÌ<3ÜXrÃ„‚?ÔT~(`²kPC3ò«m.ÁXBSJB         v4.0.30319     l     #~  ˆ  à  #Strings    h     #US p     #GUID   €  à  #Blob           ‰    ú%3                             
+       U C  r C   C  ­ C  Æ C  ß C  ú C  C  0C  VC  qC  ‘Š ·§ İC  ôC  & ¡ Á           	 l 
+  l 
+  l 
+ ! l 
+ ) l 
+ 1 l 
+ 9 l 
+ A l 
+ I l 
+ Q l  Y l 
+ a l  i l  q l   l  ‰ l  ‘ l  .  Å .  Å .  Å . # ô . + . 3 /. C d. K d. S y. [ . c y. k °. { °. ƒ µ. ‹ ¾€         q   # x              4                 A            cx	         x	         ¸x	         Òx	         Ûx	         íx	         şx	         x	         ,x	         >x	         Tx	         jx	         wx	         †x	         ¡x	         ³Î	         ûÎ	         x	         )x	         <x	         Lx	         `x	         rx	         †x	         —x	      <Module> System.ComponentModel.DataAnnotations.dll System.Runtime System.Reflection AssemblyTitleAttribute .ctor AssemblyDescriptionAttribute AssemblyDefaultAliasAttribute AssemblyCompanyAttribute AssemblyProductAttribute AssemblyCopyrightAttribute AssemblyVersionAttribute AssemblyFileVersionAttribute AssemblyInformationalVersionAttribute AssemblyDelaySignAttribute AssemblyKeyFileAttribute System CLSCompliantAttribute System.Security AllowPartiallyTrustedCallersAttribute AssemblyFlagsAttribute AssemblyNameFlags System.Runtime.CompilerServices ReferenceAssemblyAttribute System.ComponentModel.Annotations AssociationAttribute System.ComponentModel.DataAnnotations ConcurrencyCheckAttribute CustomValidationAttribute DataType DataTypeAttribute DisplayAttribute DisplayColumnAttribute DisplayFormatAttribute EditableAttribute EnumDataTypeAttribute FilterUIHintAttribute KeyAttribute RangeAttribute RegularExpressionAttribute RequiredAttribute DatabaseGeneratedAttribute System.ComponentModel.DataAnnotations.Schema DatabaseGeneratedOption StringLengthAttribute TimestampAttribute UIHintAttribute ValidationAttribute ValidationContext ValidationException ValidationResult Validator CompilationRelaxationsAttribute RuntimeCompatibilityAttribute         Kl\Ö¿D£¹´æGdb °?_Õ
+:     = €  $  €  ”      $  RSA1     µüçg‡w:Ş‰8ÈÔºe¹ `Y>–Ä’eˆœÁ?ëµ?¬1®Ó3Åî`!g-—ê1¨®½ /%Ø}ºoÉıYÔÚ5äL9ŒECèã;„&=®Éõ–ƒo—È÷GPå—\dâŸEŞôk*+G­Ãe+õÃ]©. )System.ComponentModel.DataAnnotations.dll   Microsoft Corporation   MicrosoftÂ® .NET Framework  4 /Â© Microsoft Corporation.  All rights reserved.   4.0.30319.17929     0 +f:\dd\tools\devdiv\silverlightpublickey.snk             TWrapNonExceptionThrows   X+          n+                          `+        _CorDllMain mscoree.dll     ÿ%  1`                                                                                                                                                €                  0  €                   H   X@  ”          ”4   V S _ V E R S I O N _ I N F O     ½ïş      	Fov   	Fov?                         D    V a r F i l e I n f o     $    T r a n s l a t i o n       °ô   S t r i n g F i l e I n f o   Ğ   0 0 0 0 0 4 b 0   l *  C o m m e n t s   S y s t e m . C o m p o n e n t M o d e l . D a t a A n n o t a t i o n s . d l l   L   C o m p a n y N a m e     M i c r o s o f t   C o r p o r a t i o n   | *  F i l e D e s c r i p t i o n     S y s t e m . C o m p o n e n t M o d e l . D a t a A n n o t a t i o n s . d l l   @   F i l e V e r s i o n     4 . 0 . 3 0 3 1 9 . 1 7 9 2 9   t *  I n t e r n a l N a m e   S y s t e m . C o m p o n e n t M o d e l . D a t a A n n o t a t i o n s . d l l   „ /  L e g a l C o p y r i g h t   ©   M i c r o s o f t   C o r p o r a t i o n .     A l l   r i g h t s   r e s e r v e d .     | *  O r i g i n a l F i l e n a m e   S y s t e m . C o m p o n e n t M o d e l . D a t a A n n o t a t i o n s . d l l   T   P r o d u c t N a m e     M i c r o s o f t ®   . N E T   F r a m e w o r k   D   P r o d u c t V e r s i o n   4 . 0 . 3 0 3 1 9 . 1 7 9 2 9   8   A s s e m b l y   V e r s i o n   4 . 0 . 0 . 0                                                                                                                                                                                                                                                                                              €;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       >    0‚>	*†H†÷ ‚>0‚>10	+ 0L
++‚7 >0<0
++‚70	  ¢€ 0!0	+ +/v:"CÏİ*öÿ ì¿sÓ ‚-0‚ 0‚ˆ 
+aÌ“    f0	*†H†÷ 0y10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1#0!UMicrosoft Code Signing PCA0111010203225Z130110203225Z0ƒ10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation10UMOPR10UMicrosoft Corporation0‚"0	*†H†÷ ‚ 0‚
+‚ î[¾}$ã†àfÿHµ½ä´2ğr>}.‡×N¡±§C/÷e1á21E®×Á$„!×.µ„~ú5ÓS×¶QOÎf¹ë·ı)\­¨‡öÊ"´Õ¿uõŠpc×ïŠéC$dZÓ‡}m;¬vÍW6}è¼V¬˜ğ‰].dÆ¯&	^cñ=¿™ˆÃ0·Á`rÌÖ·¨5†›¡
+æ“[úTœÁó_BŸ?·'ƒ2‚óÙ‡Ô!²<¢¶O×$ªîõ³Ùúù9O§éò¯YRôÜA›/pcİêŞªñm!S3»²OÅáS²AeGn7ö¼é›A‘k.[0Ã £‚0‚0U%0
++0URó*·À‰Ã=Ô–X¹£Sn0Uÿ€0U#0€ËèÊÒ´XÉ7.3¹Lš
+0VUO0M0K I G†Ehttp://crl.microsoft.com/pki/crl/products/MicCodSigPCA_08-31-2010.crl0Z+N0L0J+0†>http://www.microsoft.com/pki/certs/MicCodSigPCA_08-31-2010.crt0	*†H†÷ ‚ ¥[6l­N›iãoŠ›iwÃldr(ˆÙ=Em,{Ô(/âYjÂ4·Šıê¹”ì1æjôuÓ§Ú^:ı©½œQCoÿg”œáÏ|ğ$°5Ìƒ]îÚÀo6IÀZ
+WösáóãL;>/ÌÒÍîO"p÷¦K›¸\ˆ6”l3¸©­Q ĞÂÜ"½Ãß‚×V¡÷İğ¥ Wî¬†tlq›ÁğòÂp^§ÛmM7X™My@Ğ4]Z%®gëNF°Œ)£¥3Ÿ#ÕøµF}àîc˜K>¨/°³Y¤¯AS-*É:L.©1QVd¬šÌ¬—˜)Š—‡ê¶0‚º0‚¢ 
+a–     0	*†H†÷ 0w10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1!0UMicrosoft Time-Stamp PCA0110725204219Z121025204219Z0³10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation10UMOPR1'0%UnCipher DSE ESN:9E78-864B-039D1%0#UMicrosoft Time-Stamp Service0‚"0	*†H†÷ ‚ 0‚
+‚ ÓË;S¢ŸD£z«MVqSŠwª7“~>ı«£S©ÿÑ±"Å çunîèÅØa ¾ v;Å ¨üCS¡¹’˜b8ïÔ3÷+={ï­EW…• Ÿ×c4œbF¾®àÙ9ö©UıÏçwæ5ï\è¿H“OCX8Š…lêÉĞKz‚nËÓ`‰”¨[?:É? }m/X}ÊŠ8¼ÃÂ9hØ-X#í*Z Œ‚¥íÑ—E’…ÌÃ7ƒß˜|ÅÓ¶à™SØxõå#!b†ZjiıpùS4÷%1†‡‹ÀUšıªL5ı[é•É«S˜)_,¥á%dÅò°'u £‚	0‚0Uy#ç¡¾U,h)b‚gÖóá68Z0U#0€#4øÙRFp
+í@ûvû³+°Ã5³0TUM0K0I G E†Chttp://crl.microsoft.com/pki/crl/products/MicrosoftTimeStampPCA.crl0X+L0J0H+0†<http://www.microsoft.com/pki/certs/MicrosoftTimeStampPCA.crt0U%0
++0	*†H†÷ ‚ GÂv[1İoÓ<™òzl~—P,¸D¡µŒôVÏ½°!´dmaØîèëõ’îC¢DÃúúï­¶\—mKµCû'axT|±ù¯˜
+´tÄªè-PÄ}ş}N¡™Ö'(·®Øß±ƒ"Îóyüam¿ëÌ„°ß£»[·êTõbl'¦cKúã¡ú»ß…–eiS°¶q˜d&f½Åñ\b¼‘ô=œKB Ï8&ZÜ*Kj™8Øİs™¢ÎŒP$¤ëõ?ŠxÌT™]%f¤A(¯IÄ´R”ìŞƒdşMÔÿK¢ü)€Ûî?«<í3ˆÊ¿"`Ğ\;°
+´˜m<§:OšÑbŠAv 0‚¼0‚¤ 
+a3&     10	*†H†÷ 0_10
+	’&‰“ò,dcom10
+	’&‰“ò,d	microsoft1-0+U$Microsoft Root Certificate Authority0100831221932Z200831222932Z0y10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1#0!UMicrosoft Code Signing PCA0‚"0	*†H†÷ ‚ 0‚
+‚ ²rY\0d¿š`  B™vSl>ÖoÌËñêkş—àß:tƒ·/ 2ìÿŞÂBN#Õr Û5W
+‰Ê® Iôğh¬MK¥½yKq›GÚı%ßuˆÏªsD×Ûó½ò6¤É\EÜ¯­=à(h—§¥rsVñ”äı5”r Öv_wEƒ…8Ğs[ºgR¥²i/Úş’t)âv/Tİ0YøÒbıËÉ_F1P¹'ä@0Ïr)("Ç7N= 2=Í¡8…\NV‚(*2·K×OcçÒ-bñE=ç¬ öF¡Ñ[Œ&SèzªJòFÏ7<8´w\¥ËV<Á¬	_Ó £‚^0‚Z0Uÿ0ÿ0UËèÊÒ´XÉ7.3¹Lš
+0U†0	+‚7 0#	+‚7ıÑ1NÓ&Š•á˜`;¨1o¦<¼Ø-0	+‚7
+ S u b C A0U#0€¬‚`@V'—å%ü*á
+S•Yä¤0PUI0G0E C A†?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T+H0F0D+0†8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0	*†H†÷ ‚ Y9>&F¯ëo@±2µjë/n¨I÷ë_uíL;-×C­şËé-1£#Ì|P˜€!]¬=/Lº¢¨Vœãp»¸´øyµIr÷>êAÊáiË¥œ -úPÄVÍ-ãJÒ¼pç¨¢¥Và¸ŠKWò•Bœñóïîã†4<¸VšğS#…*¤‚“â”òâNøŒ¡Êè¥‘NÈÒr•*qm›øğSÖgÌ"ÿ\Í¢Œ½'²ycVD¢QÍùé£XVİ›ED/_ôÚ®Ô‚2nü¤•äëiç©¢,¾È+e™Ûõ¢ú&	e8”ñzJ»ÑáVèĞx–\É5_İ“I-¾­4Dî ]İ5[!Î˜Ç	î…ŒOmN=|)HœrÑólÊÁìp£W’W}” HZ÷Ï£g
+t¥6í-/Èær7ôo±<g‚ùR²3eŠİŞdôoÎFÔÓéyÄ´Óû,ßŠ¬
+û'@­äùá©F»`Ge`@N°BìNí³vyØ
+4	m€1âTİå¡ûåG­d˜ÿP.|¿!zâ•A'iÃ“•ÉØ›!®\œğ¢®†hƒj-»vk –­ò{öƒ$¹ˆÏj¨G1/šÜãq=× ~bGÑÎˆÉ¸úrÁ£=¯@jÿi›–â¨´7PÖÃ=0‚0‚ï 
+ah4     0	*†H†÷ 0_10
+	’&‰“ò,dcom10
+	’&‰“ò,d	microsoft1-0+U$Microsoft Root Certificate Authority0070403125309Z210403130309Z0w10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1!0UMicrosoft Time-Stamp PCA0‚"0	*†H†÷ ‚ 0‚
+‚ Ÿ¡l±ßÛH’*|k.á½âãÅ™Q#P­ÎİN$îÑ§ÑL­t0 ëÕT•I”B’®˜\0&Ú kè{½ì‰÷˜ğ‰ÌË3$‡òôg,ü{çˆêçN£¡Á#SÊúEÏ	Ğ^¯Ğ°B¢ù¦l“g×(ÜFS°†Ğå(F.'¬†OURä,ûj0n‡óY0ú~Ö—³è!—~øÒó·SmR´EŸH JGf')f¨—äÓJ¢ù„§G	‚Ÿ„íUxşšP… 0Fí·Ş#F»Ä-TŸ¯xA1wÌ›ß;ƒ“¡aµ±ü÷›²Î"KTÿùÃÂ  £‚«0‚§0Uÿ0ÿ0U#4øÙRFp
+í@ûvû³+°Ã5³0U†0	+‚7 0˜U#0€¬‚`@V'—å%ü*á
+S•Yä¤¡c¤a0_10
+	’&‰“ò,dcom10
+	’&‰“ò,d	microsoft1-0+U$Microsoft Root Certificate Authority‚y­¡J ¥­LsXô.e0PUI0G0E C A†?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T+H0F0D+0†8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0U%0
++0	*†H†÷ ‚ —ŠÃ\D6İé´­wÛÎyQM±.tq[m«Î¾{¸.Ô¢Œmb¸WËN P™İz@âW»¯Xšá†¬»xò‹Ğì;îâ¾
+ÈHâğSİO«’äçjÕ€Áæ”ò/…é‘*$"pûöüäx™.÷âp¼Nk
+r•¸¡9œg-ÅQêb\?˜‹ ?â2ùÌ1Jv1=+rÈêp=ÿ…
+ßÂ
+ağ×¸ëN‹Å5+^£¿ë¼}B{ÔSr!î0Ê»xe\[
+ÒÚ˜õ<¹fX³-/çù…†ÌQVèp”l¬9LÔöy¿ªzb)ï¢›)4wbÉ=m‚ğÇ,»ÏC³åùì}µã¤¨t5¸NÅq#&v<RŒqZFC¼³³°MgÈŸBÿ€y!€0fèB^È"!ĞCé+é»ôHÌ,ÔØ2€L&*H$_ZêVï¦Ş™Ê:o½'tîv!¿›‚Á'T¶±j=‰¡va´n¡¦¿ªGğoıŠ2l²şßQÈŒ#Éf½‡d=-¯Y¸ä!åµ°Êc´xTÔA.P¬”°¥x«³ –uÙ’‡u"/2¨n [Œ%¿ ï„Ê!ÖëOÉšîIà÷eo‰}ÈiÈænê§—Î1)ÿÅ[\ØM¡Øú/?.UkÉ£ı1‚(n0‚(j0‡0y10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1#0!UMicrosoft Code Signing PCA
+aÌ“    f0	+  Ş0	*†H†÷	1
++‚70
++‚710
++‚70#	*†H†÷	14¡Í0)—¾XgÁùSi£H™ÕGØ0~
++‚71p0n T€R S y s t e m . C o m p o n e n t M o d e l . D a t a A n n o t a t i o n s . d l l¡€http://microsoft.com0	*†H†÷ ‚ Ş¿Ûcb±¡Jÿ5½%#Òw:3æBnüê¦I¦õ\¤œ!!:T§ÏÀˆoz@?
+“Ã:Ø1ÊŞ×-KR„t K†¹Â&–š[˜YÍ{4÷ö|Jİñ±Şè6¶§Ñ0ƒüŒ˜’}iä½¥¡^Ã¼¥g&VÒ(47¹SI×¹ï„ìÓÛÀ' ş9“.N 0X²[áNŒ|X=¸0ORİ‘ğúm¿¯Âùqµ<9›œÄĞ"IdÃà½òĞº…‰„M³mİt®Ü¡¸¶öÜ»İ IëÍ[alZ²¦ß.u99ŸDa1DšB	Nı äs…í¯.§¹¡‚%Ú0‚	*†H†÷	1‚
+0‚0…0w10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1!0UMicrosoft Time-Stamp PCA
+a–     0+ ]0	*†H†÷	1	*†H†÷0	*†H†÷	1120709073257Z0#	*†H†÷	1bG âd’¯ñ ŒßÿW.-[1J0	*†H†÷ ‚ ‹\{†¬6Æú™9Hg¬9ƒE_°Ez¨æHÌöPlU¯R‡=¿(b¢âHW" éÔÏ@{Be®œ›N¿Ú1¼ Ùıx+ò¨„¨Jä·FèÂúÖÆ	@¥å½nnşÍ•€£‚Ëñä>Ë¯oö#3^³V%Ä¦o	èfù–±I°b£Ô$Sã|hš§§ÖÅ|Ê%ì 6LdÅ°ÇOúûø	œˆ°ÂdA¡©ºfìş¥d³YyS&Ü*ƒOC8õ+öåU¢ú„¼LT™ã%_Ç¥°«´_~n"7ä5%|âC¦¾|c›Ğ_Xl†ag*©ı}×Bñ:97Xˆ•Ö\Ì/‘0‚#¹
++‚71‚#©0‚#¥	*†H†÷ ‚#–0‚#’10	`†He 0\
++‚7 N0L0
++‚70	  ¢€ 010	`†He  @[ŠYæ™ÁsN <K¸§vøæF¦ëå1‹…ÄŒ\ç ‚*0‚¨0‚ 
+a4     0	*†H†÷ 0~10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1(0&UMicrosoft Code Signing PCA 20110120514213951Z130814214951Z0ƒ10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation10UMOPR10UMicrosoft Corporation0‚"0	*†H†÷ ‚ 0‚
+‚ ‚jŸómeDf–ª;q¹íİw\j l%Èğ“Ñ¿­ä„àù´DSŠV­qõUkW"ĞUB$Á0 ?V;°2±iÙ¿ƒ '^˜fh¨O?m£¤Œ0¦wÂt_£³Áşqº@j½²B”fwÁıfçwõè#ªÂ!E×ÖÎh86
+ÿ0½ï‡ƒ>&ÁŒØ²‰2Üé*âDÜëŞ™q%)lgoi—q,­µÈH4Î9Ù¦0şØñùxBIş«	Sa¯ªüö#UE°Ë¼èÙ~uìƒ{KŒàMµŠ~/2V¸'5xKï¤WùËx¼û¦ê>ğno9‚¸`ù £‚ 0‚0U%0
++0UO=¼¿'U;wV'ë+¡ıâ0U#0€HndåPÓ‚ª77"µm¨Êu•0TUM0K0I G E†Chttp://www.microsoft.com/pkiops/crl/MicCodSigPCA2011_2011-07-08.crl0a+U0S0Q+0†Ehttp://www.microsoft.com/pkiops/certs/MicCodSigPCA2011_2011-07-08.crt0Uÿ0 0	*†H†÷ ‚ ZÓ"Í330È	·´®ït¸Ïí]rÔÏ¨&,BVít¿Äó.3Ü3ÂÒujÁ§Œ8m|ñòÉ¡^ÌE] Á®¿îAIcó$ÁÔˆW&¡YÏX7÷kQåû†f;ıô‚ƒüÛõ)hükÆİÓD‚‘DÀğ¸D¼v;,C†çë›—‡İÂU(¬9û·ß¢Z-]úú;ßÇë>.áépqrr Y7™yA›
+ç¶ù¼€:°(îyDqØ¼è<Jª¾5b*1%fûê©%ËD¬ĞCMµ»ãÌ"ÄEçğƒf~Fe½Ëå«±áß'ŠHİpëÊ¼µ	Í‘iÎİã)¢îbÅ±İkAlÒdG&ör.¼[w¬”Io#s˜dgŞ#”¿dzH]|e…CÊ`*ÆõØBx©Î+&»0E€)uÌ¡‚»í6~Í·û³: Zö²*]æ_&±lbòNû•™ƒï^{ƒ³ÇËêæ.¹_·^{î
+Ö‹±¸ã@ıƒ¨p“glŸ ŠÀ]A¿ÔFÿ6x‡lÒñÅø¥Ä1DÂ	öÆã³² |æ¸ĞeíĞ@H|ùDñÏ&}Uû4gHÍZlÚ$ÂÆ(¼nµÈ¸uÚóêZı¿5ìÕÕ|’rÛ”€úè+ùÒUÀ¼0‚z0‚b 
+aÒ     0	*†H†÷ 0ˆ10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1200U)Microsoft Root Certificate Authority 20110110708205909Z260708210909Z0~10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1(0&UMicrosoft Code Signing PCA 20110‚"0	*†H†÷ ‚ 0‚
+‚ «ğúr.­Ønª‚M4ºò¶X!ŸB*kéZPª¸8IºÃİ7kÆØğ8Â™°È9Õ1BÓ‰yd‡~”`$l¯Iœéh^Òß›S²
+,Ã¯Ù©+®z	¯×–YÊ`éfvè2R&/ç«PÏ³D·]ØÄ.u«hóËmó:\¡ôFºà8d¬nd5x¦ c-Ó@“øãŞÕ\y¥I)ç¾ w¾”=ïûã+ZMV(¢zrà:·I^ØííC‘ƒÙ{²{†Ù>±Œ]è‰O„ò¡/Yä;-®3XÅ·>ş2Ó³=±²¯’8~Ò€,õNV‘!5%Ã9ndSºœ­#„Ëôº†÷_ğĞR¿Œ”‡¼À!t%_(¶Ì'(8%˜9J6Ï|±’®#§©fìajá(I_ˆâ%]Ó!K>RÄµW?$ğÑz[/Õ#ãp]QFw³ø á¼¬‚_ÛÀ³½ÔUKç9¡é#I¼¸D|EäÁÃrzàrç$ß¿F™ÅïÂWÛƒìMI0§«ßì[Ÿ¯üİ°fâÁ—{íÖíKçI)§(¦§}g€æŠbx_²/„×Wœ\¿w((ñímÃ(,@7OÁá…D‰Ä	LÅÔ¥C/t•÷nøx X,]`•š>O3„Ú°ˆŞNô–°¼F l˜ÒàÖˆŒ £‚í0‚é0	+‚7 0UHndåPÓ‚ª77"µm¨Êu•0	+‚7
+ S u b C A0U†0Uÿ0ÿ0U#0€r-:1C¹Náê§Ç1Ñ#‰40ZUS0Q0O M K†Ihttp://crl.microsoft.com/pki/crl/products/MicRooCerAut2011_2011_03_22.crl0^+R0P0N+0†Bhttp://www.microsoft.com/pki/certs/MicRooCerAut2011_2011_03_22.crt0ŸU —0”0‘	+‚7.0ƒ0?+3http://www.microsoft.com/pkiops/docs/primarycps.htm0@+042  L e g a l _ p o l i c y _ s t a t e m e n t . 0	*†H†÷ ‚ gò†¥˜àTy.ÓØtg"›–ác’™B–}ÒyÁe_.,>øÃrÑmƒş¾?è
+Ê;¿G©£óiÛc¿"5¥—]e„}‹FPUØ’|ÒKó<B‹RĞ°ıkã>.)›æ=¥Ôµw”9âédÉD=xz#ó}¦tƒôË&F*ÂŠ»¤©›íhúh.• *?*kXIc	inZ˜–äƒôÀóF+Şü;Ğ½5ïn%®å¯'íĞİó¯™(—˜M=ò‰ÖÃ2âğÅ-Î[´I9
+Æ
+ÂÆ­®å²ÙÛˆQEX82q'±ô'øŞ,: i˜²Y‰hno§·tÃ@¦*(>‚?MfÀ³Mõáo}E§vå@*e£Ã]Rb†Ãc6—†ßÚóøò¡š'áÍ¥—Ğî]cAã[œ‡>wÑ±u¾aaµğÜÆ¾ßAÇ(îŞe/ì—ö¡\–Ø Ö¡F½Yó—¥	KH™€Ğ )Å±›¥?Ew5ÆÒ¢¢Ÿzz"úH•«ûG#€õø¿k·K—âëuxìê7™yKÿÖ³#huæ¯úü‹ë€êi;¯ü0íLßßumc‘=ÑVNO¿€W"¡x2!zïA
+±?û¨Ì¤]Á¡ˆ›WqVNHEÀBÉ›v[
+€HkıyŸÁ½mmjÉRszPÍ1‚î0‚ê0Œ0~10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1(0&UMicrosoft Code Signing PCA 2011
+a4     0	`†He  ı0
+*†H†÷	10	*†H†÷	1
++‚70
++‚710
++‚70/	*†H†÷	1" yG¸õTáâ’¬ø1‰InéåQÉÍ z@X)]«0~
++‚71p0n T€R S y s t e m . C o m p o n e n t M o d e l . D a t a A n n o t a t i o n s . d l l¡€http://microsoft.com0	*†H†÷ ‚ oi‘LÏw]hOXgçÃäÔÔZúêkGè/ô-6Z Š¸p(c£kš„øÔş„ë{éÉºw=@¬ÑLàQ|=ˆœÏ¥•hd! •GÍàıÜÆÙùùeEÏ¡¤ƒ ût*’ äg7ï‰B«Ÿ@‘Éş è_Á¦KñTô9\¼¾sÅ_ûK9IÆ‰ÓÕ­._Åè[¿\@˜:F&ÿ”­½¬Óã®è®Ö¶¨« 'VP±õá´&ÔÆ°±ÉQ¬ vÙ3Ltƒ¢Û¾GÎù^•‹˜i?®ş‚n$œåBµñ5Ö¦ÿ§nm¼hUÊNiG#bÖHÃ¤ƒUã	Ê·Ğà¡‚20‚.
++‚71‚0‚	*†H†÷ ‚0‚10	`†He 0‚=*†H†÷	 ‚,‚(0‚$
++„Y
+010	`†He  óœõóí(·…e@{¯PØ÷.H, ìRKşÄ|i7ÓOóx20120709073259.524Z0€ô ¹¤¶0³10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation10UMOPR1'0%UnCipher DSE ESN:7D2E-3782-B0F71%0#UMicrosoft Time-Stamp Service ‚Ç0‚q0‚Y 
+a	*     0	*†H†÷ 0ˆ10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1200U)Microsoft Root Certificate Authority 20100100701213655Z250701214655Z0|10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20100‚"0	*†H†÷ ‚ 0‚
+‚ ©¼wŠ: ìü—õúi”ktTÕ¥
+ ‚…ûí|hK,_ÅÃåaÂv·>f+[ğS'1A•Î	|a0Y±0Dñ`ˆ„TC×M¸8³Bİ“¬Ös0W&‚£EĞêõGÍ¿$`2X`FòXG†2„tag‘_T±Ï“L’ÁÄ¦]Ñan(Æù†€»ßaüFÁ'$gr!Š¯Kd‰Pb±]ıw=ğWu¬½ŠBM@QÑœ>gõfÀ–D~ïĞKınåšÊ±¨òz*
+1ğÚN‘¶ˆ5èx°é™Í<ç/Dº§ôÜd½¤Á 	“xÍü¼ÀÉD]^œO"M £‚æ0‚â0	+‚7 0UÕc:\Š1óC{|FÅ3hZ…mU0	+‚7
+ S u b C A0U†0Uÿ0ÿ0U#0€ÕöVËè¢\bhÑ=”[×ÎšÄ0VUO0M0K I G†Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z+N0L0J+0†>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0 U ÿ•0’0	+‚7.00=+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@+042  L e g a l _ P o l i c y _ S t a t e m e n t . 0	*†H†÷ ‚ æˆQâÆà˜?q=£¡!o³ë¦Ìõ1¾Ïâ©şúWm0³ÂÅfÉjßõçğx½Ç¨%ãù¼íkTW+Q‚Dû¹SŒÌô`ŠvÌ@@A›Ü\ÿ\ù^5˜$VKtïBÈ¯¿Æò7}Z?ò™yJ‘R ¯8õ/yeÙ©µkäÇÎöÊz oK0D$"<Ïí¥–Y)¼¶ıápŸ2J'ıU¯/ş¶å3»b_šÛW@éñÎ™fŒÿjbİÅJ‘&â9ìJqc{!mÃœ£¢<ú}–jx¦mÒáœùü8Ø”ôÆ¥
+–†¤½®Bƒ¸µ€›"8 µ%ådì÷ô¿~cY%z.9Wv¢qªŠ‰ºa§ËšØGš€ÅĞÍ§Ğï}ƒğá;q	ß]t˜"aÚ°Po½ñá ßç1¤“:÷eGxèø¨H«÷Şr~akow©Ë§	¬9»ìÆËØ‚´rÍô¸…€û‰*T9²[ÚÈU™z‡s;æ˜-êà3.)õÀ/T'!÷È¬NÚ(¸±©Û–²§B¢ÉÏAMà†ù*š£f0Ó»t2Kßc{õ™Š/Ç!¯Yµ®ÜD<—Pq×¡ÒÅUãiŞWÁÑŞ0ÀıÌæMû¿]Oé8/¼ÏX.ï P5Úï	'Õ³~5ºÚ6ÛÓ_ŞtˆI0‚Ñ0‚¹ 
+aõ     0	*†H†÷ 0|10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20100120109213540Z130409214540Z0³10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation10UMOPR1'0%UnCipher DSE ESN:7D2E-3782-B0F71%0#UMicrosoft Time-Stamp Service0‚"0	*†H†÷ ‚ 0‚
+‚ ¬ŠM±Kn!(ñÍÏ÷„Ó2QÜE;k+z!-@Íî”µË¤Q˜É
+4î•q¨	ó?MãñYhå¶.‹Õ½Ô *Er’ o¥HV´< ›EiøŞ#Q‰Š“	İ‚w­‡ë‚_”‘îá†7M¨$qäp‡Ahu#’â‡;ÀLŞ˜€â¶ÛäÖ„]Î¨'¡ë´»›ôŠ3-İí‘nğ4«Óşšbü^Š†şÀGU’ƒ>Ø”š—Cu™cv2Ş	Ïš~İx¾íÛº(§”vèvnøú‚[³3’ ¹ÓÀäİƒ6Ì­±œEXlhVFÂs*Ú	ÖÖÖ—_÷6>ğ¦âÄÙ £‚0‚0Uş¢†xöá›/zßšêÑ!ê~§0U#0€Õc:\Š1óC{|FÅ3hZ…mU0VUO0M0K I G†Ehttp://crl.microsoft.com/pki/crl/products/MicTimStaPCA_2010-07-01.crl0Z+N0L0J+0†>http://www.microsoft.com/pki/certs/MicTimStaPCA_2010-07-01.crt0Uÿ0 0U%0
++0	*†H†÷ ‚ ŸzœVü$»”eØB5ß-†ÂÏYÈ!‡Q=gâÌïñÖ	5:L«?¦˜ém"[Ğ;Ï–†SÍ¬ö4.‰ùÿà9§!<áÖğo)íĞMr#ƒ õÚø­»•œ*—#/º^ 4¶†r:½q€¿9jğ‘ùı
+y,ŸFyˆ¿‹N“´¡¯ôZ>,ğ»ÇÙ§YtìÅ¡×d‘£™V/õ¯a§‡zĞÈ~MNdŒù/$¨2İ)°Có·Ò›åˆ°G*ŒÖ)òµÍFtA^È Åø'¦Ô2lß`¼‡l]3]ZÊ€vê4ÿiàûË®\c§
+è·lä{¸¡‚y0‚a0ã¡¹¤¶0³10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation10UMOPR1'0%UnCipher DSE ESN:7D2E-3782-B0F71%0#UMicrosoft Time-Stamp Service¢%
+0	+  ›ğï7‰íIHKNÅµ°æ“‡e0 Â0¿¤¼0¹10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation10UMOPR1'0%UnCipher NTS ESN:B027-C6F8-1D881+0)U"Microsoft Time Source Master Clock0	*†H†÷  Ó¤¤0"20120709002814Z20120710002814Z0w0=
++„Y
+1/0-0
+ Ó¤¤ 0
+ ÿ0 z0
+ Ó¥õ 06
++„Y
+1(0&0
++„Y
+ 
+0 ã`¡
+0 ¡ 0	*†H†÷ ‚ q-’‡@qìÒCLœ®m”3Ü6`%‘ÊdÇù+1l4ú{Ş‡ª=®<è‹"-ı7Ühç¿Uø¿UQİqãPÙNN°Ì`RPÒ—»,Îcr^ÑN6À Ÿß¦’
+Sß³÷(%%¿ßªaßˆ9”àh9¶ÅG/ó&3eoœ’<§/ÎõR–7Ê­Lè9H#Õ¸(i›ıpuı¾H¨-ÄØ<'«ÏÄ:?¼ğxí›@@®†~?ú·©ı¨à˜Eè/›Vbïh†ıel 7AR™û
+ŸùK1V?fb2ıAÑRõ“ôÉ]M°D×ÇÙS±ZÒmÚi~»Ô1‚ã0‚ß0Š0|10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 2010
+aõ     0	`†He  ‚)0	*†H†÷	1*†H†÷	0/	*†H†÷	1" ãg®HÁÌÆçæ…ş„ŠC•E_1–oM›‚h"i­0Ù*†H†÷	1É0Æ0Ã0¨›ğï7‰íIHKNÅµ°æ“‡e000€¤~0|10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 2010
+aõ     02KÎ›x¼º“áR(Z°·0	*†H†÷ ‚ `ËscRû÷lñ¬6k’t·‘NJVv}K))tè+äß¸-;ãN~ØcüuQå%N½y¨KË¦€If¸~YÃDî/Œ6zIï'"Æ÷!)Äõo !\²&°¶ûKÏ/…f­4Ä,qb¼:@B4¦íaRÍöïèÒï[FN]º¤*æç·‘E°Ü…nÂAœß–/‰ˆ2/ìÂ^Vîˆ?r*Qv+7#1{ì#Ğ©~ë¡+„!* 'o—£tn~ëx8‰›™H`{L7=Bç;‚É),kÅæ³HÁS@€ì{’»­ö¥ôÉC*< X{ü .—                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                r v i c e M e t a d a t a E x t e n s i o n I n s t a n c e C o u l d N o t 2 _ 0 æ* \T h e S e r v i c e M e t a d a t a E x t e n s i o n I n s t a n c e C o u l d N o t 3 _ 0 €+ \T h e S e r v i c e M e t a d a t a E x t e n s i o n I n s t a n c e C o u l d N o t 4 _ 0 , 2T h r e a d A c q u i s i t i o n T i m e d O u t ¸, :T h r e a d N e u t r a l S e m a p h o

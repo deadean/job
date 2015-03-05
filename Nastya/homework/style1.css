@@ -1,0 +1,13 @@
+.fullSize{
+	height: 100%;
+	width: 100%;
+	background: yellow;
+}
+
+.newStyle{
+	border: 2px solid red;
+}
+
+.backgroundStyle{
+	background: SteelBlue;
+}

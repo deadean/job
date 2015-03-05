@@ -2,7 +2,7 @@
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest">
   <Identity Name="5b5673e3-914b-495e-a123-2ff6239c38fd" Publisher="CN=dean" Version="1.0.0.0" />
   <Properties>
-    <DisplayName>ToDo.W8</DisplayName>
+    <DisplayName>ToDo</DisplayName>
     <PublisherDisplayName>dean</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
@@ -15,16 +15,14 @@
   </Resources>
   <Applications>
     <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="ToDo.W8.App">
-      <m2:VisualElements DisplayName="ToDo.W8" Square150x150Logo="Assets\Logo.png" Square30x30Logo="Assets\SmallLogo.png" Description="ToDo.W8" ForegroundText="light" BackgroundColor="#464646">
-        <m2:SplashScreen Image="Assets\SplashScreen.png" />
+      <m2:VisualElements DisplayName="My ToDo List" Square150x150Logo="Assets\Logo.png" Square30x30Logo="Assets\SmallLogo.png" Description="My ToDo List" ForegroundText="light" BackgroundColor="#464646">
+        <m2:DefaultTile ShortName="My To List">
+        </m2:DefaultTile>
+        <m2:SplashScreen Image="Assets\SplashScreen.png" BackgroundColor="#5E6771" />
       </m2:VisualElements>
     </Application>
   </Applications>
   <Capabilities>
     <Capability Name="internetClient" />
-    <Capability Name="picturesLibrary" />
-    <DeviceCapability Name="webcam" />
-    <DeviceCapability Name="microphone" />
-    <DeviceCapability Name="location" />
   </Capabilities>
 </Package>

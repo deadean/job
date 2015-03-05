@@ -1,0 +1,14 @@
+﻿<!DOCTYPE html>
+<HTML>
+	<HEAD>
+		<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8">
+		<TITLE> Пример Web-страницы </TITLE>
+	</HEAD>
+	<BODY>
+		<H1> Справочник по HTML </H1>
+		<P> Приветствуем на нашем Web-сайте всех, кто занимается Web-дизайном! Здесь вы сможете найти информацию обо всех интернет-технологиях, применяемых при 
+		создании Web-страниц. В частности, о языке <STRONG>HTML</STRONG>.
+		</P>
+		
+	</BODY>
+</HTML>

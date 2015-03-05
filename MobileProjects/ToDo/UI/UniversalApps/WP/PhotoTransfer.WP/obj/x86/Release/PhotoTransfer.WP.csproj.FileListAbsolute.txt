@@ -200,3 +200,11 @@ D:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\WP\PhotoTransfer.WP\obj\x86\R
 D:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\WP\PhotoTransfer.WP\obj\x86\Release\MultipleQualifiersPerDimensionFound.txt
 D:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\WP\PhotoTransfer.WP\obj\x86\Release\GalaSoft.MvvmLight.Platform.pri.xml
 D:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\WP\PhotoTransfer.WP\obj\x86\Release\ProjectArchitectures.txt
+C:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\WP\PhotoTransfer.WP\obj\x86\Release\Microsoft.Practices.ServiceLocation\layout.resfiles
+C:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\WP\PhotoTransfer.WP\obj\x86\Release\Microsoft.Practices.ServiceLocation\layout.resfiles.intermediate
+C:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\WP\PhotoTransfer.WP\obj\x86\Release\Microsoft.Practices.ServiceLocation\Resources.resfiles
+C:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\WP\PhotoTransfer.WP\obj\x86\Release\Microsoft.Practices.ServiceLocation\Resources.resfiles.intermediate
+C:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\WP\PhotoTransfer.WP\obj\x86\Release\Microsoft.Practices.ServiceLocation\pri.resfiles
+C:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\WP\PhotoTransfer.WP\obj\x86\Release\Microsoft.Practices.ServiceLocation\pri.resfiles.intermediate
+C:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\WP\PhotoTransfer.WP\obj\x86\Release\Microsoft.Practices.ServiceLocation\priconfig.xml
+C:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\WP\PhotoTransfer.WP\obj\x86\Release\Microsoft.Practices.ServiceLocation\priconfig.xml.intermediate

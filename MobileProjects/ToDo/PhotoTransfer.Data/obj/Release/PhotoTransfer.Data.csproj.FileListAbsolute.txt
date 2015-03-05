@@ -1,13 +1,3 @@
-C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Data\bin\Release\PhotoTransfer.Data.dll
-C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Data\bin\Release\PhotoTransfer.Data.pdb
-C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Data\bin\Release\Library.dll
-C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Data\bin\Release\GalaSoft.MvvmLight.dll
-C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Data\bin\Release\Library.pdb
-C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Data\bin\Release\GalaSoft.MvvmLight.pdb
-C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Data\bin\Release\GalaSoft.MvvmLight.xml
-C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Data\obj\Release\PhotoTransfer.Data.csprojResolveAssemblyReference.cache
-C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Data\obj\Release\PhotoTransfer.Data.dll
-C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Data\obj\Release\PhotoTransfer.Data.pdb
 D:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Data\bin\Release\PhotoTransfer.Data.dll
 D:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Data\bin\Release\PhotoTransfer.Data.pdb
 D:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Data\bin\Release\Library.dll
@@ -18,3 +8,13 @@ D:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Data\bin\Release\GalaSoft.MvvmLi
 D:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Data\obj\Release\PhotoTransfer.Data.csprojResolveAssemblyReference.cache
 D:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Data\obj\Release\PhotoTransfer.Data.dll
 D:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Data\obj\Release\PhotoTransfer.Data.pdb
+C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Data\bin\Release\PhotoTransfer.Data.dll
+C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Data\bin\Release\PhotoTransfer.Data.pdb
+C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Data\bin\Release\Library.dll
+C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Data\bin\Release\GalaSoft.MvvmLight.dll
+C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Data\bin\Release\Library.pdb
+C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Data\bin\Release\GalaSoft.MvvmLight.pdb
+C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Data\bin\Release\GalaSoft.MvvmLight.xml
+C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Data\obj\Release\PhotoTransfer.Data.csprojResolveAssemblyReference.cache
+C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Data\obj\Release\PhotoTransfer.Data.dll
+C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Data\obj\Release\PhotoTransfer.Data.pdb

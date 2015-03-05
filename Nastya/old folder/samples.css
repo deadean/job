@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+a.foo{
+	padding: 5px 10px;
+	color:white;
+	background: #9c3;
+	transition-property: all;
+	transition-duration: 0.3s;
+	transition-timing-function: ease;
+	transition-delay: 0.1s;
+}
+
+a.foo:hover,
+a.foo:focus{
+	color: #030;
+	background: #690;
+}

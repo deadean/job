@@ -1,0 +1,13 @@
+﻿<!DOCTYPE html>
+	<HTML>
+		<HEAD>
+			<META HTTP-EQUIV="Content-type" CONTENT="text/html; charset=utf-8:>
+			<TITLE>Тег TITLE</TITLE>
+		</HEAD>
+		<BODY>
+			<H1>Тег TITLE</H1>
+			<P>Тег TITLE служит для указания названия Web-страницы. Он становится в её секции заголовка.</P>
+			<H6>Пример:</H6>
+			<P>!HEAD!!TITLE! Я заголовок Web-страницы!/TITLE!!/HEAD!</P>
+		</BODY>
+	</HTML>
