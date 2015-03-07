@@ -139,7 +139,7 @@ namespace ToDo.UI.Common.VVms.Implementations.ViewModels.MainPage
 			}
 			catch (Exception ex)
 			{
-
+				var test = ex.Message;
 			}
 		}
 

@@ -56,10 +56,17 @@ namespace ToDo.UI.UniversalApps.Databases.Implementations.InternalStorage
 			try
 			{
 
-				var store =
-					Windows.Storage.ApplicationData.Current.LocalFolder.GetFileAsync(fileName);
+				var task = Task.Run(async () =>
+				{
+					var store =
+						await Windows.Storage.ApplicationData.Current.LocalFolder.GetFileAsync(fileName);
+					result = true;
+				});
+
+				Task.WaitAll(task);
+				
 				//var store = await ApplicationData.Current.LocalFolder.GetItemAsync(fileName);
-				result = true;
+				
 			}
 			catch (Exception ex)
 			{

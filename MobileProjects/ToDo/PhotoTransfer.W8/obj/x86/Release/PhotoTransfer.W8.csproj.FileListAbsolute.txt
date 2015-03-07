@@ -185,14 +185,6 @@ C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.W8\obj\x86\Release\PhotoTransfer
 C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.W8\obj\x86\Release\PhotoTransfer.W8.pdb
 C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.W8\obj\x86\Release\Microsoft.Practices.ServiceLocation\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
 C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.W8\obj\x86\Release\PhotoTransfer.W8.csproj.GenerateResource.Cache
-C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.W8\obj\x86\Release\Microsoft.Practices.ServiceLocation\layout.resfiles
-C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.W8\obj\x86\Release\Microsoft.Practices.ServiceLocation\layout.resfiles.intermediate
-C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.W8\obj\x86\Release\Microsoft.Practices.ServiceLocation\Resources.resfiles
-C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.W8\obj\x86\Release\Microsoft.Practices.ServiceLocation\Resources.resfiles.intermediate
-C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.W8\obj\x86\Release\Microsoft.Practices.ServiceLocation\pri.resfiles
-C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.W8\obj\x86\Release\Microsoft.Practices.ServiceLocation\pri.resfiles.intermediate
-C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.W8\obj\x86\Release\Microsoft.Practices.ServiceLocation\priconfig.xml
-C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.W8\obj\x86\Release\Microsoft.Practices.ServiceLocation\priconfig.xml.intermediate
 C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.W8\obj\x86\Release\Microsoft.Practices.ServiceLocation.pri
 C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.W8\obj\x86\Release\Microsoft.Practices.ServiceLocation\qualifiers.txt
 C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.W8\obj\x86\Release\priconfig.xml

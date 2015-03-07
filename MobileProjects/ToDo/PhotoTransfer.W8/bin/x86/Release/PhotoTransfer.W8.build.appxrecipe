@@ -6,7 +6,7 @@
     <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
     <SolutionConfiguration>Release|x86</SolutionConfiguration>
     <PackageArchitecture>x86</PackageArchitecture>
-    <PackageIdentityName>5b5673e3-914b-495e-a123-2ff6239c38fd</PackageIdentityName>
+    <PackageIdentityName>15618JoinLife.BestToDoList</PackageIdentityName>
     <IntermediateOutputPath>C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.W8\obj\x86\Release\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>

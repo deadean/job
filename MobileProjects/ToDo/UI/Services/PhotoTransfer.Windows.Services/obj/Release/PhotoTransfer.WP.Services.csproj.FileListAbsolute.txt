@@ -63,6 +63,6 @@ C:\GitHub\job\MobileProjects\ToDo\UI\Services\PhotoTransfer.Windows.Services\bin
 C:\GitHub\job\MobileProjects\ToDo\UI\Services\PhotoTransfer.Windows.Services\bin\Release\Xamarin.Forms.Labs.xml
 C:\GitHub\job\MobileProjects\ToDo\UI\Services\PhotoTransfer.Windows.Services\bin\Release\Xamarin.Forms.Xaml.xml
 C:\GitHub\job\MobileProjects\ToDo\UI\Services\PhotoTransfer.Windows.Services\bin\Release\PhotoTransfer.Services.DataBases.pdb
-C:\GitHub\job\MobileProjects\ToDo\UI\Services\PhotoTransfer.Windows.Services\obj\Release\PhotoTransfer.WP.Services.csprojResolveAssemblyReference.cache
 C:\GitHub\job\MobileProjects\ToDo\UI\Services\PhotoTransfer.Windows.Services\obj\Release\PhotoTransfer.WP.Services.dll
 C:\GitHub\job\MobileProjects\ToDo\UI\Services\PhotoTransfer.Windows.Services\obj\Release\PhotoTransfer.WP.Services.pdb
+C:\GitHub\job\MobileProjects\ToDo\UI\Services\PhotoTransfer.Windows.Services\obj\Release\PhotoTransfer.WP.Services.csprojResolveAssemblyReference.cache
