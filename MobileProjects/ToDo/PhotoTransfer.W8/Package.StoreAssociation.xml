@@ -353,8 +353,12 @@
       <ReservedName>Best To Do List</ReservedName>
     </ReservedNames>
   </ProductReservedInfo>
-  <AccountPackageIdentityNames>
-    <MainPackageIdentityName>15618JoinLife.ToDo</MainPackageIdentityName>
-  </AccountPackageIdentityNames>
-  <PackageInfoList LandingUrl="https://appdev.microsoft.com:443/StorePortals/Developer/Catalog/ReleaseAnchor/aa18d76b-7342-42f6-be0e-dadf50bb0da8" />
+  <AccountPackageIdentityNames />
+  <PackageInfoList LandingUrl="https://appdev.microsoft.com:443/StorePortals/Developer/Catalog/ReleaseAnchor/aa18d76b-7342-42f6-be0e-dadf50bb0da8">
+    <PackageInfo>
+      <OsMinVersion>6.3.0.0</OsMinVersion>
+      <PackageArchitecture>arm</PackageArchitecture>
+      <PackageMaxArchitectureVersion>1.1.0.4</PackageMaxArchitectureVersion>
+    </PackageInfo>
+  </PackageInfoList>
 </StoreAssociation>

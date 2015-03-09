@@ -1,1 +1,1 @@
-C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.W8\AppPackages\PhotoTransfer.W8_1.1.0.4_ARM_Test\PhotoTransfer.W8_1.1.0.4_ARM.appx
+C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.W8\AppPackages\PhotoTransfer.W8_1.1.0.5_ARM_Test\PhotoTransfer.W8_1.1.0.5_ARM.appx

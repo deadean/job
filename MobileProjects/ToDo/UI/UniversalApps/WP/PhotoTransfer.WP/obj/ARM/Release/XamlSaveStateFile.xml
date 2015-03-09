@@ -11,11 +11,11 @@
     <ReferenceAssembly PathName="c:\github\job\mobileprojects\todo\phototransfer.data\bin\release\phototransfer.data.dll" HashGuid="a93ba78f-ab9e-59a6-592f-7c3121d61bd9" />
     <ReferenceAssembly PathName="c:\github\job\mobileprojects\todo\services\phototransfer.services.databases\bin\release\phototransfer.services.databases.dll" HashGuid="f304cda5-ab83-ec00-e6c1-7c3fbc2a6763" />
     <ReferenceAssembly PathName="c:\github\job\mobileprojects\todo\ui\common\phototransfer.shared.common\bin\release\phototransfer.ui.common.dll" HashGuid="38a98613-63bc-0df8-4cc8-9aa29051ce6f" />
-    <ReferenceAssembly PathName="c:\github\job\mobileprojects\todo\phototransfer.ui.common.vvms\bin\release\phototransfer.ui.common.vvms.dll" HashGuid="6cbf5fe9-f72d-d104-f5e4-0620dfc59d2b" />
+    <ReferenceAssembly PathName="c:\github\job\mobileprojects\todo\phototransfer.ui.common.vvms\bin\release\phototransfer.ui.common.vvms.dll" HashGuid="6eebab54-7a13-a5d1-9aea-a096423558f5" />
     <ReferenceAssembly PathName="c:\github\job\mobileprojects\todo\ui\data\phototransfer.wp.data\bin\release\phototransfer.ui.data.dll" HashGuid="c67cf663-c713-514b-4ef3-2303491b1c28" />
     <ReferenceAssembly PathName="c:\github\job\mobileprojects\todo\ui\databases\phototransfer.ui.databases\bin\release\phototransfer.ui.databases.dll" HashGuid="2006dc68-bb34-acb3-eeff-c5adfde545bb" />
     <ReferenceAssembly PathName="c:\github\job\mobileprojects\todo\ui\universalapps\phototransfer.wp.data\bin\release\phototransfer.ui.universalapps.data.dll" HashGuid="5692ad95-2378-1032-20c3-591fd64a8e96" />
-    <ReferenceAssembly PathName="c:\github\job\mobileprojects\todo\ui\universalapps\phototransfer.ui.universalapps.databases\bin\release\phototransfer.ui.universalapps.databases.dll" HashGuid="cd222c59-0281-7a35-83f0-95c049fb2255" />
+    <ReferenceAssembly PathName="c:\github\job\mobileprojects\todo\ui\universalapps\phototransfer.ui.universalapps.databases\bin\release\phototransfer.ui.universalapps.databases.dll" HashGuid="7acb7f6e-5284-07b1-7f4c-240aac2403f6" />
     <ReferenceAssembly PathName="c:\github\job\mobileprojects\todo\ui\universalapps\phototransfer.ui.universalapps.services\bin\release\phototransfer.ui.universalapps.services.dll" HashGuid="89dd88de-2e65-479f-2f71-8b526f7b6d53" />
     <ReferenceAssembly PathName="c:\github\job\mobileprojects\todo\ui\universalapps\phototransfer.ui.universalapps.ui.common\bin\release\phototransfer.ui.universalapps.ui.common.dll" HashGuid="108fa2d0-62ee-7131-cb2b-4fe12f9554ae" />
     <ReferenceAssembly PathName="c:\github\job\mobileprojects\todo\ui\services\phototransfer.windows.services\bin\release\phototransfer.wp.services.dll" HashGuid="78cb1050-86af-5afa-8e21-6102e7943af4" />

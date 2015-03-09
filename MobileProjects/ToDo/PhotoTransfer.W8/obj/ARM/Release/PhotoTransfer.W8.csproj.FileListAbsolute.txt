@@ -95,11 +95,3 @@ C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.W8\obj\ARM\Release\MultipleQuali
 C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.W8\obj\ARM\Release\GalaSoft.MvvmLight.Platform.pri.xml
 C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.W8\obj\ARM\Release\ProjectArchitectures.txt
 C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.W8\obj\ARM\Release\PhotoTransfer.W8.csprojResolveAssemblyReference.cache
-C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.W8\obj\ARM\Release\Microsoft.Practices.ServiceLocation\layout.resfiles
-C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.W8\obj\ARM\Release\Microsoft.Practices.ServiceLocation\layout.resfiles.intermediate
-C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.W8\obj\ARM\Release\Microsoft.Practices.ServiceLocation\Resources.resfiles
-C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.W8\obj\ARM\Release\Microsoft.Practices.ServiceLocation\Resources.resfiles.intermediate
-C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.W8\obj\ARM\Release\Microsoft.Practices.ServiceLocation\pri.resfiles
-C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.W8\obj\ARM\Release\Microsoft.Practices.ServiceLocation\pri.resfiles.intermediate
-C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.W8\obj\ARM\Release\Microsoft.Practices.ServiceLocation\priconfig.xml
-C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.W8\obj\ARM\Release\Microsoft.Practices.ServiceLocation\priconfig.xml.intermediate

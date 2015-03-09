@@ -693,4 +693,3 @@ namespace PhotoTransfer.W8.PhotoTransfer_W8_XamlTypeInfo
 }
 
 
-
