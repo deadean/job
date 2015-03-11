@@ -20,7 +20,7 @@
     <NuGetPackageImportStamp>203155cb</NuGetPackageImportStamp>
     <PackageCertificateThumbprint>A3B1E6667155F2D9900B9260FC91EB23C6695EE9</PackageCertificateThumbprint>
     <AppxAutoIncrementPackageRevision>True</AppxAutoIncrementPackageRevision>
-    <AppxBundlePlatforms>x86|arm</AppxBundlePlatforms>
+    <AppxBundlePlatforms>x86</AppxBundlePlatforms>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>

@@ -7,7 +7,7 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="15618JoinLife.BestToDoList" Publisher="CN=26741AB4-FD13-4EF8-A56B-6CC3370DA35D" Version="1.1.0.5" ProcessorArchitecture="x86" />
+  <Identity Name="15618JoinLife.BestToDoList" Publisher="CN=26741AB4-FD13-4EF8-A56B-6CC3370DA35D" Version="1.1.0.6" ProcessorArchitecture="x86" />
   <Properties>
     <DisplayName>Best To Do List</DisplayName>
     <PublisherDisplayName>JoinLife</PublisherDisplayName>
