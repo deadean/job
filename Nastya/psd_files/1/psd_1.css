@@ -1,0 +1,63 @@
+.border{
+    border: 1px solid #000000;
+}
+
+.wrapper{
+    width: 100%;
+    height: auto;
+}
+
+.header{
+    width: 100%;
+    height: 15%;
+}
+
+.logo{
+    width: 35%;
+    text-align: center;
+    float: left;
+}
+
+.menu{
+    float: left;
+    width: 64%;
+}
+
+.menu_buttons{
+    background: #ffffff;
+    border: none;
+    vertical-align: middle;
+    width: auto;
+}
+
+.boost_up_full{
+    background: white;
+    width: 100%;
+    height: 55%;
+    clear: both;
+}
+
+.boost_up{
+    background: cornflowerblue;
+    height:350px;
+    position: relative;
+    text-align: center;
+    color: #ffffff;
+    font-size: 2em;
+    line-height: 3em;
+    font-weight: bold;
+    font-family: "DejaVu Serif", serif;
+}
+
+.comp{
+    text-align: center;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    width: 50%;
+    height: 45%;
+    margin: auto;
+
+}
