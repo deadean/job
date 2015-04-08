@@ -6,3 +6,8 @@ C:\GitHub\job\MobileProjects\ToDo\Services\PhotoTransfer.Services.DataServices\b
 C:\GitHub\job\MobileProjects\ToDo\Services\PhotoTransfer.Services.DataServices\bin\Debug\PhotoTransfer.Services.DataServices.pdb
 C:\GitHub\job\MobileProjects\ToDo\Services\PhotoTransfer.Services.DataServices\obj\Debug\PhotoTransfer.Services.DataServices.dll
 C:\GitHub\job\MobileProjects\ToDo\Services\PhotoTransfer.Services.DataServices\obj\Debug\PhotoTransfer.Services.DataServices.pdb
+D:\GitHub\job\MobileProjects\ToDo\Services\PhotoTransfer.Services.DataServices\bin\Debug\PhotoTransfer.Services.DataServices.dll
+D:\GitHub\job\MobileProjects\ToDo\Services\PhotoTransfer.Services.DataServices\bin\Debug\PhotoTransfer.Services.DataServices.pdb
+D:\GitHub\job\MobileProjects\ToDo\Services\PhotoTransfer.Services.DataServices\obj\Debug\PhotoTransfer.Services.DataServices.csprojResolveAssemblyReference.cache
+D:\GitHub\job\MobileProjects\ToDo\Services\PhotoTransfer.Services.DataServices\obj\Debug\PhotoTransfer.Services.DataServices.dll
+D:\GitHub\job\MobileProjects\ToDo\Services\PhotoTransfer.Services.DataServices\obj\Debug\PhotoTransfer.Services.DataServices.pdb

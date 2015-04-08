@@ -7,10 +7,10 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="5b5673e3-914b-495e-a123-2ff6239c38fd" Publisher="CN=acmyk" Version="1.0.0.0" ProcessorArchitecture="x86" />
+  <Identity Name="15618JoinLife.BestToDoList" Publisher="CN=26741AB4-FD13-4EF8-A56B-6CC3370DA35D" Version="1.1.0.6" ProcessorArchitecture="x86" />
   <Properties>
-    <DisplayName>ToDo.W8</DisplayName>
-    <PublisherDisplayName>dean</PublisherDisplayName>
+    <DisplayName>Best To Do List</DisplayName>
+    <PublisherDisplayName>JoinLife</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
   <Prerequisites>
@@ -22,17 +22,14 @@
   </Resources>
   <Applications>
     <Application Id="App" Executable="PhotoTransfer.W8.exe" EntryPoint="ToDo.W8.App">
-      <m2:VisualElements DisplayName="ToDo.W8" Square150x150Logo="Assets\Logo.png" Square30x30Logo="Assets\SmallLogo.png" Description="ToDo.W8" ForegroundText="light" BackgroundColor="#464646">
-        <m2:SplashScreen Image="Assets\SplashScreen.png" />
+      <m2:VisualElements DisplayName="Best ToDo List" Square150x150Logo="Assets\Logo.png" Square30x30Logo="Assets\SmallLogo.png" Description="Best ToDo List" ForegroundText="light" BackgroundColor="#464646">
+        <m2:DefaultTile ShortName="Best ToDo List"></m2:DefaultTile>
+        <m2:SplashScreen Image="Assets\SplashScreen.png" BackgroundColor="#5E6771" />
       </m2:VisualElements>
     </Application>
   </Applications>
   <Capabilities>
     <Capability Name="internetClient" />
-    <Capability Name="picturesLibrary" />
-    <DeviceCapability Name="webcam" />
-    <DeviceCapability Name="microphone" />
-    <DeviceCapability Name="location" />
   </Capabilities>
   <Dependencies>
     <PackageDependency Name="Microsoft.VCLibs.120.00.Debug" MinVersion="12.0.21005.1" />

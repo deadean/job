@@ -7,3 +7,8 @@ C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Common\bin\Debug\PhotoTransfer.C
 C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Common\bin\Debug\PhotoTransfer.Common.pdb
 C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Common\obj\Debug\PhotoTransfer.Common.dll
 C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Common\obj\Debug\PhotoTransfer.Common.pdb
+D:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Common\bin\Debug\PhotoTransfer.Common.dll
+D:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Common\bin\Debug\PhotoTransfer.Common.pdb
+D:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Common\obj\Debug\PhotoTransfer.Common.csprojResolveAssemblyReference.cache
+D:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Common\obj\Debug\PhotoTransfer.Common.dll
+D:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Common\obj\Debug\PhotoTransfer.Common.pdb

@@ -25,3 +25,17 @@ C:\GitHub\job\MobileProjects\ToDo\Library\bin\Debug\Microsoft.Practices.ServiceL
 C:\GitHub\job\MobileProjects\ToDo\Library\bin\Debug\Microsoft.Practices.ServiceLocation.xml
 C:\GitHub\job\MobileProjects\ToDo\Library\obj\Debug\Library.dll
 C:\GitHub\job\MobileProjects\ToDo\Library\obj\Debug\Library.pdb
+D:\GitHub\job\MobileProjects\ToDo\Library\bin\Debug\Library.dll
+D:\GitHub\job\MobileProjects\ToDo\Library\bin\Debug\Library.pdb
+D:\GitHub\job\MobileProjects\ToDo\Library\bin\Debug\GalaSoft.MvvmLight.dll
+D:\GitHub\job\MobileProjects\ToDo\Library\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\GitHub\job\MobileProjects\ToDo\Library\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\GitHub\job\MobileProjects\ToDo\Library\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\GitHub\job\MobileProjects\ToDo\Library\bin\Debug\GalaSoft.MvvmLight.xml
+D:\GitHub\job\MobileProjects\ToDo\Library\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\GitHub\job\MobileProjects\ToDo\Library\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\GitHub\job\MobileProjects\ToDo\Library\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\GitHub\job\MobileProjects\ToDo\Library\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\GitHub\job\MobileProjects\ToDo\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+D:\GitHub\job\MobileProjects\ToDo\Library\obj\Debug\Library.dll
+D:\GitHub\job\MobileProjects\ToDo\Library\obj\Debug\Library.pdb

@@ -1,148 +1,142 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>DEAN</Machine>
-    <WindowsUser>dean</WindowsUser>
+    <Machine>WE-04</Machine>
+    <WindowsUser>acmyk</WindowsUser>
     <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
     <SolutionConfiguration>Debug|x86</SolutionConfiguration>
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>e6326c75-fa1a-419a-aba9-a7a8e8d7f384</PackageIdentityName>
-    <IntermediateOutputPath>C:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\WP\PhotoTransfer.WP\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>D:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\WP\PhotoTransfer.WP\obj\x86\Debug\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\WP\PhotoTransfer.WP\bin\x86\Debug\AppxManifest.xml">
+    <AppXManifest Include="D:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\WP\PhotoTransfer.WP\bin\x86\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\WP\PhotoTransfer.WP\bin\x86\Debug\PhotoTransfer.WP.exe">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\WP\PhotoTransfer.WP\bin\x86\Debug\PhotoTransfer.WP.exe">
       <PackagePath>PhotoTransfer.WP.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\packages\Portable.MvvmLightLibs.5.0.2.0\lib\wpa81\GalaSoft.MvvmLight.dll">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\ToDo\packages\Portable.MvvmLightLibs.5.0.2.0\lib\wpa81\GalaSoft.MvvmLight.dll">
       <PackagePath>GalaSoft.MvvmLight.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\packages\Portable.MvvmLightLibs.5.0.2.0\lib\wpa81\GalaSoft.MvvmLight.Extras.dll">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\ToDo\packages\Portable.MvvmLightLibs.5.0.2.0\lib\wpa81\GalaSoft.MvvmLight.Extras.dll">
       <PackagePath>GalaSoft.MvvmLight.Extras.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\packages\Portable.MvvmLightLibs.5.0.2.0\lib\wpa81\GalaSoft.MvvmLight.Platform.dll">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\ToDo\packages\Portable.MvvmLightLibs.5.0.2.0\lib\wpa81\GalaSoft.MvvmLight.Platform.dll">
       <PackagePath>GalaSoft.MvvmLight.Platform.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\Library\bin\Debug\Library.dll">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\ToDo\Library\bin\Debug\Library.dll">
       <PackagePath>Library.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\packages\CommonServiceLocator.1.3\lib\portable-net4+sl5+netcore45+wpa81+wp8\Microsoft.Practices.ServiceLocation.dll">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\ToDo\packages\CommonServiceLocator.1.3\lib\portable-net4+sl5+netcore45+wpa81+wp8\Microsoft.Practices.ServiceLocation.dll">
       <PackagePath>Microsoft.Practices.ServiceLocation.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\packages\Newtonsoft.Json.6.0.8\lib\portable-net40+sl5+wp80+win8+wpa81\Newtonsoft.Json.dll">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\ToDo\packages\Newtonsoft.Json.6.0.8\lib\portable-net40+sl5+wp80+win8+wpa81\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Common\bin\Debug\PhotoTransfer.Common.dll">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Common\bin\Debug\PhotoTransfer.Common.dll">
       <PackagePath>PhotoTransfer.Common.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Data\bin\Debug\PhotoTransfer.Data.dll">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.Data\bin\Debug\PhotoTransfer.Data.dll">
       <PackagePath>PhotoTransfer.Data.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\Services\PhotoTransfer.Services.DataBases\bin\Debug\PhotoTransfer.Services.DataBases.dll">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\ToDo\Services\PhotoTransfer.Services.DataBases\bin\Debug\PhotoTransfer.Services.DataBases.dll">
       <PackagePath>PhotoTransfer.Services.DataBases.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\Services\PhotoTransfer.Services.WebService\bin\Debug\PhotoTransfer.Services.WebService.dll">
-      <PackagePath>PhotoTransfer.Services.WebService.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\UI\Common\PhotoTransfer.Shared.Common\bin\Debug\PhotoTransfer.UI.Common.dll">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\ToDo\UI\Common\PhotoTransfer.Shared.Common\bin\Debug\PhotoTransfer.UI.Common.dll">
       <PackagePath>PhotoTransfer.UI.Common.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.UI.Common.VVms\bin\Debug\PhotoTransfer.UI.Common.VVms.dll">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.UI.Common.VVms\bin\Debug\PhotoTransfer.UI.Common.VVms.dll">
       <PackagePath>PhotoTransfer.UI.Common.VVms.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\UI\Data\PhotoTransfer.WP.Data\bin\Debug\PhotoTransfer.UI.Data.dll">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\ToDo\UI\Data\PhotoTransfer.WP.Data\bin\Debug\PhotoTransfer.UI.Data.dll">
       <PackagePath>PhotoTransfer.UI.Data.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\UI\DataBases\PhotoTransfer.UI.DataBases\bin\Debug\PhotoTransfer.UI.DataBases.dll">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\ToDo\UI\DataBases\PhotoTransfer.UI.DataBases\bin\Debug\PhotoTransfer.UI.DataBases.dll">
       <PackagePath>PhotoTransfer.UI.DataBases.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\PhotoTransfer.WP.Data\bin\Debug\PhotoTransfer.UI.UniversalApps.Data.dll">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\PhotoTransfer.WP.Data\bin\Debug\PhotoTransfer.UI.UniversalApps.Data.dll">
       <PackagePath>PhotoTransfer.UI.UniversalApps.Data.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\PhotoTransfer.UI.UniversalApps.DataBases\bin\Debug\PhotoTransfer.UI.UniversalApps.DataBases.dll">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\PhotoTransfer.UI.UniversalApps.DataBases\bin\Debug\PhotoTransfer.UI.UniversalApps.DataBases.dll">
       <PackagePath>PhotoTransfer.UI.UniversalApps.DataBases.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\PhotoTransfer.UI.UniversalApps.Services\bin\Debug\PhotoTransfer.UI.UniversalApps.Services.dll">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\PhotoTransfer.UI.UniversalApps.Services\bin\Debug\PhotoTransfer.UI.UniversalApps.Services.dll">
       <PackagePath>PhotoTransfer.UI.UniversalApps.Services.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\PhotoTransfer.UI.UniversalApps.Services.WebService.Oracle\bin\Debug\PhotoTransfer.UI.UniversalApps.Services.WebService.Oracle.dll">
-      <PackagePath>PhotoTransfer.UI.UniversalApps.Services.WebService.Oracle.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\PhotoTransfer.UI.UniversalApps.UI.Common\bin\Debug\PhotoTransfer.UI.UniversalApps.UI.Common.dll">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\PhotoTransfer.UI.UniversalApps.UI.Common\bin\Debug\PhotoTransfer.UI.UniversalApps.UI.Common.dll">
       <PackagePath>PhotoTransfer.UI.UniversalApps.UI.Common.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\UI\Services\PhotoTransfer.Windows.Services\bin\Debug\PhotoTransfer.WP.Services.dll">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\ToDo\UI\Services\PhotoTransfer.Windows.Services\bin\Debug\PhotoTransfer.WP.Services.dll">
       <PackagePath>PhotoTransfer.WP.Services.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\packages\SQLite.Net.Async-PCL.2.5.1\lib\portable-win8+net45+wp8+wpa81+MonoAndroid1+MonoTouch1\SQLite.Net.Async.dll">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\ToDo\packages\SQLite.Net.Async-PCL.2.5.1\lib\portable-win8+net45+wp8+wpa81+MonoAndroid1+MonoTouch1\SQLite.Net.Async.dll">
       <PackagePath>SQLite.Net.Async.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\packages\SQLite.Net-PCL.2.5.1\lib\portable-win8+net45+wp8+wpa81+MonoAndroid1+MonoTouch1\SQLite.Net.dll">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\ToDo\packages\SQLite.Net-PCL.2.5.1\lib\portable-win8+net45+wp8+wpa81+MonoAndroid1+MonoTouch1\SQLite.Net.dll">
       <PackagePath>SQLite.Net.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\packages\SQLite.Net.Platform.WinRT.2.5.1\lib\portable-win81+wpa81\SQLite.Net.Platform.WinRT.dll">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\ToDo\packages\SQLite.Net.Platform.WinRT.2.5.1\lib\portable-win81+wpa81\SQLite.Net.Platform.WinRT.dll">
       <PackagePath>SQLite.Net.Platform.WinRT.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\packages\SQLiteNetExtensions.1.2.3\lib\portable-net45+netcore45+wpa81+wp8+MonoAndroid1+MonoTouch1\SQLiteNetExtensions.dll">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\ToDo\packages\SQLiteNetExtensions.1.2.3\lib\portable-net45+netcore45+wpa81+wp8+MonoAndroid1+MonoTouch1\SQLiteNetExtensions.dll">
       <PackagePath>SQLiteNetExtensions.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\packages\SQLiteNetExtensions.Async.1.2.3\lib\portable-net45+netcore45+wpa81+wp8+MonoAndroid1+MonoTouch1\SQLiteNetExtensionsAsync.dll">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\ToDo\packages\SQLiteNetExtensions.Async.1.2.3\lib\portable-net45+netcore45+wpa81+wp8+MonoAndroid1+MonoTouch1\SQLiteNetExtensionsAsync.dll">
       <PackagePath>SQLiteNetExtensionsAsync.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\packages\Xamarin.Forms.1.3.2.6316\lib\portable-win+net45+wp80+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.Core.dll">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\ToDo\packages\Xamarin.Forms.1.3.2.6316\lib\portable-win+net45+wp80+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.Core.dll">
       <PackagePath>Xamarin.Forms.Core.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\packages\Xamarin.Forms.1.3.2.6316\lib\portable-win+net45+wp80+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.Xaml.dll">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\ToDo\packages\Xamarin.Forms.1.3.2.6316\lib\portable-win+net45+wp80+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.Xaml.dll">
       <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\SQLite.WP81\3.8.8.1\Redist\Debug\x86\sqlite3.dll">
       <PackagePath>sqlite3.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\WP\PhotoTransfer.WP\Assets\Logo.scale-240.png">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\WP\PhotoTransfer.WP\Assets\Logo.scale-240.png">
       <PackagePath>Assets\Logo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\WP\PhotoTransfer.WP\Assets\SmallLogo.scale-240.png">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\WP\PhotoTransfer.WP\Assets\SmallLogo.scale-240.png">
       <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\WP\PhotoTransfer.WP\Assets\SplashScreen.scale-240.png">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\WP\PhotoTransfer.WP\Assets\SplashScreen.scale-240.png">
       <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\WP\PhotoTransfer.WP\Assets\Square71x71Logo.scale-240.png">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\WP\PhotoTransfer.WP\Assets\Square71x71Logo.scale-240.png">
       <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\WP\PhotoTransfer.WP\Assets\StoreLogo.scale-240.png">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\WP\PhotoTransfer.WP\Assets\StoreLogo.scale-240.png">
       <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\WP\PhotoTransfer.WP\Assets\WideLogo.scale-240.png">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\WP\PhotoTransfer.WP\Assets\WideLogo.scale-240.png">
       <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\WP\PhotoTransfer.WP\StoreManifest.xml">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\WP\PhotoTransfer.WP\StoreManifest.xml">
       <PackagePath>StoreManifest.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\WP\PhotoTransfer.WP\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\WP\PhotoTransfer.WP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\WP\PhotoTransfer.WP\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\WP\PhotoTransfer.WP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\WP\PhotoTransfer.WP\bin\x86\Debug\Resources\Styles\Styles.xbf">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\WP\PhotoTransfer.WP\bin\x86\Debug\Resources\Styles\Styles.xbf">
       <PackagePath>Resources\Styles\Styles.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\WP\PhotoTransfer.WP\bin\x86\Debug\PhotoTransfer.WP.xr.xml">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\WP\PhotoTransfer.WP\bin\x86\Debug\PhotoTransfer.WP.xr.xml">
       <PackagePath>PhotoTransfer.WP.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\WP\PhotoTransfer.WP\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\ToDo\UI\UniversalApps\WP\PhotoTransfer.WP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
