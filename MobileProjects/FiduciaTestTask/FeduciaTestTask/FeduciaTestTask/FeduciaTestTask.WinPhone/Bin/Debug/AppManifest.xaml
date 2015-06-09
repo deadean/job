@@ -1,0 +1,28 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="FeduciaTestTask.WinPhone" EntryPointType="FeduciaTestTask.WinPhone.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="FeduciaTestTask.WinPhone" Source="FeduciaTestTask.WinPhone.dll" />
+    <AssemblyPart x:Name="ExifLib" Source="ExifLib.dll" />
+    <AssemblyPart x:Name="FeduciaTestTask" Source="FeduciaTestTask.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls.Toolkit" Source="Microsoft.Phone.Controls.Toolkit.dll" />
+    <AssemblyPart x:Name="WPControls" Source="WPControls.dll" />
+    <AssemblyPart x:Name="Xamarin.Forms.Core" Source="Xamarin.Forms.Core.dll" />
+    <AssemblyPart x:Name="Xamarin.Forms.Platform" Source="Xamarin.Forms.Platform.dll" />
+    <AssemblyPart x:Name="Xamarin.Forms.Platform.WP8" Source="Xamarin.Forms.Platform.WP8.dll" />
+    <AssemblyPart x:Name="Xamarin.Forms.Xaml" Source="Xamarin.Forms.Xaml.dll" />
+    <AssemblyPart x:Name="XLabs.Core" Source="XLabs.Core.dll" />
+    <AssemblyPart x:Name="XLabs.Forms" Source="XLabs.Forms.dll" />
+    <AssemblyPart x:Name="XLabs.Forms.WP8" Source="XLabs.Forms.WP8.dll" />
+    <AssemblyPart x:Name="XLabs.Ioc" Source="XLabs.Ioc.dll" />
+    <AssemblyPart x:Name="XLabs.Platform" Source="XLabs.Platform.dll" />
+    <AssemblyPart x:Name="XLabs.Platform.WP8" Source="XLabs.Platform.WP8.dll" />
+    <AssemblyPart x:Name="XLabs.Serialization" Source="XLabs.Serialization.dll" />
+    <AssemblyPart x:Name="FeduciaTestTask.UI.Common.Views" Source="FeduciaTestTask.UI.Common.Views.dll" />
+    <AssemblyPart x:Name="Microsoft.Practices.ServiceLocation" Source="Microsoft.Practices.ServiceLocation.dll" />
+    <AssemblyPart x:Name="FeduciaTestTask.UI.Common.VVms" Source="FeduciaTestTask.UI.Common.VVms.dll" />
+    <AssemblyPart x:Name="GalaSoft.MvvmLight.Extras" Source="GalaSoft.MvvmLight.Extras.dll" />
+    <AssemblyPart x:Name="System.Windows.Interactivity" Source="System.Windows.Interactivity.dll" />
+    <AssemblyPart x:Name="Library" Source="Library.dll" />
+    <AssemblyPart x:Name="FeduciaTestTask.UI.Common" Source="FeduciaTestTask.UI.Common.dll" />
+    <AssemblyPart x:Name="FeduciaTestTask.Services" Source="FeduciaTestTask.Services.dll" />
+  </Deployment.Parts>
+</Deployment>
