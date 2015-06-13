@@ -624,6 +624,3 @@ namespace FeduciaTestTask.WinRT.Tablet.FeduciaTestTask_WinRT_Tablet_XamlTypeInfo
 }
 
 
-
-
-

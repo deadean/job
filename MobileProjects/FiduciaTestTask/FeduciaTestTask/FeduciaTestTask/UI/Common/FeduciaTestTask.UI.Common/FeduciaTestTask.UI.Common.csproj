@@ -35,7 +35,11 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Implementations\CustomNavigationService.cs" />
+    <Compile Include="Interfaces\Bases\IPageVm.cs" />
+    <Compile Include="Interfaces\DependencyBlocks\IBaseDependencyBlock.cs" />
+    <Compile Include="Interfaces\DependencyBlocks\IMainPageDependencyBlock.cs" />
     <Compile Include="Interfaces\ViewModels\IMainPageVm.cs" />
+    <Compile Include="Interfaces\ViewModels\IModificationsPageVm.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

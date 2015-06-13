@@ -1,0 +1,17 @@
+E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Services\FeduciaTestTask.UI.Services\obj\Debug\FeduciaTestTask.UI.Services.csprojResolveAssemblyReference.cache
+E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Services\FeduciaTestTask.UI.Services\bin\Debug\FeduciaTestTask.UI.Services.dll
+E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Services\FeduciaTestTask.UI.Services\bin\Debug\FeduciaTestTask.UI.Services.pdb
+E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Services\FeduciaTestTask.UI.Services\bin\Debug\FeduciaTestTask.Services.dll
+E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Services\FeduciaTestTask.UI.Services\bin\Debug\Xamarin.Forms.Core.dll
+E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Services\FeduciaTestTask.UI.Services\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Services\FeduciaTestTask.UI.Services\bin\Debug\FeduciaTestTask.Services.pdb
+E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Services\FeduciaTestTask.UI.Services\bin\Debug\Xamarin.Forms.Core.xml
+E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Services\FeduciaTestTask.UI.Services\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Services\FeduciaTestTask.UI.Services\obj\Debug\FeduciaTestTask.UI.Services.dll
+E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Services\FeduciaTestTask.UI.Services\obj\Debug\FeduciaTestTask.UI.Services.pdb
+E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Services\FeduciaTestTask.UI.Services\bin\Debug\Newtonsoft.Json.dll
+E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Services\FeduciaTestTask.UI.Services\bin\Debug\Newtonsoft.Json.xml
+E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Services\FeduciaTestTask.UI.Services\bin\Debug\FeduciaTestTask.FeduciaTestTask.Data.dll
+E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Services\FeduciaTestTask.UI.Services\bin\Debug\FeduciaTestTask.FeduciaTestTask.Data.pdb
+E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Services\FeduciaTestTask.UI.Services\bin\Debug\FeduciaTestTask.UI.Data.dll
+E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Services\FeduciaTestTask.UI.Services\bin\Debug\FeduciaTestTask.UI.Data.pdb

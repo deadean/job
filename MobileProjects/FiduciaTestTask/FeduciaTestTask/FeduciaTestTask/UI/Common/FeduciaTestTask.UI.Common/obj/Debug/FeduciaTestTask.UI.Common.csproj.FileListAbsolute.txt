@@ -23,3 +23,5 @@ E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTas
 E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Common\FeduciaTestTask.UI.Common\bin\Debug\XLabs.Serialization.xml
 E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Common\FeduciaTestTask.UI.Common\bin\Debug\Library.dll
 E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Common\FeduciaTestTask.UI.Common\bin\Debug\Library.pdb
+E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Common\FeduciaTestTask.UI.Common\bin\Debug\FeduciaTestTask.FeduciaTestTask.Data.dll
+E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Common\FeduciaTestTask.UI.Common\bin\Debug\FeduciaTestTask.FeduciaTestTask.Data.pdb

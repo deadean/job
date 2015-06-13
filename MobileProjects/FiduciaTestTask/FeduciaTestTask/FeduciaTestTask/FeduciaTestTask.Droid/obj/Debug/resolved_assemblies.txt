@@ -64,9 +64,13 @@ C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Xml.XDocument.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Xml.XmlSerializer.dll
 E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask.Droid\bin\Debug\FeduciaTestTask.UI.Common.Views.dll
+E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask.Droid\bin\Debug\GalaSoft.MvvmLight.Extras.dll
 E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask.Droid\bin\Debug\Microsoft.Practices.ServiceLocation.dll
 E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask.Droid\bin\Debug\FeduciaTestTask.UI.Common.VVms.dll
-E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask.Droid\bin\Debug\Library.dll
 E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask.Droid\bin\Debug\FeduciaTestTask.UI.Common.dll
 E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask.Droid\bin\Debug\FeduciaTestTask.Services.dll
-E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask.Droid\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask.Droid\bin\Debug\Library.dll
+E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask.Droid\bin\Debug\FeduciaTestTask.UI.Services.dll
+E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask.Droid\bin\Debug\Newtonsoft.Json.dll
+E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask.Droid\bin\Debug\FeduciaTestTask.UI.Data.dll
+E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask.Droid\bin\Debug\FeduciaTestTask.FeduciaTestTask.Data.dll

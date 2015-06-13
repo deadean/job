@@ -120,3 +120,11 @@ E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTas
 E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask.WinPhone\Bin\Debug\Library.pdb
 E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask.WinPhone\Bin\Debug\FeduciaTestTask.UI.Common.pdb
 E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask.WinPhone\Bin\Debug\FeduciaTestTask.Services.pdb
+E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask.WinPhone\Bin\Debug\FeduciaTestTask.UI.Services.dll
+E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask.WinPhone\Bin\Debug\Newtonsoft.Json.dll
+E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask.WinPhone\Bin\Debug\FeduciaTestTask.UI.Data.dll
+E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask.WinPhone\Bin\Debug\FeduciaTestTask.FeduciaTestTask.Data.dll
+E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask.WinPhone\Bin\Debug\FeduciaTestTask.UI.Services.pdb
+E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask.WinPhone\Bin\Debug\Newtonsoft.Json.xml
+E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask.WinPhone\Bin\Debug\FeduciaTestTask.UI.Data.pdb
+E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask.WinPhone\Bin\Debug\FeduciaTestTask.FeduciaTestTask.Data.pdb

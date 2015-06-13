@@ -12,6 +12,7 @@ namespace FeduciaTestTask.UI.Common.Views.Implementations.Views.Pages
 	{
 		public MainPage()
 		{
+			//Entry.pl
 			InitializeComponent();
 		}
 	}

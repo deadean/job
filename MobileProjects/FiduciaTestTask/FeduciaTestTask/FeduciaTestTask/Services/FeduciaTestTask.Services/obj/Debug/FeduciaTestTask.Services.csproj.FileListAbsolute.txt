@@ -7,3 +7,5 @@ E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTas
 E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\Services\FeduciaTestTask.Services\obj\Debug\FeduciaTestTask.Services.csprojResolveAssemblyReference.cache
 E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\Services\FeduciaTestTask.Services\obj\Debug\FeduciaTestTask.Services.dll
 E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\Services\FeduciaTestTask.Services\obj\Debug\FeduciaTestTask.Services.pdb
+E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\Services\FeduciaTestTask.Services\bin\Debug\FeduciaTestTask.FeduciaTestTask.Data.dll
+E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\Services\FeduciaTestTask.Services\bin\Debug\FeduciaTestTask.FeduciaTestTask.Data.pdb

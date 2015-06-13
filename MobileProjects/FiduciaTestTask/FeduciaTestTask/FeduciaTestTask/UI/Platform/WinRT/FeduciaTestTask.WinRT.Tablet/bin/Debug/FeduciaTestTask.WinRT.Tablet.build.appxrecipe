@@ -55,12 +55,6 @@
     <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask\bin\Debug\FeduciaTestTask.UI.Common.Views.dll">
       <PackagePath>FeduciaTestTask.UI.Common.Views.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask\bin\Debug\Microsoft.Practices.ServiceLocation.dll">
-      <PackagePath>Microsoft.Practices.ServiceLocation.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask\bin\Debug\FeduciaTestTask.UI.Common.VVms.dll">
-      <PackagePath>FeduciaTestTask.UI.Common.VVms.dll</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask\bin\Debug\GalaSoft.MvvmLight.Extras.dll">
       <PackagePath>GalaSoft.MvvmLight.Extras.dll</PackagePath>
     </AppxPackagedFile>
@@ -70,8 +64,26 @@
     <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask\bin\Debug\FeduciaTestTask.UI.Common.dll">
       <PackagePath>FeduciaTestTask.UI.Common.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask\bin\Debug\FeduciaTestTask.UI.Common.VVms.dll">
+      <PackagePath>FeduciaTestTask.UI.Common.VVms.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask\bin\Debug\Microsoft.Practices.ServiceLocation.dll">
+      <PackagePath>Microsoft.Practices.ServiceLocation.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask\bin\Debug\FeduciaTestTask.UI.Services.dll">
+      <PackagePath>FeduciaTestTask.UI.Services.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask\bin\Debug\FeduciaTestTask.FeduciaTestTask.Data.dll">
+      <PackagePath>FeduciaTestTask.FeduciaTestTask.Data.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask\bin\Debug\Library.dll">
       <PackagePath>Library.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask\bin\Debug\FeduciaTestTask.UI.Data.dll">
+      <PackagePath>FeduciaTestTask.UI.Data.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask\bin\Debug\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Platform\WinRT\FeduciaTestTask.WinRT.Tablet\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>

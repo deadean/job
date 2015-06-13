@@ -2,5 +2,33 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="FeduciaTestTask.UI.Common.Views.Implementations.Views.Pages.MainPage">
-	<Label Text="Hello" VerticalOptions="Center" HorizontalOptions="Center" />
+  <Grid>
+    <Grid.RowDefinitions>
+      <RowDefinition Height="*"/>
+      <RowDefinition Height="*"/>
+      <RowDefinition Height="*"/>
+    </Grid.RowDefinitions>
+
+    <Grid.ColumnDefinitions>
+      <ColumnDefinition Width="*"/>
+      <ColumnDefinition Width="*"/>
+      <ColumnDefinition Width="*"/>
+    </Grid.ColumnDefinitions>
+
+    <Grid Grid.Row="1" Grid.Column="1">
+
+      <Grid.RowDefinitions>
+        <RowDefinition Height="30"/>
+        <RowDefinition Height="*"/>
+        <RowDefinition Height="50"/>
+      </Grid.RowDefinitions>
+
+      <Label Grid.Row="0" Text="Enter Customer Code. E.g SCNCO." FontSize="15"/>
+      <Entry Grid.Row="1" Placeholder="Customer Code"/>
+      <Button Grid.Row="2" Text="Send" WidthRequest="50" Command="{Binding SendRequestCommand}" /> 
+
+    </Grid>
+
+
+  </Grid>
 </ContentPage>

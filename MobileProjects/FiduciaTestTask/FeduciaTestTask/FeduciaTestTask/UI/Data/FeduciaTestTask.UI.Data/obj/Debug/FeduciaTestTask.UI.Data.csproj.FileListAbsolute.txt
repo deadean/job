@@ -1,0 +1,11 @@
+E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Data\FeduciaTestTask.UI.Data\bin\Debug\FeduciaTestTask.UI.Data.dll
+E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Data\FeduciaTestTask.UI.Data\bin\Debug\FeduciaTestTask.UI.Data.pdb
+E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Data\FeduciaTestTask.UI.Data\bin\Debug\FeduciaTestTask.FeduciaTestTask.Data.dll
+E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Data\FeduciaTestTask.UI.Data\bin\Debug\Xamarin.Forms.Core.dll
+E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Data\FeduciaTestTask.UI.Data\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Data\FeduciaTestTask.UI.Data\bin\Debug\FeduciaTestTask.FeduciaTestTask.Data.pdb
+E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Data\FeduciaTestTask.UI.Data\bin\Debug\Xamarin.Forms.Core.xml
+E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Data\FeduciaTestTask.UI.Data\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Data\FeduciaTestTask.UI.Data\obj\Debug\FeduciaTestTask.UI.Data.csprojResolveAssemblyReference.cache
+E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Data\FeduciaTestTask.UI.Data\obj\Debug\FeduciaTestTask.UI.Data.dll
+E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Data\FeduciaTestTask.UI.Data\obj\Debug\FeduciaTestTask.UI.Data.pdb

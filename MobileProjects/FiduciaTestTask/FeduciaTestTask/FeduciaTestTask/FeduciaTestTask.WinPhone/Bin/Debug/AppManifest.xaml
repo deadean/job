@@ -17,12 +17,16 @@
     <AssemblyPart x:Name="XLabs.Platform.WP8" Source="XLabs.Platform.WP8.dll" />
     <AssemblyPart x:Name="XLabs.Serialization" Source="XLabs.Serialization.dll" />
     <AssemblyPart x:Name="FeduciaTestTask.UI.Common.Views" Source="FeduciaTestTask.UI.Common.Views.dll" />
-    <AssemblyPart x:Name="Microsoft.Practices.ServiceLocation" Source="Microsoft.Practices.ServiceLocation.dll" />
-    <AssemblyPart x:Name="FeduciaTestTask.UI.Common.VVms" Source="FeduciaTestTask.UI.Common.VVms.dll" />
     <AssemblyPart x:Name="GalaSoft.MvvmLight.Extras" Source="GalaSoft.MvvmLight.Extras.dll" />
+    <AssemblyPart x:Name="FeduciaTestTask.UI.Common.VVms" Source="FeduciaTestTask.UI.Common.VVms.dll" />
+    <AssemblyPart x:Name="FeduciaTestTask.Services" Source="FeduciaTestTask.Services.dll" />
+    <AssemblyPart x:Name="FeduciaTestTask.UI.Common" Source="FeduciaTestTask.UI.Common.dll" />
+    <AssemblyPart x:Name="Microsoft.Practices.ServiceLocation" Source="Microsoft.Practices.ServiceLocation.dll" />
+    <AssemblyPart x:Name="FeduciaTestTask.UI.Services" Source="FeduciaTestTask.UI.Services.dll" />
     <AssemblyPart x:Name="System.Windows.Interactivity" Source="System.Windows.Interactivity.dll" />
     <AssemblyPart x:Name="Library" Source="Library.dll" />
-    <AssemblyPart x:Name="FeduciaTestTask.UI.Common" Source="FeduciaTestTask.UI.Common.dll" />
-    <AssemblyPart x:Name="FeduciaTestTask.Services" Source="FeduciaTestTask.Services.dll" />
+    <AssemblyPart x:Name="Newtonsoft.Json" Source="Newtonsoft.Json.dll" />
+    <AssemblyPart x:Name="FeduciaTestTask.UI.Data" Source="FeduciaTestTask.UI.Data.dll" />
+    <AssemblyPart x:Name="FeduciaTestTask.FeduciaTestTask.Data" Source="FeduciaTestTask.FeduciaTestTask.Data.dll" />
   </Deployment.Parts>
 </Deployment>

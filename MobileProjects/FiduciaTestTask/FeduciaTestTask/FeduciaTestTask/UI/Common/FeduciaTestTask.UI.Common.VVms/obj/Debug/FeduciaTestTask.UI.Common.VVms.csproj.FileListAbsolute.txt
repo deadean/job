@@ -25,3 +25,5 @@ E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTas
 E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Common\FeduciaTestTask.UI.Common.VVms\obj\Debug\FeduciaTestTask.UI.Common.VVms.pdb
 E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Common\FeduciaTestTask.UI.Common.VVms\bin\Debug\FeduciaTestTask.Services.dll
 E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Common\FeduciaTestTask.UI.Common.VVms\bin\Debug\FeduciaTestTask.Services.pdb
+E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Common\FeduciaTestTask.UI.Common.VVms\bin\Debug\FeduciaTestTask.FeduciaTestTask.Data.dll
+E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Common\FeduciaTestTask.UI.Common.VVms\bin\Debug\FeduciaTestTask.FeduciaTestTask.Data.pdb

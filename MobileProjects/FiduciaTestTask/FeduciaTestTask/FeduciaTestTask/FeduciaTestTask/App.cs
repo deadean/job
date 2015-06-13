@@ -1,7 +1,11 @@
 ﻿using FeduciaTestTask.Services.Interfaces.Navigation;
+using FeduciaTestTask.Services.Interfaces.WebService;
 using FeduciaTestTask.UI.Common.Implementations;
+using FeduciaTestTask.UI.Common.Interfaces.DependencyBlocks;
 using FeduciaTestTask.UI.Common.Views.Implementations.Views.Pages;
+using FeduciaTestTask.UI.Common.VVms.Implementations.DependenciesBlocks;
 using FeduciaTestTask.UI.Common.VVms.Implementations.ViewModels.Pages;
+using FeduciaTestTask.UI.Services.Implementations.WebService;
 using GalaSoft.MvvmLight.Ioc;
 using Microsoft.Practices.ServiceLocation;
 using System;
@@ -36,12 +40,7 @@ namespace FeduciaTestTask
 
 		private void Initialize()
 		{
-			var mainView = new MainPage
-			{
-				BindingContext = ServiceLocator.Current.GetInstance<MainPageVm>()
-			};
-
-			MainPage = new NavigationPage(mainView);
+			var mainView = new MainPage();
 
 			Resolver.Resolve<IDependencyContainer>()
 				.Register<INavigationService>(t => new NavigationService(mainView.Navigation));
@@ -51,7 +50,8 @@ namespace FeduciaTestTask
 
 			ConfigureNavigationService();
 
-			SimpleIoc.Default.GetInstance<ICustomNavigationService>().NavigateTo<MainPageVm>("Test");
+			mainView.BindingContext = SimpleIoc.Default.GetInstance<MainPageVm>();
+			MainPage = new NavigationPage(mainView);
 		}
 
 		private void ConfigureDependencyResolves()
@@ -78,12 +78,13 @@ namespace FeduciaTestTask
 
 		private static void ConfigureDependencyBlocks()
 		{
-			//SimpleIoc.Default.Register<IMainPageVmDependencyBlock, MainPageVmDependencyBlock>();
+			SimpleIoc.Default.Register<IMainPageDependencyBlock, MainPageDependencyBlock>();
 		}
 
 		private static void ConfigureDependencies()
 		{
 			//SimpleIoc.Default.Register<IObjectsByTypeFactory, ObjectsByTypeFactory>();
+			SimpleIoc.Default.Register<IWebService, WebService>();
 		}
 
 		private static void ConfigureDependenciesByDependencyService()
@@ -106,6 +107,7 @@ namespace FeduciaTestTask
 		private void ConfigureNavigationService()
 		{
 			ViewFactory.Register<MainPage, MainPageVm>();
+			ViewFactory.Register<ModificationsPage, ModificationsPageVm>();
 
 			//var navService = ServiceLocator.Current.GetInstance<INavigationServiceCommon<XamarinNavigationContext<ContentPage>>>();
 
