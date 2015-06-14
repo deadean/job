@@ -79,6 +79,7 @@ namespace FeduciaTestTask
 		private static void ConfigureDependencyBlocks()
 		{
 			SimpleIoc.Default.Register<IMainPageDependencyBlock, MainPageDependencyBlock>();
+			SimpleIoc.Default.Register<IModificationsPageDependnecyBlock, ModificationsPageDependencyBlock>();
 		}
 
 		private static void ConfigureDependencies()
@@ -108,6 +109,7 @@ namespace FeduciaTestTask
 		{
 			ViewFactory.Register<MainPage, MainPageVm>();
 			ViewFactory.Register<ModificationsPage, ModificationsPageVm>();
+			ViewFactory.Register<ModificationPage, ModificationPageVm>();
 
 			//var navService = ServiceLocator.Current.GetInstance<INavigationServiceCommon<XamarinNavigationContext<ContentPage>>>();
 

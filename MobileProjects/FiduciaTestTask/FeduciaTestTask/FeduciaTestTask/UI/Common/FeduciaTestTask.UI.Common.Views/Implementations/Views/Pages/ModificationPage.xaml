@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FeduciaTestTask.UI.Common.Views.Implementations.Views.Pages.ModificationPage">
+  <Grid>
+    <Grid.RowDefinitions>
+      <RowDefinition Height="30"/>
+      <RowDefinition Height="30"/>
+      <RowDefinition Height="30"/>
+      <RowDefinition Height="30"/>
+      <RowDefinition Height="30"/>
+      <RowDefinition Height="30"/>
+      <RowDefinition Height="30"/>
+    </Grid.RowDefinitions>
+    <Grid.ColumnDefinitions>
+      <ColumnDefinition Width="*" />
+      <ColumnDefinition Width="*" />
+    </Grid.ColumnDefinitions>
+
+    <Label Grid.Row="0" Grid.Column="0" Text="CompanyCode"/>
+    <Label Grid.Row="0" Grid.Column="1" Text="{Binding Modification.CompanyCode}"/>
+
+    <Label Grid.Row="1" Grid.Column="0" Text="Description"/>
+    <Label Grid.Row="1" Grid.Column="1" Text="{Binding Modification.Description}"/>
+
+    <Label Grid.Row="2" Grid.Column="0" Text="KeyName"/>
+    <Label Grid.Row="2" Grid.Column="1" Text="{Binding Modification.KeyName}"/>
+
+    <Label Grid.Row="3" Grid.Column="0" Text="ID"/>
+    <Label Grid.Row="3" Grid.Column="1" Text="{Binding Modification.ID}"/>
+
+    <Label Grid.Row="4" Grid.Column="0" Text="ModId"/>
+    <Label Grid.Row="4" Grid.Column="1" Text="{Binding Modification.ModId}"/>
+
+    <Label Grid.Row="5" Grid.Column="0" Text="Name"/>
+    <Label Grid.Row="5" Grid.Column="1" Text="{Binding Modification.Name}"/>
+
+    <Label Grid.Row="6" Grid.Column="0" Text="RequiresLookupUDF"/>
+    <Label Grid.Row="6" Grid.Column="1" Text="{Binding Modification.RequiresLookupUDF}"/>
+
+  </Grid>
+</ContentPage>

@@ -26,7 +26,7 @@
   <ItemGroup>
     <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Platform\WinRT\FeduciaTestTask.WinRT.Tablet\bin\Debug\FeduciaTestTask.WinRT.Tablet.exe">
       <PackagePath>FeduciaTestTask.WinRT.Tablet.exe</PackagePath>
-      <Modified>2015-06-13T18:53:32.646</Modified>
+      <Modified>2015-06-14T13:42:26.267</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\packages\ExifLib.PCL.1.0.1\lib\portable-net45+sl50+win+WindowsPhoneApp81+wp80+Xamarin.iOS10+MonoAndroid10+MonoTouch10\ExifLib.dll">
       <PackagePath>ExifLib.dll</PackagePath>
@@ -34,7 +34,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask\bin\Debug\FeduciaTestTask.dll">
       <PackagePath>FeduciaTestTask.dll</PackagePath>
-      <Modified>2015-06-13T18:53:28.570</Modified>
+      <Modified>2015-06-14T13:42:21.356</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\packages\Xamarin.Forms.Windows.1.4.2.6355\lib\win81\Xamarin.Forms.Core.dll">
       <PackagePath>Xamarin.Forms.Core.dll</PackagePath>
@@ -74,7 +74,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask\bin\Debug\FeduciaTestTask.UI.Common.Views.dll">
       <PackagePath>FeduciaTestTask.UI.Common.Views.dll</PackagePath>
-      <Modified>2015-06-13T18:49:50.340</Modified>
+      <Modified>2015-06-14T13:39:48.907</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask\bin\Debug\GalaSoft.MvvmLight.Extras.dll">
       <PackagePath>GalaSoft.MvvmLight.Extras.dll</PackagePath>
@@ -86,11 +86,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask\bin\Debug\FeduciaTestTask.UI.Common.dll">
       <PackagePath>FeduciaTestTask.UI.Common.dll</PackagePath>
-      <Modified>2015-06-13T18:49:51.471</Modified>
+      <Modified>2015-06-14T12:34:35.367</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask\bin\Debug\FeduciaTestTask.UI.Common.VVms.dll">
       <PackagePath>FeduciaTestTask.UI.Common.VVms.dll</PackagePath>
-      <Modified>2015-06-13T18:51:43.751</Modified>
+      <Modified>2015-06-14T13:42:17.074</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask\bin\Debug\Microsoft.Practices.ServiceLocation.dll">
       <PackagePath>Microsoft.Practices.ServiceLocation.dll</PackagePath>
@@ -182,7 +182,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Platform\WinRT\FeduciaTestTask.WinRT.Tablet\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-06-13T18:51:48.383</Modified>
+      <Modified>2015-06-14T13:40:07.859</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

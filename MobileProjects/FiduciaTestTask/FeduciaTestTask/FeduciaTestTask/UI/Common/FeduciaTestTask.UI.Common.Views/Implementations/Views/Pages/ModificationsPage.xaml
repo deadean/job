@@ -1,6 +1,31 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:controls="clr-namespace:FeduciaTestTask.UI.Common.Views.Implementations.Views.Controls"
              x:Class="FeduciaTestTask.UI.Common.Views.Implementations.Views.Pages.ModificationsPage">
-  <Label Text="Hello" VerticalOptions="Center" HorizontalOptions="Center" />
+  <StackLayout>
+    <StackLayout Orientation="Horizontal">
+      <Label Text="Current page :"/>  
+      <Label Text="{Binding CurrentPage}"/>  
+    </StackLayout>
+    
+    <StackLayout Orientation="Horizontal">
+      <Label Text="Total Count :"/>  
+      <Label Text="{Binding TotalCount}"/>  
+    </StackLayout>
+    
+    <StackLayout Orientation="Horizontal">
+      <Label Text="ErrorDescription :"/>  
+      <Label Text="{Binding ErrorDescription}"/>  
+    </StackLayout>
+
+    <controls:CustomListView ItemsSource="{Binding ModificationItems}" ItemClickCommand="{Binding ItemClickCommand}">
+      <ListView.ItemTemplate>
+        <DataTemplate>
+          <TextCell Text="{Binding Name}" Detail="{Binding Description}" />
+        </DataTemplate>
+      </ListView.ItemTemplate>
+    </controls:CustomListView>
+  </StackLayout>
+
 </ContentPage>
