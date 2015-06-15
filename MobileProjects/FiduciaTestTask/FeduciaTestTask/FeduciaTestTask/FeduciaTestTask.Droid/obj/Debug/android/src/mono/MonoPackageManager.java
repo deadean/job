@@ -135,14 +135,14 @@ class MonoPackageManager_Resources {
 		"FeduciaTestTask.UI.Common.Views.dll",
 		"GalaSoft.MvvmLight.Extras.dll",
 		"Microsoft.Practices.ServiceLocation.dll",
-		"FeduciaTestTask.UI.Common.VVms.dll",
-		"FeduciaTestTask.UI.Common.dll",
 		"FeduciaTestTask.Services.dll",
-		"Library.dll",
-		"FeduciaTestTask.UI.Services.dll",
-		"Newtonsoft.Json.dll",
-		"FeduciaTestTask.UI.Data.dll",
 		"FeduciaTestTask.FeduciaTestTask.Data.dll",
+		"FeduciaTestTask.UI.Common.dll",
+		"Library.dll",
+		"FeduciaTestTask.UI.Common.VVms.dll",
+		"FeduciaTestTask.UI.Services.dll",
+		"FeduciaTestTask.UI.Data.dll",
+		"Newtonsoft.Json.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};

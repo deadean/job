@@ -1,0 +1,5 @@
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask.WinPhone\obj\ARM\Debug\App.g.cs
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask.WinPhone\obj\ARM\Debug\MainPage.g.cs
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask.WinPhone\obj\ARM\Debug\FeduciaTestTask.WinPhone.g.resources
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask.WinPhone\obj\ARM\Debug\FeduciaTestTask.WinPhone.Resources.AppResources.resources
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask.WinPhone\obj\ARM\Debug\FeduciaTestTask.WinPhone.csproj.GenerateResource.Cache

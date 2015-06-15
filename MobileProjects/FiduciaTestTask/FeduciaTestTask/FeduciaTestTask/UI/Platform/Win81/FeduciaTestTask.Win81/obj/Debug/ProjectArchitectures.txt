@@ -1,0 +1,14 @@
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\Common\Library\Library.csproj;neutral
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\Common\Library\Library.csproj;neutral
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\Data\FeduciaTestTask.FeduciaTestTask.Data\FeduciaTestTask.FeduciaTestTask.Data.csproj;neutral
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\Data\FeduciaTestTask.FeduciaTestTask.Data\FeduciaTestTask.FeduciaTestTask.Data.csproj;neutral
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask.csproj;neutral
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\Services\FeduciaTestTask.Services\FeduciaTestTask.Services.csproj;neutral
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\Services\FeduciaTestTask.Services\FeduciaTestTask.Services.csproj;neutral
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Common\FeduciaTestTask.UI.Common.Views\FeduciaTestTask.UI.Common.Views.csproj;neutral
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Common\FeduciaTestTask.UI.Common.VVms\FeduciaTestTask.UI.Common.VVms.csproj;neutral
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Common\FeduciaTestTask.UI.Common\FeduciaTestTask.UI.Common.csproj;neutral
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Common\FeduciaTestTask.UI.Common\FeduciaTestTask.UI.Common.csproj;neutral
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Data\FeduciaTestTask.UI.Data\FeduciaTestTask.UI.Data.csproj;neutral
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Platform\Win81\FeduciaTestTask.Win81\FeduciaTestTask.Win81.csproj;neutral
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Services\FeduciaTestTask.UI.Services\FeduciaTestTask.UI.Services.csproj;neutral

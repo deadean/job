@@ -32,7 +32,6 @@ namespace FeduciaTestTask.UI.Services.Implementations.WebService
 		public async Task<IModifications> GetModificationsByCustomerCode(string customerCode)
 		{
 			HttpWebRequest request = (HttpWebRequest)HttpWebRequest.Create(String.Format(Constants.Constants.WebService.csDefaultUrl + "{0}", customerCode));
-			request.ContentType = "application/json";
 			request.Method = "GET";
 
 			TaskCompletionSource<int> tc = new TaskCompletionSource<int>();

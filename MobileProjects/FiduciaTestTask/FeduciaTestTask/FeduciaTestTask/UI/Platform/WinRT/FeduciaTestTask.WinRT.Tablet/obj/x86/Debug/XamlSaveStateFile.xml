@@ -1,0 +1,16 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="d:\github\job\mobileprojects\fiduciatesttask\feduciatesttask\feduciatesttask\ui\platform\winrt\feduciatesttask.winrt.tablet\obj\x86\debug\intermediatexaml\feduciatesttask.winrt.tablet.exe" HashGuid="fece54d9-95de-2f2e-0b3a-c61c4f20f593" />
+    <ReferenceAssembly PathName="d:\github\job\mobileprojects\fiduciatesttask\feduciatesttask\packages\exiflib.pcl.1.0.1\lib\portable-net45+sl50+win+windowsphoneapp81+wp80+xamarin.ios10+monoandroid10+monotouch10\exiflib.dll" HashGuid="de49909c-8ad4-7edb-2af2-aa6416b0b8d1" />
+    <ReferenceAssembly PathName="d:\github\job\mobileprojects\fiduciatesttask\feduciatesttask\feduciatesttask\feduciatesttask\bin\x86\debug\feduciatesttask.dll" HashGuid="1b8adba6-51ae-cb48-2a75-ed3a9ce9e555" />
+    <ReferenceAssembly PathName="d:\github\job\mobileprojects\fiduciatesttask\feduciatesttask\packages\xamarin.forms.windows.1.4.2.6355\lib\win81\xamarin.forms.core.dll" HashGuid="e2d6dc63-0037-c945-c78b-48be95ad3198" />
+    <ReferenceAssembly PathName="d:\github\job\mobileprojects\fiduciatesttask\feduciatesttask\packages\xamarin.forms.windows.1.4.2.6355\lib\win81\xamarin.forms.platform.winrt.dll" HashGuid="a8a52906-5a00-49e4-27c7-8300eb5fe657" />
+    <ReferenceAssembly PathName="d:\github\job\mobileprojects\fiduciatesttask\feduciatesttask\packages\xamarin.forms.windows.1.4.2.6355\lib\win81\xamarin.forms.platform.winrt.tablet.dll" HashGuid="7524daf8-d293-00c5-2750-e9704d373ede" />
+    <ReferenceAssembly PathName="d:\github\job\mobileprojects\fiduciatesttask\feduciatesttask\packages\xamarin.forms.windows.1.4.2.6355\lib\win81\xamarin.forms.xaml.dll" HashGuid="31dcdbc1-f401-3b44-c1f6-c25d08dd0160" />
+    <ReferenceAssembly PathName="d:\github\job\mobileprojects\fiduciatesttask\feduciatesttask\packages\xlabs.core.2.0.5610.2\lib\portable-net45+netcore45+wp8+monoandroid1+monotouch1\xlabs.core.dll" HashGuid="435a159d-db91-a6d9-236f-7189c00bda22" />
+    <ReferenceAssembly PathName="d:\github\job\mobileprojects\fiduciatesttask\feduciatesttask\packages\xlabs.forms.2.0.5610.2\lib\portable-net45+netcore45+wp8+monoandroid1+monotouch1\xlabs.forms.dll" HashGuid="b1597538-88f6-1901-c883-64462caeec3c" />
+    <ReferenceAssembly PathName="d:\github\job\mobileprojects\fiduciatesttask\feduciatesttask\packages\xlabs.ioc.2.0.5610.2\lib\portable-net45+netcore45+wp8+monoandroid1+monotouch1\xlabs.ioc.dll" HashGuid="1586fafc-68ad-85e1-9517-d5ebf6581150" />
+    <ReferenceAssembly PathName="d:\github\job\mobileprojects\fiduciatesttask\feduciatesttask\packages\xlabs.platform.2.0.5610.2\lib\portable-net45+netcore45+wp8+monoandroid1+monotouch1\xlabs.platform.dll" HashGuid="974b77fd-ad8e-9c5e-7b7a-e54839b71ac1" />
+    <ReferenceAssembly PathName="d:\github\job\mobileprojects\fiduciatesttask\feduciatesttask\packages\xlabs.serialization.2.0.5610.2\lib\portable-net45+netcore45+wp8+monoandroid1+monotouch1\xlabs.serialization.dll" HashGuid="ae5ad85b-c6d5-c960-1e81-8053201fe910" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

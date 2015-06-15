@@ -11,3 +11,16 @@ E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTas
 E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Common\FeduciaTestTask.UI.Common.Views\obj\Debug\ModificationsPage.xaml.g.cs
 E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Common\FeduciaTestTask.UI.Common.Views\obj\Debug\ModificationPage.xaml.g.cs
 E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Common\FeduciaTestTask.UI.Common.Views\obj\Debug\ListView.xaml.g.cs
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Common\FeduciaTestTask.UI.Common.Views\bin\Debug\FeduciaTestTask.UI.Common.Views.dll
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Common\FeduciaTestTask.UI.Common.Views\bin\Debug\FeduciaTestTask.UI.Common.Views.pdb
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Common\FeduciaTestTask.UI.Common.Views\bin\Debug\Xamarin.Forms.Core.dll
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Common\FeduciaTestTask.UI.Common.Views\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Common\FeduciaTestTask.UI.Common.Views\bin\Debug\Xamarin.Forms.Core.xml
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Common\FeduciaTestTask.UI.Common.Views\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Common\FeduciaTestTask.UI.Common.Views\obj\Debug\FeduciaTestTask.UI.Common.Views.csprojResolveAssemblyReference.cache
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Common\FeduciaTestTask.UI.Common.Views\obj\Debug\MainPage.xaml.g.cs
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Common\FeduciaTestTask.UI.Common.Views\obj\Debug\ModificationsPage.xaml.g.cs
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Common\FeduciaTestTask.UI.Common.Views\obj\Debug\ModificationPage.xaml.g.cs
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Common\FeduciaTestTask.UI.Common.Views\obj\Debug\ListView.xaml.g.cs
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Common\FeduciaTestTask.UI.Common.Views\obj\Debug\FeduciaTestTask.UI.Common.Views.dll
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Common\FeduciaTestTask.UI.Common.Views\obj\Debug\FeduciaTestTask.UI.Common.Views.pdb

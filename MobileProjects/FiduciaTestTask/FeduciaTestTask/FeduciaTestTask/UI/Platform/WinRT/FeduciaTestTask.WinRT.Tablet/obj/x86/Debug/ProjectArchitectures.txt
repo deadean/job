@@ -1,0 +1,14 @@
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\Common\Library\Library.csproj;x86
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\Common\Library\Library.csproj;x86
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\Data\FeduciaTestTask.FeduciaTestTask.Data\FeduciaTestTask.FeduciaTestTask.Data.csproj;x86
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\Data\FeduciaTestTask.FeduciaTestTask.Data\FeduciaTestTask.FeduciaTestTask.Data.csproj;x86
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask.csproj;x86
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\Services\FeduciaTestTask.Services\FeduciaTestTask.Services.csproj;x86
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\Services\FeduciaTestTask.Services\FeduciaTestTask.Services.csproj;x86
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Common\FeduciaTestTask.UI.Common.Views\FeduciaTestTask.UI.Common.Views.csproj;x86
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Common\FeduciaTestTask.UI.Common.VVms\FeduciaTestTask.UI.Common.VVms.csproj;x86
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Common\FeduciaTestTask.UI.Common\FeduciaTestTask.UI.Common.csproj;x86
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Common\FeduciaTestTask.UI.Common\FeduciaTestTask.UI.Common.csproj;x86
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Data\FeduciaTestTask.UI.Data\FeduciaTestTask.UI.Data.csproj;x86
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Platform\WinRT\FeduciaTestTask.WinRT.Tablet\FeduciaTestTask.WinRT.Tablet.csproj;x86
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Services\FeduciaTestTask.UI.Services\FeduciaTestTask.UI.Services.csproj;x86

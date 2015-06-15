@@ -9,3 +9,14 @@ E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTas
 E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\Services\FeduciaTestTask.Services\obj\Debug\FeduciaTestTask.Services.pdb
 E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\Services\FeduciaTestTask.Services\bin\Debug\FeduciaTestTask.FeduciaTestTask.Data.dll
 E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\Services\FeduciaTestTask.Services\bin\Debug\FeduciaTestTask.FeduciaTestTask.Data.pdb
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\Services\FeduciaTestTask.Services\bin\Debug\FeduciaTestTask.Services.dll
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\Services\FeduciaTestTask.Services\bin\Debug\FeduciaTestTask.Services.pdb
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\Services\FeduciaTestTask.Services\bin\Debug\FeduciaTestTask.FeduciaTestTask.Data.dll
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\Services\FeduciaTestTask.Services\bin\Debug\Xamarin.Forms.Core.dll
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\Services\FeduciaTestTask.Services\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\Services\FeduciaTestTask.Services\bin\Debug\FeduciaTestTask.FeduciaTestTask.Data.pdb
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\Services\FeduciaTestTask.Services\bin\Debug\Xamarin.Forms.Core.xml
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\Services\FeduciaTestTask.Services\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\Services\FeduciaTestTask.Services\obj\Debug\FeduciaTestTask.Services.csprojResolveAssemblyReference.cache
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\Services\FeduciaTestTask.Services\obj\Debug\FeduciaTestTask.Services.dll
+D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\Services\FeduciaTestTask.Services\obj\Debug\FeduciaTestTask.Services.pdb

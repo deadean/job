@@ -1,140 +1,140 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>АДМИН</Machine>
-    <WindowsUser>deadean</WindowsUser>
+    <Machine>WE-04</Machine>
+    <WindowsUser>acmyk</WindowsUser>
     <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>95c401a6-fdf6-425d-9d4e-2deb15b4eac5</PackageIdentityName>
-    <IntermediateOutputPath>E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Platform\WinRT\FeduciaTestTask.WinRT.Tablet\obj\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Platform\WinRT\FeduciaTestTask.WinRT.Tablet\obj\Debug\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Platform\WinRT\FeduciaTestTask.WinRT.Tablet\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Platform\WinRT\FeduciaTestTask.WinRT.Tablet\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Platform\WinRT\FeduciaTestTask.WinRT.Tablet\bin\Debug\FeduciaTestTask.WinRT.Tablet.exe">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Platform\WinRT\FeduciaTestTask.WinRT.Tablet\bin\Debug\FeduciaTestTask.WinRT.Tablet.exe">
       <PackagePath>FeduciaTestTask.WinRT.Tablet.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\packages\ExifLib.PCL.1.0.1\lib\portable-net45+sl50+win+WindowsPhoneApp81+wp80+Xamarin.iOS10+MonoAndroid10+MonoTouch10\ExifLib.dll">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\packages\ExifLib.PCL.1.0.1\lib\portable-net45+sl50+win+WindowsPhoneApp81+wp80+Xamarin.iOS10+MonoAndroid10+MonoTouch10\ExifLib.dll">
       <PackagePath>ExifLib.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask\bin\Debug\FeduciaTestTask.dll">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask\bin\Debug\FeduciaTestTask.dll">
       <PackagePath>FeduciaTestTask.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\packages\Xamarin.Forms.Windows.1.4.2.6355\lib\win81\Xamarin.Forms.Core.dll">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\packages\Xamarin.Forms.Windows.1.4.2.6355\lib\win81\Xamarin.Forms.Core.dll">
       <PackagePath>Xamarin.Forms.Core.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\packages\Xamarin.Forms.Windows.1.4.2.6355\lib\win81\Xamarin.Forms.Platform.WinRT.dll">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\packages\Xamarin.Forms.Windows.1.4.2.6355\lib\win81\Xamarin.Forms.Platform.WinRT.dll">
       <PackagePath>Xamarin.Forms.Platform.WinRT.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\packages\Xamarin.Forms.Windows.1.4.2.6355\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet.dll">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\packages\Xamarin.Forms.Windows.1.4.2.6355\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet.dll">
       <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\packages\Xamarin.Forms.Windows.1.4.2.6355\lib\win81\Xamarin.Forms.Xaml.dll">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\packages\Xamarin.Forms.Windows.1.4.2.6355\lib\win81\Xamarin.Forms.Xaml.dll">
       <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\packages\XLabs.Core.2.0.5610.2\lib\portable-net45+netcore45+wp8+MonoAndroid1+MonoTouch1\XLabs.Core.dll">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\packages\XLabs.Core.2.0.5610.2\lib\portable-net45+netcore45+wp8+MonoAndroid1+MonoTouch1\XLabs.Core.dll">
       <PackagePath>XLabs.Core.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\packages\XLabs.Forms.2.0.5610.2\lib\portable-net45+netcore45+wp8+MonoAndroid1+MonoTouch1\XLabs.Forms.dll">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\packages\XLabs.Forms.2.0.5610.2\lib\portable-net45+netcore45+wp8+MonoAndroid1+MonoTouch1\XLabs.Forms.dll">
       <PackagePath>XLabs.Forms.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\packages\XLabs.IoC.2.0.5610.2\lib\portable-net45+netcore45+wp8+MonoAndroid1+MonoTouch1\XLabs.Ioc.dll">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\packages\XLabs.IoC.2.0.5610.2\lib\portable-net45+netcore45+wp8+MonoAndroid1+MonoTouch1\XLabs.Ioc.dll">
       <PackagePath>XLabs.Ioc.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\packages\XLabs.Platform.2.0.5610.2\lib\portable-net45+netcore45+wp8+MonoAndroid1+MonoTouch1\XLabs.Platform.dll">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\packages\XLabs.Platform.2.0.5610.2\lib\portable-net45+netcore45+wp8+MonoAndroid1+MonoTouch1\XLabs.Platform.dll">
       <PackagePath>XLabs.Platform.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\packages\XLabs.Serialization.2.0.5610.2\lib\portable-net45+netcore45+wp8+MonoAndroid1+MonoTouch1\XLabs.Serialization.dll">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\packages\XLabs.Serialization.2.0.5610.2\lib\portable-net45+netcore45+wp8+MonoAndroid1+MonoTouch1\XLabs.Serialization.dll">
       <PackagePath>XLabs.Serialization.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask\bin\Debug\FeduciaTestTask.UI.Common.Views.dll">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask\bin\Debug\FeduciaTestTask.UI.Common.Views.dll">
       <PackagePath>FeduciaTestTask.UI.Common.Views.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask\bin\Debug\GalaSoft.MvvmLight.Extras.dll">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask\bin\Debug\GalaSoft.MvvmLight.Extras.dll">
       <PackagePath>GalaSoft.MvvmLight.Extras.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask\bin\Debug\FeduciaTestTask.Services.dll">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask\bin\Debug\FeduciaTestTask.Services.dll">
       <PackagePath>FeduciaTestTask.Services.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask\bin\Debug\FeduciaTestTask.UI.Common.dll">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask\bin\Debug\FeduciaTestTask.UI.Common.dll">
       <PackagePath>FeduciaTestTask.UI.Common.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask\bin\Debug\FeduciaTestTask.UI.Common.VVms.dll">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask\bin\Debug\FeduciaTestTask.UI.Common.VVms.dll">
       <PackagePath>FeduciaTestTask.UI.Common.VVms.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask\bin\Debug\Microsoft.Practices.ServiceLocation.dll">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask\bin\Debug\Microsoft.Practices.ServiceLocation.dll">
       <PackagePath>Microsoft.Practices.ServiceLocation.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask\bin\Debug\FeduciaTestTask.UI.Services.dll">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask\bin\Debug\FeduciaTestTask.UI.Services.dll">
       <PackagePath>FeduciaTestTask.UI.Services.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask\bin\Debug\FeduciaTestTask.FeduciaTestTask.Data.dll">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask\bin\Debug\FeduciaTestTask.FeduciaTestTask.Data.dll">
       <PackagePath>FeduciaTestTask.FeduciaTestTask.Data.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask\bin\Debug\Library.dll">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask\bin\Debug\Library.dll">
       <PackagePath>Library.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask\bin\Debug\FeduciaTestTask.UI.Data.dll">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask\bin\Debug\FeduciaTestTask.UI.Data.dll">
       <PackagePath>FeduciaTestTask.UI.Data.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask\bin\Debug\Newtonsoft.Json.dll">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\FeduciaTestTask\bin\Debug\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Platform\WinRT\FeduciaTestTask.WinRT.Tablet\Assets\Logo.scale-100.png">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Platform\WinRT\FeduciaTestTask.WinRT.Tablet\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Platform\WinRT\FeduciaTestTask.WinRT.Tablet\Assets\SmallLogo.scale-100.png">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Platform\WinRT\FeduciaTestTask.WinRT.Tablet\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Platform\WinRT\FeduciaTestTask.WinRT.Tablet\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Platform\WinRT\FeduciaTestTask.WinRT.Tablet\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Platform\WinRT\FeduciaTestTask.WinRT.Tablet\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Platform\WinRT\FeduciaTestTask.WinRT.Tablet\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Platform\WinRT\FeduciaTestTask.WinRT.Tablet\bin\Debug\App.xbf">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Platform\WinRT\FeduciaTestTask.WinRT.Tablet\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Platform\WinRT\FeduciaTestTask.WinRT.Tablet\bin\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Platform\WinRT\FeduciaTestTask.WinRT.Tablet\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Platform\WinRT\FeduciaTestTask.WinRT.Tablet\bin\Debug\FeduciaTestTask.WinRT.Tablet.xr.xml">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Platform\WinRT\FeduciaTestTask.WinRT.Tablet\bin\Debug\FeduciaTestTask.WinRT.Tablet.xr.xml">
       <PackagePath>FeduciaTestTask.WinRT.Tablet.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\packages\Xamarin.Forms.Windows.1.4.2.6355\lib\win81\Xamarin.Forms.Platform.WinRT\FormsTextBox.xbf">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\packages\Xamarin.Forms.Windows.1.4.2.6355\lib\win81\Xamarin.Forms.Platform.WinRT\FormsTextBox.xbf">
       <PackagePath>Xamarin.Forms.Platform.WinRT\FormsTextBox.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\packages\Xamarin.Forms.Windows.1.4.2.6355\lib\win81\Xamarin.Forms.Platform.WinRT\PageControl.xbf">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\packages\Xamarin.Forms.Windows.1.4.2.6355\lib\win81\Xamarin.Forms.Platform.WinRT\PageControl.xbf">
       <PackagePath>Xamarin.Forms.Platform.WinRT\PageControl.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\packages\Xamarin.Forms.Windows.1.4.2.6355\lib\win81\Xamarin.Forms.Platform.WinRT\Resources.xbf">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\packages\Xamarin.Forms.Windows.1.4.2.6355\lib\win81\Xamarin.Forms.Platform.WinRT\Resources.xbf">
       <PackagePath>Xamarin.Forms.Platform.WinRT\Resources.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\packages\Xamarin.Forms.Windows.1.4.2.6355\lib\win81\Xamarin.Forms.Platform.WinRT\StepperControl.xbf">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\packages\Xamarin.Forms.Windows.1.4.2.6355\lib\win81\Xamarin.Forms.Platform.WinRT\StepperControl.xbf">
       <PackagePath>Xamarin.Forms.Platform.WinRT\StepperControl.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\packages\Xamarin.Forms.Windows.1.4.2.6355\lib\win81\Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\packages\Xamarin.Forms.Windows.1.4.2.6355\lib\win81\Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml">
       <PackagePath>Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\packages\Xamarin.Forms.Windows.1.4.2.6355\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\TabletMergeControl.xbf">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\packages\Xamarin.Forms.Windows.1.4.2.6355\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\TabletMergeControl.xbf">
       <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\TabletMergeControl.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\packages\Xamarin.Forms.Windows.1.4.2.6355\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\TabletResources.xbf">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\packages\Xamarin.Forms.Windows.1.4.2.6355\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\TabletResources.xbf">
       <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\TabletResources.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\packages\Xamarin.Forms.Windows.1.4.2.6355\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\packages\Xamarin.Forms.Windows.1.4.2.6355\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml">
       <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Dean\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Platform\WinRT\FeduciaTestTask.WinRT.Tablet\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="D:\GitHub\job\MobileProjects\FiduciaTestTask\FeduciaTestTask\FeduciaTestTask\UI\Platform\WinRT\FeduciaTestTask.WinRT.Tablet\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
